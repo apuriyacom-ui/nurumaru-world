@@ -1,0 +1,2123 @@
+[
+  {
+    "id": "nurumaru",
+    "number": 1,
+    "name": "ぬるまる",
+    "englishName": "Nurumaru",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "tagline": "まんまるな目で、今日もぬるっと。",
+    "description": "とぼけた顔から、気持ちがだだ漏れ。うれしい日もしょんぼりな日も、ありのままの自分でそばにいてくれる、みんなのはじまり。",
+    "color": "#f8e9cf",
+    "traits": [
+      "まんまるの目",
+      "とぼけ顔",
+      "正直な気持ち"
+    ],
+    "main": "assets/characters/nurumaru/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/nurumaru/01.webp",
+        "caption": "そうなんだ〜"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/nurumaru/02.webp",
+        "caption": "なにそれ〜？"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/nurumaru/03.webp",
+        "caption": "もうねむい…"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/nurumaru/04.webp",
+        "caption": "ついたよ〜"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/nurumaru/05.webp",
+        "caption": "それはもうしかたない"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/nurumaru/06.webp",
+        "caption": "わくわくするね"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/nurumaru/07.webp",
+        "caption": "なんのことかな？"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/nurumaru/08.webp",
+        "caption": "やっちゃった！"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/nurumaru/09.webp",
+        "caption": "もういやだ〜"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/nurumaru/10.webp",
+        "caption": "かえるね〜"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/nurumaru/11.webp",
+        "caption": "もうしらない"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/nurumaru/12.webp",
+        "caption": "それはしらないなぁ"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/nurumaru/13.webp",
+        "caption": "限界です"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/nurumaru/14.webp",
+        "caption": "体調不良です"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/nurumaru/15.webp",
+        "caption": "ひま〜"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/nurumaru/16.webp",
+        "caption": "またね〜"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37087791/ja",
+    "availability": "available"
+  },
+  {
+    "id": "monyon",
+    "number": 2,
+    "name": "もにょん",
+    "englishName": "Monyon",
+    "group": "はじまりの仲間",
+    "temperament": "おっとり",
+    "tagline": "その耳、気持ちまでふにゃり。",
+    "description": "左右ちがうたれ耳と、やわらかそうなラベンダー色。急がないのが得意で、話を聞くときもお辞儀するときも、耳がそっとついてくる。",
+    "color": "#e7d5f5",
+    "traits": [
+      "たれ耳",
+      "もちもち",
+      "のんびり"
+    ],
+    "main": "assets/characters/monyon/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/monyon/01.webp",
+        "caption": "おはよう"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/monyon/02.webp",
+        "caption": "こんにちは"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/monyon/03.webp",
+        "caption": "ありがとう"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/monyon/04.webp",
+        "caption": "よろしくね"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/monyon/05.webp",
+        "caption": "了解です"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/monyon/06.webp",
+        "caption": "おつかれさま"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/monyon/07.webp",
+        "caption": "ごめんね"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/monyon/08.webp",
+        "caption": "おやすみ"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/monyon/09.webp",
+        "caption": "わくわく"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/monyon/10.webp",
+        "caption": "えっ？"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/monyon/11.webp",
+        "caption": "だいじょうぶ？"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/monyon/12.webp",
+        "caption": "ちょっとまって"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/monyon/13.webp",
+        "caption": "がんばる"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/monyon/14.webp",
+        "caption": "ひま〜"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/monyon/15.webp",
+        "caption": "またね"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/monyon/16.webp",
+        "caption": "そうなんだ〜"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37125992/ja",
+    "availability": "available"
+  },
+  {
+    "id": "pururi",
+    "number": 3,
+    "name": "ぷるり",
+    "englishName": "Pururi",
+    "group": "はじまりの仲間",
+    "temperament": "にぎやか",
+    "tagline": "うれしい予感で、ぷるっと。",
+    "description": "くるんと曲がったしずくの先まで、気持ちがぷるぷる。小さな体で大きくリアクションする、さわやかな水色のムードメーカー。",
+    "color": "#c6edf2",
+    "traits": [
+      "しずくの頭",
+      "ぷるぷる",
+      "大きな反応"
+    ],
+    "main": "assets/characters/pururi/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/pururi/01.webp",
+        "caption": "おはよう"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/pururi/02.webp",
+        "caption": "こんにちは"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/pururi/03.webp",
+        "caption": "ありがとう"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/pururi/04.webp",
+        "caption": "よろしくね"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/pururi/05.webp",
+        "caption": "了解です"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/pururi/06.webp",
+        "caption": "おつかれさま"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/pururi/07.webp",
+        "caption": "ごめんね"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/pururi/08.webp",
+        "caption": "おやすみ"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/pururi/09.webp",
+        "caption": "わくわく"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/pururi/10.webp",
+        "caption": "えっ？"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/pururi/11.webp",
+        "caption": "だいじょうぶ？"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/pururi/12.webp",
+        "caption": "ちょっとまって"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/pururi/13.webp",
+        "caption": "がんばる"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/pururi/14.webp",
+        "caption": "ひま〜"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/pururi/15.webp",
+        "caption": "またね"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/pururi/16.webp",
+        "caption": "そうなんだ〜"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37124360/ja",
+    "availability": "available"
+  },
+  {
+    "id": "mamepo",
+    "number": 4,
+    "name": "まめぽ",
+    "englishName": "Mamepo",
+    "group": "はじまりの仲間",
+    "temperament": "おっとり",
+    "tagline": "ちいさな芽から、いい一日。",
+    "description": "ピスタチオ色のまめみたいな体に、ぴょこんとふた葉。小さなことに気づくのが得意で、ありがとうを伝えるときは芽までうれしそう。",
+    "color": "#dceaa7",
+    "traits": [
+      "ふた葉",
+      "まめの体",
+      "やさしさ"
+    ],
+    "main": "assets/characters/mamepo/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/mamepo/01.webp",
+        "caption": "おはよう"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/mamepo/02.webp",
+        "caption": "こんにちは"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/mamepo/03.webp",
+        "caption": "ありがとう"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/mamepo/04.webp",
+        "caption": "よろしくね"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/mamepo/05.webp",
+        "caption": "了解です"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/mamepo/06.webp",
+        "caption": "おつかれさま"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/mamepo/07.webp",
+        "caption": "ごめんね"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/mamepo/08.webp",
+        "caption": "おやすみ"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/mamepo/09.webp",
+        "caption": "わくわく"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/mamepo/10.webp",
+        "caption": "えっ？"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/mamepo/11.webp",
+        "caption": "だいじょうぶ？"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/mamepo/12.webp",
+        "caption": "ちょっとまって"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/mamepo/13.webp",
+        "caption": "がんばる"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/mamepo/14.webp",
+        "caption": "ひま〜"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/mamepo/15.webp",
+        "caption": "またね"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/mamepo/16.webp",
+        "caption": "そうなんだ〜"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37129466/ja",
+    "availability": "available"
+  },
+  {
+    "id": "potepi",
+    "number": 5,
+    "name": "ぽてぴ",
+    "englishName": "Potepi",
+    "group": "はじまりの仲間",
+    "temperament": "にぎやか",
+    "tagline": "ころんと黄色、元気がぽてっ。",
+    "description": "まるっこい体と、小さな羽とオレンジの足。張り切るほど動きがぽてぽてするけれど、その一生懸命さがみんなを笑顔にしてくれる。",
+    "color": "#fff0a8",
+    "traits": [
+      "ちいさな羽",
+      "ぽてぽて",
+      "一生懸命"
+    ],
+    "main": "assets/characters/potepi/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/potepi/01.webp",
+        "caption": "おはよう"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/potepi/02.webp",
+        "caption": "こんにちは"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/potepi/03.webp",
+        "caption": "ありがとう"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/potepi/04.webp",
+        "caption": "よろしくね"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/potepi/05.webp",
+        "caption": "了解です"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/potepi/06.webp",
+        "caption": "おつかれさま"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/potepi/07.webp",
+        "caption": "ごめんね"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/potepi/08.webp",
+        "caption": "おやすみ"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/potepi/09.webp",
+        "caption": "わくわく"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/potepi/10.webp",
+        "caption": "えっ？"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/potepi/11.webp",
+        "caption": "だいじょうぶ？"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/potepi/12.webp",
+        "caption": "ちょっとまって"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/potepi/13.webp",
+        "caption": "がんばる"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/potepi/14.webp",
+        "caption": "ひま〜"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/potepi/15.webp",
+        "caption": "またね"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/potepi/16.webp",
+        "caption": "そうなんだ〜"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37129499/ja",
+    "availability": "available"
+  },
+  {
+    "id": "munitake",
+    "number": 6,
+    "name": "むにたけ",
+    "englishName": "Munitake",
+    "group": "のびのび仲間",
+    "temperament": "おっとり",
+    "tagline": "たれたカサの下で、ひと休み。",
+    "description": "片側だけたれたピンクのカサが目印。ぼんやりしているようで、誰かの疲れにはよく気づく。隣にいると、少し肩の力が抜けてくる。",
+    "color": "#e7a0a4",
+    "traits": [
+      "たれたカサ",
+      "ぼんやり",
+      "気づかい"
+    ],
+    "main": "assets/characters/munitake/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/munitake/01.webp",
+        "caption": "おはよう"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/munitake/02.webp",
+        "caption": "こんにちは"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/munitake/03.webp",
+        "caption": "ありがとう"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/munitake/04.webp",
+        "caption": "よろしくね"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/munitake/05.webp",
+        "caption": "了解です"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/munitake/06.webp",
+        "caption": "おつかれさま"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/munitake/07.webp",
+        "caption": "ごめんね"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/munitake/08.webp",
+        "caption": "おやすみ"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/munitake/09.webp",
+        "caption": "わくわく"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/munitake/10.webp",
+        "caption": "えっ？"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/munitake/11.webp",
+        "caption": "だいじょうぶ？"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/munitake/12.webp",
+        "caption": "ちょっとまって"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/munitake/13.webp",
+        "caption": "がんばる"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/munitake/14.webp",
+        "caption": "ひま〜"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/munitake/15.webp",
+        "caption": "またね"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/munitake/16.webp",
+        "caption": "そうなんだ〜"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37182694/ja",
+    "availability": "available"
+  },
+  {
+    "id": "nyoropo",
+    "number": 7,
+    "name": "にょろぽ",
+    "englishName": "Nyoropo",
+    "group": "のびのび仲間",
+    "temperament": "にぎやか",
+    "tagline": "落ち着かないほど、会いたい。",
+    "description": "細長い体をくねくねさせて、思いついたらすぐ出発。曲がり道も寄り道もお手のもの。長い体いっぱいに、わくわくをためている。",
+    "color": "#f6d3ae",
+    "traits": [
+      "長い体",
+      "くねくね",
+      "好奇心"
+    ],
+    "main": "assets/characters/nyoropo/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/nyoropo/01.webp",
+        "caption": "おはよう"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/nyoropo/02.webp",
+        "caption": "こんにちは"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/nyoropo/03.webp",
+        "caption": "ありがとう"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/nyoropo/04.webp",
+        "caption": "よろしくね"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/nyoropo/05.webp",
+        "caption": "了解です"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/nyoropo/06.webp",
+        "caption": "おつかれさま"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/nyoropo/07.webp",
+        "caption": "ごめんね"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/nyoropo/08.webp",
+        "caption": "おやすみ"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/nyoropo/09.webp",
+        "caption": "わくわく"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/nyoropo/10.webp",
+        "caption": "えっ？"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/nyoropo/11.webp",
+        "caption": "だいじょうぶ？"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/nyoropo/12.webp",
+        "caption": "ちょっとまって"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/nyoropo/13.webp",
+        "caption": "がんばる"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/nyoropo/14.webp",
+        "caption": "ひま〜"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/nyoropo/15.webp",
+        "caption": "またね"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/nyoropo/16.webp",
+        "caption": "そうなんだ〜"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37182231/ja",
+    "availability": "available"
+  },
+  {
+    "id": "petaron",
+    "number": 8,
+    "name": "ぺたろん",
+    "englishName": "Petaron",
+    "group": "のびのび仲間",
+    "temperament": "おっとり",
+    "tagline": "ひろがる体で、のんびり受け止める。",
+    "description": "ぺたんと横に広い体と、長くたれる手。お休みする姿は誰にも負けない。気負わずそばにいて、今日のあれこれを受け止めてくれる。",
+    "color": "#d7deee",
+    "traits": [
+      "ぺたんこ",
+      "長い手",
+      "まったり"
+    ],
+    "main": "assets/characters/petaron/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/petaron/01.webp",
+        "caption": "おはよう"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/petaron/02.webp",
+        "caption": "こんにちは"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/petaron/03.webp",
+        "caption": "ありがとう"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/petaron/04.webp",
+        "caption": "よろしくね"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/petaron/05.webp",
+        "caption": "了解です"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/petaron/06.webp",
+        "caption": "おつかれさま"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/petaron/07.webp",
+        "caption": "ごめんね"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/petaron/08.webp",
+        "caption": "おやすみ"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/petaron/09.webp",
+        "caption": "わくわく"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/petaron/10.webp",
+        "caption": "えっ？"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/petaron/11.webp",
+        "caption": "だいじょうぶ？"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/petaron/12.webp",
+        "caption": "ちょっとまって"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/petaron/13.webp",
+        "caption": "がんばる"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/petaron/14.webp",
+        "caption": "ひま〜"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/petaron/15.webp",
+        "caption": "またね"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/petaron/16.webp",
+        "caption": "そうなんだ〜"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37182403/ja",
+    "availability": "available"
+  },
+  {
+    "id": "suimochi",
+    "number": 9,
+    "name": "すいもち",
+    "englishName": "Suimochi",
+    "group": "のびのび仲間",
+    "temperament": "ふしぎ",
+    "tagline": "くっつく理由は、きみが好き。",
+    "description": "むにっと丸い体に、短い吸盤つきの手足。気になるものにも、大好きな友達にも、ついついぴとっ。距離の近さが愛情表現。",
+    "color": "#d7eed5",
+    "traits": [
+      "吸盤",
+      "ぴとっ",
+      "人なつっこい"
+    ],
+    "main": "assets/characters/suimochi/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/suimochi/01.webp",
+        "caption": "おはよう"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/suimochi/02.webp",
+        "caption": "こんにちは"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/suimochi/03.webp",
+        "caption": "ありがとう"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/suimochi/04.webp",
+        "caption": "よろしくね"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/suimochi/05.webp",
+        "caption": "了解です"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/suimochi/06.webp",
+        "caption": "おつかれさま"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/suimochi/07.webp",
+        "caption": "ごめんね"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/suimochi/08.webp",
+        "caption": "おやすみ"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/suimochi/09.webp",
+        "caption": "わくわく"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/suimochi/10.webp",
+        "caption": "えっ？"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/suimochi/11.webp",
+        "caption": "だいじょうぶ？"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/suimochi/12.webp",
+        "caption": "ちょっとまって"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/suimochi/13.webp",
+        "caption": "がんばる"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/suimochi/14.webp",
+        "caption": "ひま〜"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/suimochi/15.webp",
+        "caption": "またね"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/suimochi/16.webp",
+        "caption": "そうなんだ〜"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37182404/ja",
+    "availability": "available"
+  },
+  {
+    "id": "mimyon",
+    "number": 10,
+    "name": "みみょん",
+    "englishName": "Mimyon",
+    "group": "ふわころ仲間",
+    "temperament": "にぎやか",
+    "tagline": "耳までいっしょに、ごあいさつ。",
+    "description": "とても長いふにゃふにゃの耳がチャームポイント。元気よく手を振ると耳も大きく揺れる。隠れるつもりでも、耳が先に見つかりがち。",
+    "color": "#e2cce9",
+    "traits": [
+      "長いたれ耳",
+      "ひょっこり",
+      "元気な挨拶"
+    ],
+    "main": "assets/characters/mimyon/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/mimyon/01.webp",
+        "caption": "おはよう"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/mimyon/02.webp",
+        "caption": "こんにちは"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/mimyon/03.webp",
+        "caption": "ありがとう"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/mimyon/04.webp",
+        "caption": "よろしくね"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/mimyon/05.webp",
+        "caption": "了解です"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/mimyon/06.webp",
+        "caption": "おつかれさま"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/mimyon/07.webp",
+        "caption": "ごめんね"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/mimyon/08.webp",
+        "caption": "おやすみ"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/mimyon/09.webp",
+        "caption": "わくわく"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/mimyon/10.webp",
+        "caption": "えっ？"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/mimyon/11.webp",
+        "caption": "だいじょうぶ？"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/mimyon/12.webp",
+        "caption": "ちょっとまって"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/mimyon/13.webp",
+        "caption": "がんばる"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/mimyon/14.webp",
+        "caption": "ひま〜"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/mimyon/15.webp",
+        "caption": "またね"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/mimyon/16.webp",
+        "caption": "そうなんだ〜"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37187354/ja",
+    "availability": "available"
+  },
+  {
+    "id": "mokupu",
+    "number": 11,
+    "name": "もくぷ",
+    "englishName": "Mokupu",
+    "group": "ふわころ仲間",
+    "temperament": "おっとり",
+    "tagline": "もくもくの形に、気持ちをのせて。",
+    "description": "雲みたいなもこもこボディは、やわらかな黄色。ころんと寝そべったり、ふわっと喜んだり。そばにいるだけで、ちょっと晴れやかな気分。",
+    "color": "#f9e7a4",
+    "traits": [
+      "もこもこ",
+      "雲みたい",
+      "ほがらか"
+    ],
+    "main": "assets/characters/mokupu/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/mokupu/01.webp",
+        "caption": "おはよう"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/mokupu/02.webp",
+        "caption": "こんにちは"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/mokupu/03.webp",
+        "caption": "ありがとう"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/mokupu/04.webp",
+        "caption": "よろしくね"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/mokupu/05.webp",
+        "caption": "了解です"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/mokupu/06.webp",
+        "caption": "おつかれさま"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/mokupu/07.webp",
+        "caption": "ごめんね"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/mokupu/08.webp",
+        "caption": "おやすみ"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/mokupu/09.webp",
+        "caption": "わくわく"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/mokupu/10.webp",
+        "caption": "えっ？"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/mokupu/11.webp",
+        "caption": "だいじょうぶ？"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/mokupu/12.webp",
+        "caption": "ちょっとまって"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/mokupu/13.webp",
+        "caption": "がんばる"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/mokupu/14.webp",
+        "caption": "ひま〜"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/mokupu/15.webp",
+        "caption": "またね"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/mokupu/16.webp",
+        "caption": "そうなんだ〜"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37187997/ja",
+    "availability": "available"
+  },
+  {
+    "id": "tayuri",
+    "number": 12,
+    "name": "たゆり",
+    "englishName": "Tayuri",
+    "group": "ふわころ仲間",
+    "temperament": "おっとり",
+    "tagline": "たゆたうくらいが、ちょうどいい。",
+    "description": "長くたれたしずくの先が、気分に合わせてゆらゆら。あわてない、でもちゃんと進んでいる。休憩のおともにぴったりの、マイペースな子。",
+    "color": "#c8e9ed",
+    "traits": [
+      "たれたしずく",
+      "ゆらゆら",
+      "マイペース"
+    ],
+    "main": "assets/characters/tayuri/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/tayuri/01.webp",
+        "caption": "おはよう"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/tayuri/02.webp",
+        "caption": "こんにちは"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/tayuri/03.webp",
+        "caption": "ありがとう"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/tayuri/04.webp",
+        "caption": "よろしくね"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/tayuri/05.webp",
+        "caption": "了解です"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/tayuri/06.webp",
+        "caption": "おつかれさま"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/tayuri/07.webp",
+        "caption": "ごめんね"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/tayuri/08.webp",
+        "caption": "おやすみ"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/tayuri/09.webp",
+        "caption": "わくわく"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/tayuri/10.webp",
+        "caption": "えっ？"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/tayuri/11.webp",
+        "caption": "だいじょうぶ？"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/tayuri/12.webp",
+        "caption": "ちょっとまって"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/tayuri/13.webp",
+        "caption": "がんばる"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/tayuri/14.webp",
+        "caption": "ひま〜"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/tayuri/15.webp",
+        "caption": "またね"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/tayuri/16.webp",
+        "caption": "そうなんだ〜"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37188000/ja",
+    "availability": "available"
+  },
+  {
+    "id": "koromu",
+    "number": 13,
+    "name": "ころむ",
+    "englishName": "Koromu",
+    "group": "ふわころ仲間",
+    "temperament": "ふしぎ",
+    "tagline": "ぐるぐる考えて、ころんと進む。",
+    "description": "背中の大きなうずまきが自慢。考えごとは少し長め、動き出すときはころんと軽やか。小さな発見を、今日も大事に持ち歩く。",
+    "color": "#d5debc",
+    "traits": [
+      "うずまき",
+      "ころん",
+      "考えごと"
+    ],
+    "main": "assets/characters/koromu/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/koromu/01.webp",
+        "caption": "おはよう"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/koromu/02.webp",
+        "caption": "こんにちは"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/koromu/03.webp",
+        "caption": "ありがとう"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/koromu/04.webp",
+        "caption": "よろしくね"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/koromu/05.webp",
+        "caption": "了解です"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/koromu/06.webp",
+        "caption": "おつかれさま"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/koromu/07.webp",
+        "caption": "ごめんね"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/koromu/08.webp",
+        "caption": "おやすみ"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/koromu/09.webp",
+        "caption": "わくわく"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/koromu/10.webp",
+        "caption": "えっ？"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/koromu/11.webp",
+        "caption": "だいじょうぶ？"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/koromu/12.webp",
+        "caption": "ちょっとまって"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/koromu/13.webp",
+        "caption": "がんばる"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/koromu/14.webp",
+        "caption": "ひま〜"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/koromu/15.webp",
+        "caption": "またね"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/koromu/16.webp",
+        "caption": "そうなんだ〜"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37188012/ja",
+    "availability": "available"
+  },
+  {
+    "id": "peromu",
+    "number": 14,
+    "name": "ぺろむ",
+    "englishName": "Peromu",
+    "group": "クセつよ仲間",
+    "temperament": "ふしぎ",
+    "tagline": "気持ちは、くるりとはみ出す。",
+    "description": "リボンみたいなくるくるの舌で、うれしさも反省も表現。ちょっと変わった姿だけど、人なつっこさはとびきり。おいしい予感には目がない。",
+    "color": "#f6bfcf",
+    "traits": [
+      "くるくるの舌",
+      "人なつっこい",
+      "味見したい"
+    ],
+    "main": "assets/characters/peromu/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/peromu/01.webp",
+        "caption": "ぬるっと登場"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/peromu/02.webp",
+        "caption": "それ、味見していい？"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/peromu/03.webp",
+        "caption": "うれしさ、はみ出た"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/peromu/04.webp",
+        "caption": "しょんぼり巻き"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/peromu/05.webp",
+        "caption": "ありがと、ぺろり"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/peromu/06.webp",
+        "caption": "まかせてちょ"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/peromu/07.webp",
+        "caption": "今、向かってる"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/peromu/08.webp",
+        "caption": "ちょい待ちぺろ"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/peromu/09.webp",
+        "caption": "反省、ぐるぐる"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/peromu/10.webp",
+        "caption": "おなかが会議中"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/peromu/11.webp",
+        "caption": "全力で賛成"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/peromu/12.webp",
+        "caption": "それは聞いてない"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/peromu/13.webp",
+        "caption": "ほめていいよ"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/peromu/14.webp",
+        "caption": "そっと見守る"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/peromu/15.webp",
+        "caption": "今日はもう巻く"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/peromu/16.webp",
+        "caption": "またぬるっとね"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37192417/ja",
+    "availability": "available"
+  },
+  {
+    "id": "uneri",
+    "number": 15,
+    "name": "うねり",
+    "englishName": "Uneri",
+    "group": "クセつよ仲間",
+    "temperament": "ふしぎ",
+    "tagline": "気分がうねっても、だいたい大丈夫。",
+    "description": "やわらかな体をくねらせたり、丸めたり。やる気が迷子の日にも、無理せず自分のペース。からまった気分を、ゆっくりほどいてくれる。",
+    "color": "#d6e6b1",
+    "traits": [
+      "うねる体",
+      "省エネ",
+      "気分屋"
+    ],
+    "main": "assets/characters/uneri/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/uneri/01.webp",
+        "caption": "気分がうねってる"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/uneri/02.webp",
+        "caption": "やる気、迷子です"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/uneri/03.webp",
+        "caption": "だいたい賛成"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/uneri/04.webp",
+        "caption": "いったん丸まる"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/uneri/05.webp",
+        "caption": "感謝がうねる"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/uneri/06.webp",
+        "caption": "ゆっくりでいいよ"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/uneri/07.webp",
+        "caption": "そろそろ動く"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/uneri/08.webp",
+        "caption": "それ、気になる"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/uneri/09.webp",
+        "caption": "ちょっと絡まった"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/uneri/10.webp",
+        "caption": "無理せずいこう"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/uneri/11.webp",
+        "caption": "すごくよい"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/uneri/12.webp",
+        "caption": "今は省エネ"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/uneri/13.webp",
+        "caption": "びっくり伸びた"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/uneri/14.webp",
+        "caption": "しずかに応援"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/uneri/15.webp",
+        "caption": "ほどけてきた"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/uneri/16.webp",
+        "caption": "またふらっとね"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37192433/ja",
+    "availability": "available"
+  },
+  {
+    "id": "hoppero",
+    "number": 16,
+    "name": "ほっぺろ",
+    "englishName": "Hoppero",
+    "group": "クセつよ仲間",
+    "temperament": "にぎやか",
+    "tagline": "ほめると、ほっぺまでうれしい。",
+    "description": "大きなほっぺに、おいしい気持ちも照れくささもためこんでいる。ほめられるとついにやり。重そうなほっぺを抱えながら、全力でよろこぶ。",
+    "color": "#f9d5af",
+    "traits": [
+      "大きなほっぺ",
+      "にやにや",
+      "ほめられたい"
+    ],
+    "main": "assets/characters/hoppero/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/hoppero/01.webp",
+        "caption": "ほっぺが重い"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/hoppero/02.webp",
+        "caption": "にやけが止まらん"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/hoppero/03.webp",
+        "caption": "ほめるとふくらむ"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/hoppero/04.webp",
+        "caption": "今、かみしめてる"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/hoppero/05.webp",
+        "caption": "ありがと、むぎゅ"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/hoppero/06.webp",
+        "caption": "それはうれしい"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/hoppero/07.webp",
+        "caption": "ほっぺ落ちた"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/hoppero/08.webp",
+        "caption": "おいしい予感"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/hoppero/09.webp",
+        "caption": "ちょっと拗ねた"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/hoppero/10.webp",
+        "caption": "そっと寄り添う"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/hoppero/11.webp",
+        "caption": "全力で拍手"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/hoppero/12.webp",
+        "caption": "これは事件です"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/hoppero/13.webp",
+        "caption": "休憩はさも"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/hoppero/14.webp",
+        "caption": "期待ふくらむ"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/hoppero/15.webp",
+        "caption": "しょぼんです"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/hoppero/16.webp",
+        "caption": "またぷくっとね"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37192424/ja",
+    "availability": "available"
+  },
+  {
+    "id": "hidapo",
+    "number": 17,
+    "name": "ひだぽ",
+    "englishName": "Hidapo",
+    "group": "クセつよ仲間",
+    "temperament": "ふしぎ",
+    "tagline": "たたんで、ひらいて、また明日。",
+    "description": "やわらかなひだが重なった、のびちぢみボディ。しょんぼりすると小さく、やる気が出るとびよん。気持ちの切り替えも、少しずつでいい。",
+    "color": "#d5d3f4",
+    "traits": [
+      "重なるひだ",
+      "のびちぢみ",
+      "ふわっと復活"
+    ],
+    "main": "assets/characters/hidapo/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/hidapo/01.webp",
+        "caption": "心をたたみます"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/hidapo/02.webp",
+        "caption": "やる気、展開中"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/hidapo/03.webp",
+        "caption": "縮こまり案件"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/hidapo/04.webp",
+        "caption": "ふわっと復活"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/hidapo/05.webp",
+        "caption": "感謝、重ねます"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/hidapo/06.webp",
+        "caption": "承知しましたよ"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/hidapo/07.webp",
+        "caption": "今、伸びしろ"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/hidapo/08.webp",
+        "caption": "ちょいと待って"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/hidapo/09.webp",
+        "caption": "反省たたみ"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/hidapo/10.webp",
+        "caption": "おつかれ、ふにゃ"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/hidapo/11.webp",
+        "caption": "喜び、増量中"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/hidapo/12.webp",
+        "caption": "なぬ、びよん"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/hidapo/13.webp",
+        "caption": "ひっそり応援"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/hidapo/14.webp",
+        "caption": "一回休みます"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/hidapo/15.webp",
+        "caption": "そろそろ閉店"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/hidapo/16.webp",
+        "caption": "またひらくね"
+      }
+    ],
+    "storeUrl": "https://store.line.me/stickershop/product/37192436/ja",
+    "availability": "available"
+  },
+  {
+    "id": "tsuburi",
+    "number": 18,
+    "name": "つぶり",
+    "englishName": "Tsuburi",
+    "group": "新しい仲間",
+    "temperament": "にぎやか",
+    "tagline": "よろこびは、一粒じゃ足りない。",
+    "description": "つぶつぶの丸いシルエットに、気持ちをぎゅっとつめ合わせ。うれしさは大盛り、反省もまとめて。みんなの元気を少しずつ分けてもらうのが好き。",
+    "color": "#e6c8f1",
+    "traits": [
+      "つぶつぶ",
+      "気持ち大盛り",
+      "ころころ"
+    ],
+    "main": "assets/characters/tsuburi/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/tsuburi/01.webp",
+        "caption": "つぶっと来たよ"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/tsuburi/02.webp",
+        "caption": "気持ちが渋滞中"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/tsuburi/03.webp",
+        "caption": "うれしさ大盛り"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/tsuburi/04.webp",
+        "caption": "今日は小粒です"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/tsuburi/05.webp",
+        "caption": "ありがと、山盛り"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/tsuburi/06.webp",
+        "caption": "まとめてまかせて"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/tsuburi/07.webp",
+        "caption": "ころころ急ぐ"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/tsuburi/08.webp",
+        "caption": "一粒ずつ待って"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/tsuburi/09.webp",
+        "caption": "反省つめ合わせ"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/tsuburi/10.webp",
+        "caption": "おやつ会議しよ"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/tsuburi/11.webp",
+        "caption": "その案、いただき"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/tsuburi/12.webp",
+        "caption": "えっ、増えた？"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/tsuburi/13.webp",
+        "caption": "ほめられ待ち"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/tsuburi/14.webp",
+        "caption": "元気を分けるね"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/tsuburi/15.webp",
+        "caption": "本日は品切れ"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/tsuburi/16.webp",
+        "caption": "またころっとね"
+      }
+    ],
+    "storeUrl": null,
+    "availability": "coming-soon"
+  },
+  {
+    "id": "pirone",
+    "number": 19,
+    "name": "ぴろね",
+    "englishName": "Pirone",
+    "group": "新しい仲間",
+    "temperament": "おっとり",
+    "tagline": "その話、長い耳でひろいます。",
+    "description": "ひらひら長いリボンみたいな耳は、お話を聞くための自慢。びっくりすると耳が追いつかない。ひと息つきたいときには、そばで静かに聞いてくれる。",
+    "color": "#f8edb4",
+    "traits": [
+      "リボンの耳",
+      "聞き上手",
+      "ひらひら"
+    ],
+    "main": "assets/characters/pirone/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/pirone/01.webp",
+        "caption": "ぴろっとおはよ"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/pirone/02.webp",
+        "caption": "話、ひろってます"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/pirone/03.webp",
+        "caption": "喜びひらひら"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/pirone/04.webp",
+        "caption": "耳までしょんぼり"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/pirone/05.webp",
+        "caption": "感謝がのびた"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/pirone/06.webp",
+        "caption": "ぴんと任せて"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/pirone/07.webp",
+        "caption": "風より先に行く"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/pirone/08.webp",
+        "caption": "その話ちょい待ち"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/pirone/09.webp",
+        "caption": "ごめん、しおれた"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/pirone/10.webp",
+        "caption": "ひと息のばそ"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/pirone/11.webp",
+        "caption": "それ、いい感じ"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/pirone/12.webp",
+        "caption": "耳が追いつかん"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/pirone/13.webp",
+        "caption": "ちょっと自慢です"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/pirone/14.webp",
+        "caption": "そばで聞くよ"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/pirone/15.webp",
+        "caption": "くるんと寝ます"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/pirone/16.webp",
+        "caption": "またひらっとね"
+      }
+    ],
+    "storeUrl": null,
+    "availability": "coming-soon"
+  },
+  {
+    "id": "pokome",
+    "number": 20,
+    "name": "ぽこめ",
+    "englishName": "Pokome",
+    "group": "新しい仲間",
+    "temperament": "にぎやか",
+    "tagline": "おなかいっぱい、気持ちもいっぱい。",
+    "description": "どーんとまるいおなかで、うれしさも元気もふくらませる。頼られると張り切るけれど、腹ペコにはちょっと弱い。休むときは空気を抜くみたいに、ふにゃり。",
+    "color": "#c8eeea",
+    "traits": [
+      "大きなおなか",
+      "ふくらむ",
+      "頼もしい"
+    ],
+    "main": "assets/characters/pokome/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/pokome/01.webp",
+        "caption": "ぽこっと参上"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/pokome/02.webp",
+        "caption": "やる気、充電中"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/pokome/03.webp",
+        "caption": "うれしくふくらむ"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/pokome/04.webp",
+        "caption": "少しへこんでる"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/pokome/05.webp",
+        "caption": "感謝がいっぱい"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/pokome/06.webp",
+        "caption": "どーんと任せて"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/pokome/07.webp",
+        "caption": "急いでぽこぽこ"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/pokome/08.webp",
+        "caption": "いったん止まろ"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/pokome/09.webp",
+        "caption": "反省でぺちゃんこ"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/pokome/10.webp",
+        "caption": "腹ペコの予感"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/pokome/11.webp",
+        "caption": "全力でいいね"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/pokome/12.webp",
+        "caption": "それは想定外"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/pokome/13.webp",
+        "caption": "今日は絶好調"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/pokome/14.webp",
+        "caption": "元気、届けます"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/pokome/15.webp",
+        "caption": "空気ぬいて寝る"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/pokome/16.webp",
+        "caption": "またぽこっとね"
+      }
+    ],
+    "storeUrl": null,
+    "availability": "coming-soon"
+  },
+  {
+    "id": "subero",
+    "number": 21,
+    "name": "すべろ",
+    "englishName": "Subero",
+    "group": "新しい仲間",
+    "temperament": "ふしぎ",
+    "tagline": "床と仲よし、今日もすべっと。",
+    "description": "横に広いぺたんこボディと、ちいさなくるんのしっぽ。すべるように登場して、さりげなく友達を支える。疲れた日は、そのまま床と一体化。",
+    "color": "#f6ccbd",
+    "traits": [
+      "ぺたんこ",
+      "すべっと移動",
+      "そっと支える"
+    ],
+    "main": "assets/characters/subero/main.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters/subero/01.webp",
+        "caption": "すべっと来ました"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters/subero/02.webp",
+        "caption": "床と仲よし"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters/subero/03.webp",
+        "caption": "うれしく浮いた"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters/subero/04.webp",
+        "caption": "ぺたんと落ち込む"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters/subero/05.webp",
+        "caption": "ありがとう、ぺこ"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters/subero/06.webp",
+        "caption": "すべて任せて"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters/subero/07.webp",
+        "caption": "今すべってく"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters/subero/08.webp",
+        "caption": "そこでストップ"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters/subero/09.webp",
+        "caption": "深くぺたんと反省"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters/subero/10.webp",
+        "caption": "お茶でもどう？"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters/subero/11.webp",
+        "caption": "その調子、その調子"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters/subero/12.webp",
+        "caption": "え、滑り込み？"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters/subero/13.webp",
+        "caption": "調子に乗ってます"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters/subero/14.webp",
+        "caption": "そっと支える"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters/subero/15.webp",
+        "caption": "今日は床になる"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters/subero/16.webp",
+        "caption": "またすべっとね"
+      }
+    ],
+    "storeUrl": null,
+    "availability": "coming-soon"
+  }
+]

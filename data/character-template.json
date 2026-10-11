@@ -1,0 +1,33 @@
+{
+  "id": "replace-with-new-id",
+  "number": 22,
+  "name": "新しいキャラクター名",
+  "englishName": "NewFriend",
+  "group": "新しい仲間",
+  "temperament": "ふしぎ",
+  "tagline": "ひとことで伝える魅力。",
+  "description": "見た目や性格、仲間との関係がわかる紹介文。",
+  "color": "#e3ecd9",
+  "traits": ["特徴1", "特徴2", "特徴3"],
+  "main": "assets/characters/replace-with-new-id/main.webp",
+  "storeUrl": null,
+  "availability": "coming-soon",
+  "stickers": [
+    {"number": 1, "src": "assets/characters/replace-with-new-id/01.webp", "caption": "セリフ1"},
+    {"number": 2, "src": "assets/characters/replace-with-new-id/02.webp", "caption": "セリフ2"},
+    {"number": 3, "src": "assets/characters/replace-with-new-id/03.webp", "caption": "セリフ3"},
+    {"number": 4, "src": "assets/characters/replace-with-new-id/04.webp", "caption": "セリフ4"},
+    {"number": 5, "src": "assets/characters/replace-with-new-id/05.webp", "caption": "セリフ5"},
+    {"number": 6, "src": "assets/characters/replace-with-new-id/06.webp", "caption": "セリフ6"},
+    {"number": 7, "src": "assets/characters/replace-with-new-id/07.webp", "caption": "セリフ7"},
+    {"number": 8, "src": "assets/characters/replace-with-new-id/08.webp", "caption": "セリフ8"},
+    {"number": 9, "src": "assets/characters/replace-with-new-id/09.webp", "caption": "セリフ9"},
+    {"number": 10, "src": "assets/characters/replace-with-new-id/10.webp", "caption": "セリフ10"},
+    {"number": 11, "src": "assets/characters/replace-with-new-id/11.webp", "caption": "セリフ11"},
+    {"number": 12, "src": "assets/characters/replace-with-new-id/12.webp", "caption": "セリフ12"},
+    {"number": 13, "src": "assets/characters/replace-with-new-id/13.webp", "caption": "セリフ13"},
+    {"number": 14, "src": "assets/characters/replace-with-new-id/14.webp", "caption": "セリフ14"},
+    {"number": 15, "src": "assets/characters/replace-with-new-id/15.webp", "caption": "セリフ15"},
+    {"number": 16, "src": "assets/characters/replace-with-new-id/16.webp", "caption": "セリフ16"}
+  ]
+}
