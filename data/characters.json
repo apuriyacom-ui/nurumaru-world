@@ -6,13 +6,13 @@
     "englishName": "Nurumaru",
     "group": "ぬるまる",
     "temperament": "ふしぎ",
-    "tagline": "まんまるな目で、今日もぬるっと。",
-    "description": "とぼけた顔から、気持ちがだだ漏れ。うれしい日もしょんぼりな日も、ありのままの自分でそばにいてくれる、みんなのはじまり。",
+    "tagline": "まんまるな目と、とぼけた表情。",
+    "description": "淡いクリーム色の丸い体に、大きな目とちょこんと出た舌。喜んだり、泣いたり、寝そべったり。少し変わった表情で、日常の気持ちを伝えます。",
     "color": "#f8e9cf",
     "traits": [
       "まんまるの目",
-      "とぼけ顔",
-      "正直な気持ち"
+      "クリーム色の体",
+      "とぼけた表情"
     ],
     "main": "assets/characters/nurumaru/main.webp",
     "stickers": [
@@ -107,13 +107,13 @@
     "englishName": "Monyon",
     "group": "はじまりの仲間",
     "temperament": "おっとり",
-    "tagline": "その耳、気持ちまでふにゃり。",
-    "description": "左右ちがうたれ耳と、やわらかそうなラベンダー色。急がないのが得意で、話を聞くときもお辞儀するときも、耳がそっとついてくる。",
+    "tagline": "左右で形の違う、たれ耳が目印。",
+    "description": "淡い紫色の丸い体と、左右で形の違うたれ耳。お辞儀や寝転ぶポーズにも、やわらかそうな耳がよく似合います。挨拶やお礼をかわいく伝えたいときに。",
     "color": "#e7d5f5",
     "traits": [
-      "たれ耳",
-      "もちもち",
-      "のんびり"
+      "形の違うたれ耳",
+      "淡い紫色",
+      "丸い体"
     ],
     "main": "assets/characters/monyon/main.webp",
     "stickers": [
@@ -208,13 +208,13 @@
     "englishName": "Pururi",
     "group": "はじまりの仲間",
     "temperament": "にぎやか",
-    "tagline": "うれしい予感で、ぷるっと。",
-    "description": "くるんと曲がったしずくの先まで、気持ちがぷるぷる。小さな体で大きくリアクションする、さわやかな水色のムードメーカー。",
+    "tagline": "しずくの形をした、水色の仲間。",
+    "description": "水色の体に、くるんと曲がったしずく形の頭。短い手足を大きく動かすポーズが印象的です。朝の挨拶からびっくりしたときの返事まで、幅広く使えます。",
     "color": "#c6edf2",
     "traits": [
       "しずくの頭",
-      "ぷるぷる",
-      "大きな反応"
+      "水色の体",
+      "大きなリアクション"
     ],
     "main": "assets/characters/pururi/main.webp",
     "stickers": [
@@ -309,13 +309,13 @@
     "englishName": "Mamepo",
     "group": "はじまりの仲間",
     "temperament": "おっとり",
-    "tagline": "ちいさな芽から、いい一日。",
-    "description": "ピスタチオ色のまめみたいな体に、ぴょこんとふた葉。小さなことに気づくのが得意で、ありがとうを伝えるときは芽までうれしそう。",
+    "tagline": "まめのような体に、小さなふた葉。",
+    "description": "黄緑色のまめのような体と、頭のふた葉がチャームポイント。大きな丸い目と小さな口の組み合わせもかわいい仲間です。お礼や応援のメッセージに添えて。",
     "color": "#dceaa7",
     "traits": [
       "ふた葉",
-      "まめの体",
-      "やさしさ"
+      "まめのような体",
+      "黄緑色"
     ],
     "main": "assets/characters/mamepo/main.webp",
     "stickers": [
@@ -410,13 +410,13 @@
     "englishName": "Potepi",
     "group": "はじまりの仲間",
     "temperament": "にぎやか",
-    "tagline": "ころんと黄色、元気がぽてっ。",
-    "description": "まるっこい体と、小さな羽とオレンジの足。張り切るほど動きがぽてぽてするけれど、その一生懸命さがみんなを笑顔にしてくれる。",
+    "tagline": "丸い体に、小さな羽とくちばし。",
+    "description": "ひよこのような黄色い体に、オレンジ色のくちばしと足。小さな羽を広げたり、走ったりする姿がかわいい仲間です。楽しい気分や応援を伝えるときに。",
     "color": "#fff0a8",
     "traits": [
-      "ちいさな羽",
-      "ぽてぽて",
-      "一生懸命"
+      "小さな羽",
+      "黄色い体",
+      "オレンジのくちばし"
     ],
     "main": "assets/characters/potepi/main.webp",
     "stickers": [
@@ -511,13 +511,13 @@
     "englishName": "Munitake",
     "group": "のびのび仲間",
     "temperament": "おっとり",
-    "tagline": "たれたカサの下で、ひと休み。",
-    "description": "片側だけたれたピンクのカサが目印。ぼんやりしているようで、誰かの疲れにはよく気づく。隣にいると、少し肩の力が抜けてくる。",
+    "tagline": "大きなピンクのカサが目印。",
+    "description": "片側がたれたピンクのカサに、白っぽい模様がふたつ。きのこのような姿と、カサの下からのぞく丸い目が特徴です。挨拶にも、ひと休みの連絡にも。",
     "color": "#e7a0a4",
     "traits": [
       "たれたカサ",
-      "ぼんやり",
-      "気づかい"
+      "ピンクのきのこ",
+      "カサの丸い模様"
     ],
     "main": "assets/characters/munitake/main.webp",
     "stickers": [
@@ -612,13 +612,13 @@
     "englishName": "Nyoropo",
     "group": "のびのび仲間",
     "temperament": "にぎやか",
-    "tagline": "落ち着かないほど、会いたい。",
-    "description": "細長い体をくねくねさせて、思いついたらすぐ出発。曲がり道も寄り道もお手のもの。長い体いっぱいに、わくわくをためている。",
+    "tagline": "くねくね曲がる、細長い体。",
+    "description": "淡いオレンジ色の長い体に、丸い顔と小さな手。体を曲げたり伸ばしたりして、喜びや驚きを表します。いつもの返事に、少しおもしろさを加えたいときに。",
     "color": "#f6d3ae",
     "traits": [
       "長い体",
       "くねくね",
-      "好奇心"
+      "淡いオレンジ色"
     ],
     "main": "assets/characters/nyoropo/main.webp",
     "stickers": [
@@ -713,13 +713,13 @@
     "englishName": "Petaron",
     "group": "のびのび仲間",
     "temperament": "おっとり",
-    "tagline": "ひろがる体で、のんびり受け止める。",
-    "description": "ぺたんと横に広い体と、長くたれる手。お休みする姿は誰にも負けない。気負わずそばにいて、今日のあれこれを受け止めてくれる。",
+    "tagline": "ぺたんと広がる、横長のシルエット。",
+    "description": "青みがかった灰色の平たい体と、両側にたれる長い手。低く寝そべった姿も、手を広げる姿も個性的です。休憩や暇な時間のやりとりによく合います。",
     "color": "#d7deee",
     "traits": [
       "ぺたんこ",
       "長い手",
-      "まったり"
+      "青みがかった灰色"
     ],
     "main": "assets/characters/petaron/main.webp",
     "stickers": [
@@ -814,13 +814,13 @@
     "englishName": "Suimochi",
     "group": "のびのび仲間",
     "temperament": "ふしぎ",
-    "tagline": "くっつく理由は、きみが好き。",
-    "description": "むにっと丸い体に、短い吸盤つきの手足。気になるものにも、大好きな友達にも、ついついぴとっ。距離の近さが愛情表現。",
+    "tagline": "吸盤のついた、短い手足がかわいい。",
+    "description": "淡い緑色の丸い体に、吸盤のついた短い手足。手足を持ち上げると、ピンク色の吸盤が見えます。お礼や気づかいの言葉を、ちょっと変わった姿で伝えます。",
     "color": "#d7eed5",
     "traits": [
       "吸盤",
-      "ぴとっ",
-      "人なつっこい"
+      "淡い緑色",
+      "短い手足"
     ],
     "main": "assets/characters/suimochi/main.webp",
     "stickers": [
@@ -915,13 +915,13 @@
     "englishName": "Mimyon",
     "group": "ふわころ仲間",
     "temperament": "にぎやか",
-    "tagline": "耳までいっしょに、ごあいさつ。",
-    "description": "とても長いふにゃふにゃの耳がチャームポイント。元気よく手を振ると耳も大きく揺れる。隠れるつもりでも、耳が先に見つかりがち。",
+    "tagline": "長いたれ耳が、大きく揺れる。",
+    "description": "淡い紫色の体に、内側がピンク色の長い耳。顔の横までたれる耳が、ポーズごとに違う形に見えるのも魅力です。挨拶や楽しい気分を伝えるときに。",
     "color": "#e2cce9",
     "traits": [
       "長いたれ耳",
-      "ひょっこり",
-      "元気な挨拶"
+      "耳の内側はピンク",
+      "淡い紫色"
     ],
     "main": "assets/characters/mimyon/main.webp",
     "stickers": [
@@ -1016,13 +1016,13 @@
     "englishName": "Mokupu",
     "group": "ふわころ仲間",
     "temperament": "おっとり",
-    "tagline": "もくもくの形に、気持ちをのせて。",
-    "description": "雲みたいなもこもこボディは、やわらかな黄色。ころんと寝そべったり、ふわっと喜んだり。そばにいるだけで、ちょっと晴れやかな気分。",
+    "tagline": "雲のような、もこもこの黄色い体。",
+    "description": "丸いふくらみが重なった、雲のような形の仲間。淡い黄色の体に、大きな目と小さな手足がついています。お礼や「おつかれさま」の一言に、かわいさを添えます。",
     "color": "#f9e7a4",
     "traits": [
       "もこもこ",
       "雲みたい",
-      "ほがらか"
+      "淡い黄色"
     ],
     "main": "assets/characters/mokupu/main.webp",
     "stickers": [
@@ -1117,13 +1117,13 @@
     "englishName": "Tayuri",
     "group": "ふわころ仲間",
     "temperament": "おっとり",
-    "tagline": "たゆたうくらいが、ちょうどいい。",
-    "description": "長くたれたしずくの先が、気分に合わせてゆらゆら。あわてない、でもちゃんと進んでいる。休憩のおともにぴったりの、マイペースな子。",
+    "tagline": "長くたれた、しずく形の頭が目印。",
+    "description": "青緑色の体に、右側へ長くたれたしずく形の頭。丸いおなかと短い手足の組み合わせが特徴です。寝転んだポーズは、おやすみや休憩の連絡にぴったり。",
     "color": "#c8e9ed",
     "traits": [
       "たれたしずく",
-      "ゆらゆら",
-      "マイペース"
+      "青緑色の体",
+      "丸いおなか"
     ],
     "main": "assets/characters/tayuri/main.webp",
     "stickers": [
@@ -1218,13 +1218,13 @@
     "englishName": "Koromu",
     "group": "ふわころ仲間",
     "temperament": "ふしぎ",
-    "tagline": "ぐるぐる考えて、ころんと進む。",
-    "description": "背中の大きなうずまきが自慢。考えごとは少し長め、動き出すときはころんと軽やか。小さな発見を、今日も大事に持ち歩く。",
+    "tagline": "背中の大きなうずまきが特徴。",
+    "description": "クリーム色の丸い体に、緑色のうずまき模様の殻。背中の大きな殻が目を引く、かたつむりのような姿です。挨拶やお礼、考え中の返事にも使える仲間です。",
     "color": "#d5debc",
     "traits": [
       "うずまき",
-      "ころん",
-      "考えごと"
+      "緑色の殻",
+      "クリーム色の体"
     ],
     "main": "assets/characters/koromu/main.webp",
     "stickers": [
@@ -1319,13 +1319,13 @@
     "englishName": "Peromu",
     "group": "クセつよ仲間",
     "temperament": "ふしぎ",
-    "tagline": "気持ちは、くるりとはみ出す。",
-    "description": "リボンみたいなくるくるの舌で、うれしさも反省も表現。ちょっと変わった姿だけど、人なつっこさはとびきり。おいしい予感には目がない。",
+    "tagline": "くるくる巻いた、長い舌が個性的。",
+    "description": "淡いピンク色の体から、リボンのように長い舌が伸びています。舌の巻き方も、喜んだりしょんぼりしたりするポーズもユニーク。おやつの話や気軽な返事に。",
     "color": "#f6bfcf",
     "traits": [
       "くるくるの舌",
-      "人なつっこい",
-      "味見したい"
+      "淡いピンク色",
+      "短い手足"
     ],
     "main": "assets/characters/peromu/main.webp",
     "stickers": [
@@ -1420,13 +1420,13 @@
     "englishName": "Uneri",
     "group": "クセつよ仲間",
     "temperament": "ふしぎ",
-    "tagline": "気分がうねっても、だいたい大丈夫。",
-    "description": "やわらかな体をくねらせたり、丸めたり。やる気が迷子の日にも、無理せず自分のペース。からまった気分を、ゆっくりほどいてくれる。",
+    "tagline": "丸まったり伸びたり、形が変わる。",
+    "description": "黄緑色のやわらかそうな体を、くねらせたり丸めたり。丸い目はそのままに、体全体で気分の違いを表します。疲れた日の返事や、無理せず休みたいときに。",
     "color": "#d6e6b1",
     "traits": [
       "うねる体",
-      "省エネ",
-      "気分屋"
+      "黄緑色",
+      "丸まるポーズ"
     ],
     "main": "assets/characters/uneri/main.webp",
     "stickers": [
@@ -1521,13 +1521,13 @@
     "englishName": "Hoppero",
     "group": "クセつよ仲間",
     "temperament": "にぎやか",
-    "tagline": "ほめると、ほっぺまでうれしい。",
-    "description": "大きなほっぺに、おいしい気持ちも照れくささもためこんでいる。ほめられるとついにやり。重そうなほっぺを抱えながら、全力でよろこぶ。",
+    "tagline": "大きなほっぺが、表情を引き立てる。",
+    "description": "淡いオレンジ色の丸い体と、左右に大きくふくらんだほっぺ。ほっぺを抱えるポーズや、うれしそうな表情が特徴です。ほめられたときや、食べ物の話をするときに。",
     "color": "#f9d5af",
     "traits": [
       "大きなほっぺ",
-      "にやにや",
-      "ほめられたい"
+      "淡いオレンジ色",
+      "ほっぺを抱えるポーズ"
     ],
     "main": "assets/characters/hoppero/main.webp",
     "stickers": [
@@ -1622,13 +1622,13 @@
     "englishName": "Hidapo",
     "group": "クセつよ仲間",
     "temperament": "ふしぎ",
-    "tagline": "たたんで、ひらいて、また明日。",
-    "description": "やわらかなひだが重なった、のびちぢみボディ。しょんぼりすると小さく、やる気が出るとびよん。気持ちの切り替えも、少しずつでいい。",
+    "tagline": "ひだを重ねた、伸び縮みする体。",
+    "description": "薄紫色の体に、横向きの丸いひだが重なっています。縮こまったり大きく伸びたりする姿が、ほかの仲間とはひと味違う魅力。休憩の連絡や、元気になったときの返事に。",
     "color": "#d5d3f4",
     "traits": [
       "重なるひだ",
-      "のびちぢみ",
-      "ふわっと復活"
+      "伸び縮みする体",
+      "薄紫色"
     ],
     "main": "assets/characters/hidapo/main.webp",
     "stickers": [
@@ -1723,13 +1723,13 @@
     "englishName": "Tsuburi",
     "group": "新しい仲間",
     "temperament": "にぎやか",
-    "tagline": "よろこびは、一粒じゃ足りない。",
-    "description": "つぶつぶの丸いシルエットに、気持ちをぎゅっとつめ合わせ。うれしさは大盛り、反省もまとめて。みんなの元気を少しずつ分けてもらうのが好き。",
+    "tagline": "丸い粒のような、つぶつぶの体。",
+    "description": "淡い紫色の体に、ぶどうの粒のような丸いふくらみ。手足を広げた姿も、丸く縮こまった姿もかわいい仲間です。うれしい気分や感謝を伝えるときに。",
     "color": "#e6c8f1",
     "traits": [
       "つぶつぶ",
-      "気持ち大盛り",
-      "ころころ"
+      "淡い紫色",
+      "丸いふくらみ"
     ],
     "main": "assets/characters/tsuburi/main.webp",
     "stickers": [
@@ -1814,8 +1814,9 @@
         "caption": "またころっとね"
       }
     ],
-    "storeUrl": null,
-    "availability": "coming-soon"
+    "storeUrl": "https://store.line.me/stickershop/product/37233739/ja",
+    "availability": "available",
+    "releasedAsNew": true
   },
   {
     "id": "pirone",
@@ -1824,13 +1825,13 @@
     "englishName": "Pirone",
     "group": "新しい仲間",
     "temperament": "おっとり",
-    "tagline": "その話、長い耳でひろいます。",
-    "description": "ひらひら長いリボンみたいな耳は、お話を聞くための自慢。びっくりすると耳が追いつかない。ひと息つきたいときには、そばで静かに聞いてくれる。",
+    "tagline": "リボンのような、長い耳が目印。",
+    "description": "淡い黄色の体に、足元まで届く長い耳。耳を広げたり、くるんと巻いたりするポーズが特徴です。話を聞いていると伝えたいときや、ひと息つきたいときに。",
     "color": "#f8edb4",
     "traits": [
       "リボンの耳",
-      "聞き上手",
-      "ひらひら"
+      "淡い黄色",
+      "耳を巻くポーズ"
     ],
     "main": "assets/characters/pirone/main.webp",
     "stickers": [
@@ -1915,8 +1916,9 @@
         "caption": "またひらっとね"
       }
     ],
-    "storeUrl": null,
-    "availability": "coming-soon"
+    "storeUrl": "https://store.line.me/stickershop/product/37233736/ja",
+    "availability": "available",
+    "releasedAsNew": true
   },
   {
     "id": "pokome",
@@ -1925,13 +1927,13 @@
     "englishName": "Pokome",
     "group": "新しい仲間",
     "temperament": "にぎやか",
-    "tagline": "おなかいっぱい、気持ちもいっぱい。",
-    "description": "どーんとまるいおなかで、うれしさも元気もふくらませる。頼られると張り切るけれど、腹ペコにはちょっと弱い。休むときは空気を抜くみたいに、ふにゃり。",
+    "tagline": "ぽっこり大きな、丸いおなか。",
+    "description": "淡い青緑色の体に、大きくふくらんだ丸いおなか。小さな手足とのバランスがかわいい仲間です。喜びを伝えるときや、「任せて」と返事をするときに。",
     "color": "#c8eeea",
     "traits": [
       "大きなおなか",
-      "ふくらむ",
-      "頼もしい"
+      "青緑色の体",
+      "小さな手足"
     ],
     "main": "assets/characters/pokome/main.webp",
     "stickers": [
@@ -2016,8 +2018,9 @@
         "caption": "またぽこっとね"
       }
     ],
-    "storeUrl": null,
-    "availability": "coming-soon"
+    "storeUrl": "https://store.line.me/stickershop/product/37233727/ja",
+    "availability": "available",
+    "releasedAsNew": true
   },
   {
     "id": "subero",
@@ -2026,13 +2029,13 @@
     "englishName": "Subero",
     "group": "新しい仲間",
     "temperament": "ふしぎ",
-    "tagline": "床と仲よし、今日もすべっと。",
-    "description": "横に広いぺたんこボディと、ちいさなくるんのしっぽ。すべるように登場して、さりげなく友達を支える。疲れた日は、そのまま床と一体化。",
+    "tagline": "平たい体と、くるんとしたしっぽ。",
+    "description": "淡い桃色の平たい体に、横へ広がる手と小さなしっぽ。すべるような動きや、ぺたんと寝そべる姿が特徴です。休憩のお誘いや、さりげない応援に使えます。",
     "color": "#f6ccbd",
     "traits": [
       "ぺたんこ",
-      "すべっと移動",
-      "そっと支える"
+      "くるんとしたしっぽ",
+      "淡い桃色"
     ],
     "main": "assets/characters/subero/main.webp",
     "stickers": [
@@ -2117,7 +2120,8 @@
         "caption": "またすべっとね"
       }
     ],
-    "storeUrl": null,
-    "availability": "coming-soon"
+    "storeUrl": "https://store.line.me/stickershop/product/37233723/ja",
+    "availability": "available",
+    "releasedAsNew": true
   }
 ]
