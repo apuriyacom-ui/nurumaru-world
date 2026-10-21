@@ -118,7 +118,7 @@
     art.append(portrait(character, 'character-image'));
     open.append(art, node('span', 'character-number', numberLabel(character)),
       node('span', 'character-name', character.name),
-      node('span', 'character-tagline', character.tagline), traitTags(character, 'character-traits', 'span'));
+      node('span', 'character-tagline', character.tagline));
     open.addEventListener('click', () => openCharacter(character, open));
     article.append(open, favoriteButton(character));
     return article;
@@ -169,7 +169,7 @@
     title.id = 'dialog-title';
     intro.append(node('p', 'eyebrow', `${numberLabel(character)} / ${character.englishName || 'NURUMARU FRIENDS'}`),
       title, node('p', 'profile-tagline', character.tagline),
-      node('p', 'profile-description', character.description), traitTags(character));
+      node('p', 'profile-description', character.description));
     heading.append(portrait(character, 'profile-portrait', character.main, false), intro);
     const actions = node('div', 'profile-actions');
     actions.append(favoriteButton(character, true));
@@ -330,3 +330,4 @@
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initialize, { once: true });
   else initialize();
 })();
+

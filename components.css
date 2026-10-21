@@ -1,5 +1,12 @@
 @charset "UTF-8";
 
+body { text-rendering: optimizeLegibility; }
+h1, h2, h3, .character-card .character-name, .profile-name {
+  font-family: var(--round);
+  font-weight: 700;
+}
+.character-card .character-tagline { margin-bottom: 18px; }
+
 /* Keep every colored panel flush with the top of its card. */
 .character-card > button.card-open {
   display: flex;
