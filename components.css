@@ -1,5 +1,23 @@
 @charset "UTF-8";
 
+/* Keep every colored panel flush with the top of its card. */
+.character-card > button.card-open {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  padding-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+  vertical-align: top;
+}
+.character-card > .card-open > .character-art {
+  width: 100%;
+  margin-top: 0;
+  flex-shrink: 0;
+}
+
 /* Hero friends, the character catalog, and profile dialogs. */
 .hero-friends .hero-friend {
   position: absolute;
