@@ -181,6 +181,7 @@
       link.rel = 'noopener noreferrer';
       actions.append(link);
     }
+    if (character.availability === 'coming-soon') actions.append(node('p', 'store-note', 'LINEスタンプは審査待ちです。販売開始をお楽しみに！'));
     const galleryTitle = node('h3', 'sticker-gallery-title', `${character.name}のスタンプ`);
     const gallery = node('div', 'sticker-gallery');
     (Array.isArray(character.stickers) ? character.stickers : []).forEach((sticker, index) => {
@@ -299,7 +300,7 @@
   async function initialize() {
     initializeEvents();
     try {
-      const response = await fetch('data/characters.json?v=20261013-update1');
+      const response = await fetch('data/characters.json?v=20261021-update1');
       if (!response.ok) throw new Error(`Character data could not be loaded (${response.status}).`);
       const data = await response.json();
       if (!Array.isArray(data) || !data.length) throw new Error('Character data is empty.');
