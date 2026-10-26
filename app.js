@@ -300,7 +300,7 @@
   async function initialize() {
     initializeEvents();
     try {
-      const response = await fetch('data/characters.json?v=20261021-update1');
+      const response = await fetch('data/characters.json?v=20261026-new-friends');
       if (!response.ok) throw new Error(`Character data could not be loaded (${response.status}).`);
       const data = await response.json();
       if (!Array.isArray(data) || !data.length) throw new Error('Character data is empty.');
