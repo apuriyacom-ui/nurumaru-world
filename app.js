@@ -58,9 +58,9 @@
     const selected = favorites.has(character.id);
     button.classList.toggle('is-favorite', selected);
     button.setAttribute('aria-pressed', String(selected));
-    button.setAttribute('aria-label', `${character.name}をお気に入り${selected ? 'から外す' : 'に追加'}`);
+    button.setAttribute('aria-label', `${selected ? "Remove" : "Add"} ${character.name} ${selected ? "from" : "to"} favorites`);
     button.textContent = withLabel
-      ? selected ? '♥ お気に入りに登録済み' : '♡ お気に入りに追加'
+      ? selected ? '♥ Saved to favorites' : '♡ Add to favorites'
       : selected ? '♥' : '♡';
   }
 
@@ -89,7 +89,7 @@
   }
 
   function searchableText(character) {
-    return [character.name, character.englishName, character.tagline, character.description,
+    return [character.name, character.japaneseName, character.englishName, character.tagline, character.description,
       ...textList(character.traits), ...textList(character.temperament), ...textList(character.group)]
       .join(' ').normalize('NFKC').toLocaleLowerCase('ja');
   }
@@ -113,7 +113,7 @@
     const open = node('button', 'card-open');
     open.type = 'button';
     open.dataset.character = character.id;
-    open.setAttribute('aria-label', `${character.name}のプロフィールとスタンプを見る`);
+    open.setAttribute('aria-label', `Explore ${character.name} and their stickers`);
     const art = node('span', 'character-art');
     art.append(portrait(character, 'character-image'));
     open.append(art, node('span', 'character-number', numberLabel(character)),
@@ -130,13 +130,13 @@
     const matches = filteredCharacters();
     const shown = matches.slice(0, visibleLimit);
     grid.replaceChildren(...shown.map(card));
-    if ($('result-count')) $('result-count').textContent = `${matches.length}体のうち${shown.length}体を表示`;
+    if ($('result-count')) $('result-count').textContent = `Showing ${shown.length} of ${matches.length} friends`;
     if ($('load-more')) $('load-more').hidden = shown.length >= matches.length;
     if ($('empty-state')) {
       $('empty-state').hidden = matches.length !== 0;
       $('empty-state').textContent = activeFilter === 'favorites' && favorites.size === 0
-        ? 'まだお気に入りがいません。気になる子の♡を押してみてね。'
-        : '仲間が見つかりませんでした。検索する言葉を変えるか、絞り込みを解除してみてね。';
+        ? 'No favorites yet. Tap a heart to save a friend.'
+        : 'No friends found. Try another search or clear the filters.';
     }
     $('filter-bar')?.querySelectorAll('[data-filter]').forEach((button) => {
       const active = button.dataset.filter === activeFilter;
@@ -175,20 +175,28 @@
     actions.append(favoriteButton(character, true));
     const storeUrl = verifiedStoreUrl(character.storeUrl);
     if (storeUrl) {
-      const link = node('a', 'button button-primary store-link', 'この子のスタンプを買う ↗');
+      const link = node('a', 'button button-primary store-link', 'Buy English stickers ↗');
       link.href = storeUrl;
       link.target = '_blank';
       link.rel = 'noopener noreferrer';
       actions.append(link);
     }
-    if (character.availability === 'coming-soon') actions.append(node('p', 'store-note', 'LINEスタンプは審査待ちです。販売開始をお楽しみに！'));
-    const galleryTitle = node('h3', 'sticker-gallery-title', `${character.name}のスタンプ`);
+    if (character.availability === 'coming-soon') actions.append(node('p', 'store-note', 'English stickers are coming soon. They are not available to buy yet.'));
+    if (character.japaneseStoreUrl) {
+      const japaneseLink = node('a', 'button button-primary store-link', 'Shop Japanese edition ↗');
+      japaneseLink.href = verifiedStoreUrl(character.japaneseStoreUrl);
+      japaneseLink.target = '_blank'; japaneseLink.rel = 'noopener noreferrer';
+      actions.append(japaneseLink);
+    }
+    if (character.artworkLanguage !== 'en') actions.append(node('p', 'store-note', 'Japanese artwork preview with English translations below. English artwork is in production.'));
+    if (character.availability === 'english-in-production') actions.append(node('p', 'store-note', 'English sticker edition in preparation.'));
+    const galleryTitle = node('h3', 'sticker-gallery-title', `${character.name} stickers`);
     const gallery = node('div', 'sticker-gallery');
     (Array.isArray(character.stickers) ? character.stickers : []).forEach((sticker, index) => {
       const figure = node('figure', 'sticker-item');
       const num = String(sticker.number || index + 1).padStart(2, '0');
       const img = portrait(character, 'sticker-image', sticker.src);
-      img.alt = `${character.name}のスタンプ${num}${sticker.caption ? `「${sticker.caption}」` : ''}`;
+      img.alt = `${character.name} sticker ${num}${sticker.caption ? `「${sticker.caption}」` : ''}`;
       figure.append(img, node('figcaption', 'sticker-caption', sticker.caption || num));
       gallery.append(figure);
     });
@@ -199,7 +207,7 @@
   }
 
   function renderHero() {
-    const lead = characters.find((character) => character.name === 'ぬるまる') || characters[0];
+    const lead = characters.find((character) => character.id === 'nurumaru') || characters[0];
     if (!lead) return;
     const target = $('featured-character');
     if (target?.tagName === 'IMG') {
@@ -209,7 +217,7 @@
     } else if (target) target.replaceChildren(portrait(lead, 'hero-character-image', lead.main, false));
     const friends = $('hero-friends');
     if (friends) {
-      const selected = ['ぷるり', 'もにょん', 'ぽてぴ'].map((name) => findCharacter(name));
+      const selected = ['pururi', 'monyon', 'potepi'].map((id) => characters.find((c) => c.id === id));
       const unique = [...new Map(selected.map((character) => [character.id, character])).values()];
       for (const character of characters) {
         if (unique.length >= 3) break;
@@ -218,7 +226,7 @@
       friends.replaceChildren(...unique.slice(0, 3).map((character) => {
         const button = node('button', 'hero-friend');
         button.type = 'button';
-        button.setAttribute('aria-label', `${character.name}に会う`);
+        button.setAttribute('aria-label', `Meet ${character.name}`);
         button.append(portrait(character, 'hero-friend-image', character.main, false));
         button.addEventListener('click', () => openCharacter(character, button));
         return button;
@@ -252,9 +260,9 @@
     document.documentElement.dataset.motion = paused ? 'paused' : 'running';
     const button = $('motion-toggle');
     if (button) {
-      button.textContent = paused ? '動きを楽しむ' : '動きを止める';
+      button.textContent = paused ? 'Play motion' : 'Pause motion';
       button.setAttribute('aria-pressed', String(!paused));
-      button.setAttribute('aria-label', paused ? 'ページの動きを有効にする' : 'ページの動きを止める');
+      button.setAttribute('aria-label', paused ? 'Enable page motion' : 'Pause page motion');
     }
     if (persist) storage.set(MOTION_KEY, paused);
   }
@@ -300,7 +308,7 @@
   async function initialize() {
     initializeEvents();
     try {
-      const response = await fetch('data/characters.json?v=20261026-new-friends');
+      const response = await fetch('data/characters.json?v=20261026-english');
       if (!response.ok) throw new Error(`Character data could not be loaded (${response.status}).`);
       const data = await response.json();
       if (!Array.isArray(data) || !data.length) throw new Error('Character data is empty.');
@@ -308,7 +316,7 @@
         ...character,
         id: String(character.id ?? `friend-${index + 1}`),
         number: character.number ?? index + 1,
-        name: String(character.name || `仲間 ${index + 1}`),
+        name: String(character.name || `Friend ${index + 1}`),
         traits: textList(character.traits),
         stickers: Array.isArray(character.stickers) ? character.stickers : []
       }));
@@ -317,10 +325,10 @@
       renderCatalog();
       document.documentElement.classList.add('is-ready');
     } catch (error) {
-      if ($('result-count')) $('result-count').textContent = '仲間の情報を読み込めませんでした';
+      if ($('result-count')) $('result-count').textContent = 'Unable to load the characters';
       if ($('empty-state')) {
         $('empty-state').hidden = false;
-        $('empty-state').textContent = '通信を確認して、ページを再読み込みしてください。';
+        $('empty-state').textContent = 'Please check your connection and reload the page.';
       }
       if ($('load-more')) $('load-more').hidden = true;
       console.error(error);

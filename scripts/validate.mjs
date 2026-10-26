@@ -8,7 +8,7 @@ const ids = new Set(), numbers = new Set(), assets = new Set();
 const fail = message => errors.push(message);
 if (!Array.isArray(characters) || !characters.length || characters.length > 1000) fail('キャラクター数は1〜1000体にしてください。');
 const asset = (relative, owner) => {
-  if (typeof relative !== 'string' || !/^assets\/characters\/[a-z0-9-]+\/(main|\d{2})\.(png|webp)$/.test(relative)) return fail(`${owner}: 画像パスが不正です。`);
+  if (typeof relative !== 'string' || !/^assets\/characters(?:-en)?\/[a-z0-9-]+\/(main|\d{2})\.(png|webp)$/.test(relative)) return fail(`${owner}: 画像パスが不正です。`);
   const absolute = path.resolve(root, relative);
   if (!absolute.startsWith(root + path.sep) || !fs.existsSync(absolute)) return fail(`${owner}: ${relative} が見つかりません。`);
   const image = fs.readFileSync(absolute);

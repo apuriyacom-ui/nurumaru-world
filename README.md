@@ -1,4 +1,8 @@
-# ぬるまるのへんなまいにち
+# Nurumaru’s Weird Little World / ぬるまるのへんなまいにち
+
+The homepage now introduces all 53 characters in English. The Japanese edition is preserved at `/ja/`. English sticker artwork is being produced in stages; previews that still show Japanese captions are explicitly labeled. Shop links marked “Japanese edition” lead to existing Japanese packs. English editions are not yet available to purchase.
+
+Both language editions use the same character IDs and 16-sticker galleries. Keep English purchase links empty until the corresponding English pack has a verified public LINE STORE URL. Update `data/characters-ja.json` separately when maintaining the Japanese catalog.
 
 ぬるまるシリーズのキャラクター紹介サイト。GitHub Pagesで公開する、外部ライブラリ不要の静的サイトです。
 
