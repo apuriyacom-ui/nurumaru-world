@@ -862,96 +862,96 @@
       "淡い緑色",
       "短い手足"
     ],
-    "main": "assets/characters/suimochi/10.webp",
+    "main": "assets/characters-en/suimochi/10.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/suimochi/01.webp",
+        "src": "assets/characters-en/suimochi/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/suimochi/02.webp",
+        "src": "assets/characters-en/suimochi/02.webp",
         "caption": "Hey there!"
       },
       {
         "number": 3,
-        "src": "assets/characters/suimochi/03.webp",
+        "src": "assets/characters-en/suimochi/03.webp",
         "caption": "Thank you!"
       },
       {
         "number": 4,
-        "src": "assets/characters/suimochi/04.webp",
+        "src": "assets/characters-en/suimochi/04.webp",
         "caption": "Let’s be friends!"
       },
       {
         "number": 5,
-        "src": "assets/characters/suimochi/05.webp",
+        "src": "assets/characters-en/suimochi/05.webp",
         "caption": "Got it!"
       },
       {
         "number": 6,
-        "src": "assets/characters/suimochi/06.webp",
+        "src": "assets/characters-en/suimochi/06.webp",
         "caption": "Nice work!"
       },
       {
         "number": 7,
-        "src": "assets/characters/suimochi/07.webp",
+        "src": "assets/characters-en/suimochi/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/suimochi/08.webp",
+        "src": "assets/characters-en/suimochi/08.webp",
         "caption": "Good night!"
       },
       {
         "number": 9,
-        "src": "assets/characters/suimochi/09.webp",
+        "src": "assets/characters-en/suimochi/09.webp",
         "caption": "So excited!"
       },
       {
         "number": 10,
-        "src": "assets/characters/suimochi/10.webp",
+        "src": "assets/characters-en/suimochi/10.webp",
         "caption": "Whoa!"
       },
       {
         "number": 11,
-        "src": "assets/characters/suimochi/11.webp",
+        "src": "assets/characters-en/suimochi/11.webp",
         "caption": "Are you okay?"
       },
       {
         "number": 12,
-        "src": "assets/characters/suimochi/12.webp",
+        "src": "assets/characters-en/suimochi/12.webp",
         "caption": "Hold on!"
       },
       {
         "number": 13,
-        "src": "assets/characters/suimochi/13.webp",
+        "src": "assets/characters-en/suimochi/13.webp",
         "caption": "I’ll do my best!"
       },
       {
         "number": 14,
-        "src": "assets/characters/suimochi/14.webp",
+        "src": "assets/characters-en/suimochi/14.webp",
         "caption": "I’m bored"
       },
       {
         "number": 15,
-        "src": "assets/characters/suimochi/15.webp",
+        "src": "assets/characters-en/suimochi/15.webp",
         "caption": "See you soon!"
       },
       {
         "number": 16,
-        "src": "assets/characters/suimochi/16.webp",
+        "src": "assets/characters-en/suimochi/16.webp",
         "caption": "Oh, I see"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Whoa!",
     "japaneseName": "すいもち",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37182404/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "mimyon",
@@ -968,96 +968,96 @@
       "耳の内側はピンク",
       "淡い紫色"
     ],
-    "main": "assets/characters/mimyon/05.webp",
+    "main": "assets/characters-en/mimyon/05.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/mimyon/01.webp",
+        "src": "assets/characters-en/mimyon/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/mimyon/02.webp",
+        "src": "assets/characters-en/mimyon/02.webp",
         "caption": "Hey there!"
       },
       {
         "number": 3,
-        "src": "assets/characters/mimyon/03.webp",
+        "src": "assets/characters-en/mimyon/03.webp",
         "caption": "Thank you!"
       },
       {
         "number": 4,
-        "src": "assets/characters/mimyon/04.webp",
+        "src": "assets/characters-en/mimyon/04.webp",
         "caption": "Let’s be friends!"
       },
       {
         "number": 5,
-        "src": "assets/characters/mimyon/05.webp",
+        "src": "assets/characters-en/mimyon/05.webp",
         "caption": "Got it!"
       },
       {
         "number": 6,
-        "src": "assets/characters/mimyon/06.webp",
+        "src": "assets/characters-en/mimyon/06.webp",
         "caption": "Nice work!"
       },
       {
         "number": 7,
-        "src": "assets/characters/mimyon/07.webp",
+        "src": "assets/characters-en/mimyon/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/mimyon/08.webp",
+        "src": "assets/characters-en/mimyon/08.webp",
         "caption": "Good night!"
       },
       {
         "number": 9,
-        "src": "assets/characters/mimyon/09.webp",
+        "src": "assets/characters-en/mimyon/09.webp",
         "caption": "So excited!"
       },
       {
         "number": 10,
-        "src": "assets/characters/mimyon/10.webp",
+        "src": "assets/characters-en/mimyon/10.webp",
         "caption": "Whoa!"
       },
       {
         "number": 11,
-        "src": "assets/characters/mimyon/11.webp",
+        "src": "assets/characters-en/mimyon/11.webp",
         "caption": "Are you okay?"
       },
       {
         "number": 12,
-        "src": "assets/characters/mimyon/12.webp",
+        "src": "assets/characters-en/mimyon/12.webp",
         "caption": "Hold on!"
       },
       {
         "number": 13,
-        "src": "assets/characters/mimyon/13.webp",
+        "src": "assets/characters-en/mimyon/13.webp",
         "caption": "I’ll do my best!"
       },
       {
         "number": 14,
-        "src": "assets/characters/mimyon/14.webp",
+        "src": "assets/characters-en/mimyon/14.webp",
         "caption": "I’m bored"
       },
       {
         "number": 15,
-        "src": "assets/characters/mimyon/15.webp",
+        "src": "assets/characters-en/mimyon/15.webp",
         "caption": "See you soon!"
       },
       {
         "number": 16,
-        "src": "assets/characters/mimyon/16.webp",
+        "src": "assets/characters-en/mimyon/16.webp",
         "caption": "Oh, I see"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Got it!",
     "japaneseName": "みみょん",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37187354/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "mokupu",
@@ -1074,96 +1074,96 @@
       "雲みたい",
       "淡い黄色"
     ],
-    "main": "assets/characters/mokupu/16.webp",
+    "main": "assets/characters-en/mokupu/16.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/mokupu/01.webp",
+        "src": "assets/characters-en/mokupu/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/mokupu/02.webp",
+        "src": "assets/characters-en/mokupu/02.webp",
         "caption": "Hey there!"
       },
       {
         "number": 3,
-        "src": "assets/characters/mokupu/03.webp",
+        "src": "assets/characters-en/mokupu/03.webp",
         "caption": "Thank you!"
       },
       {
         "number": 4,
-        "src": "assets/characters/mokupu/04.webp",
+        "src": "assets/characters-en/mokupu/04.webp",
         "caption": "Let’s be friends!"
       },
       {
         "number": 5,
-        "src": "assets/characters/mokupu/05.webp",
+        "src": "assets/characters-en/mokupu/05.webp",
         "caption": "Got it!"
       },
       {
         "number": 6,
-        "src": "assets/characters/mokupu/06.webp",
+        "src": "assets/characters-en/mokupu/06.webp",
         "caption": "Nice work!"
       },
       {
         "number": 7,
-        "src": "assets/characters/mokupu/07.webp",
+        "src": "assets/characters-en/mokupu/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/mokupu/08.webp",
+        "src": "assets/characters-en/mokupu/08.webp",
         "caption": "Good night!"
       },
       {
         "number": 9,
-        "src": "assets/characters/mokupu/09.webp",
+        "src": "assets/characters-en/mokupu/09.webp",
         "caption": "So excited!"
       },
       {
         "number": 10,
-        "src": "assets/characters/mokupu/10.webp",
+        "src": "assets/characters-en/mokupu/10.webp",
         "caption": "Whoa!"
       },
       {
         "number": 11,
-        "src": "assets/characters/mokupu/11.webp",
+        "src": "assets/characters-en/mokupu/11.webp",
         "caption": "Are you okay?"
       },
       {
         "number": 12,
-        "src": "assets/characters/mokupu/12.webp",
+        "src": "assets/characters-en/mokupu/12.webp",
         "caption": "Hold on!"
       },
       {
         "number": 13,
-        "src": "assets/characters/mokupu/13.webp",
+        "src": "assets/characters-en/mokupu/13.webp",
         "caption": "I’ll do my best!"
       },
       {
         "number": 14,
-        "src": "assets/characters/mokupu/14.webp",
+        "src": "assets/characters-en/mokupu/14.webp",
         "caption": "I’m bored"
       },
       {
         "number": 15,
-        "src": "assets/characters/mokupu/15.webp",
+        "src": "assets/characters-en/mokupu/15.webp",
         "caption": "See you soon!"
       },
       {
         "number": 16,
-        "src": "assets/characters/mokupu/16.webp",
+        "src": "assets/characters-en/mokupu/16.webp",
         "caption": "Oh, I see"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Oh, I see",
     "japaneseName": "もくぷ",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37187997/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "tayuri",
@@ -1180,96 +1180,96 @@
       "青緑色の体",
       "丸いおなか"
     ],
-    "main": "assets/characters/tayuri/08.webp",
+    "main": "assets/characters-en/tayuri/08.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/tayuri/01.webp",
+        "src": "assets/characters-en/tayuri/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/tayuri/02.webp",
+        "src": "assets/characters-en/tayuri/02.webp",
         "caption": "Hey there!"
       },
       {
         "number": 3,
-        "src": "assets/characters/tayuri/03.webp",
+        "src": "assets/characters-en/tayuri/03.webp",
         "caption": "Thank you!"
       },
       {
         "number": 4,
-        "src": "assets/characters/tayuri/04.webp",
+        "src": "assets/characters-en/tayuri/04.webp",
         "caption": "Let’s be friends!"
       },
       {
         "number": 5,
-        "src": "assets/characters/tayuri/05.webp",
+        "src": "assets/characters-en/tayuri/05.webp",
         "caption": "Got it!"
       },
       {
         "number": 6,
-        "src": "assets/characters/tayuri/06.webp",
+        "src": "assets/characters-en/tayuri/06.webp",
         "caption": "Nice work!"
       },
       {
         "number": 7,
-        "src": "assets/characters/tayuri/07.webp",
+        "src": "assets/characters-en/tayuri/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/tayuri/08.webp",
+        "src": "assets/characters-en/tayuri/08.webp",
         "caption": "Good night!"
       },
       {
         "number": 9,
-        "src": "assets/characters/tayuri/09.webp",
+        "src": "assets/characters-en/tayuri/09.webp",
         "caption": "So excited!"
       },
       {
         "number": 10,
-        "src": "assets/characters/tayuri/10.webp",
+        "src": "assets/characters-en/tayuri/10.webp",
         "caption": "Whoa!"
       },
       {
         "number": 11,
-        "src": "assets/characters/tayuri/11.webp",
+        "src": "assets/characters-en/tayuri/11.webp",
         "caption": "Are you okay?"
       },
       {
         "number": 12,
-        "src": "assets/characters/tayuri/12.webp",
+        "src": "assets/characters-en/tayuri/12.webp",
         "caption": "Hold on!"
       },
       {
         "number": 13,
-        "src": "assets/characters/tayuri/13.webp",
+        "src": "assets/characters-en/tayuri/13.webp",
         "caption": "I’ll do my best!"
       },
       {
         "number": 14,
-        "src": "assets/characters/tayuri/14.webp",
+        "src": "assets/characters-en/tayuri/14.webp",
         "caption": "I’m bored"
       },
       {
         "number": 15,
-        "src": "assets/characters/tayuri/15.webp",
+        "src": "assets/characters-en/tayuri/15.webp",
         "caption": "See you soon!"
       },
       {
         "number": 16,
-        "src": "assets/characters/tayuri/16.webp",
+        "src": "assets/characters-en/tayuri/16.webp",
         "caption": "Oh, I see"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Good night!",
     "japaneseName": "たゆり",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37188000/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "koromu",
@@ -1286,96 +1286,96 @@
       "緑色の殻",
       "クリーム色の体"
     ],
-    "main": "assets/characters/koromu/11.webp",
+    "main": "assets/characters-en/koromu/11.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/koromu/01.webp",
+        "src": "assets/characters-en/koromu/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/koromu/02.webp",
+        "src": "assets/characters-en/koromu/02.webp",
         "caption": "Hey there!"
       },
       {
         "number": 3,
-        "src": "assets/characters/koromu/03.webp",
+        "src": "assets/characters-en/koromu/03.webp",
         "caption": "Thank you!"
       },
       {
         "number": 4,
-        "src": "assets/characters/koromu/04.webp",
+        "src": "assets/characters-en/koromu/04.webp",
         "caption": "Let’s be friends!"
       },
       {
         "number": 5,
-        "src": "assets/characters/koromu/05.webp",
+        "src": "assets/characters-en/koromu/05.webp",
         "caption": "Got it!"
       },
       {
         "number": 6,
-        "src": "assets/characters/koromu/06.webp",
+        "src": "assets/characters-en/koromu/06.webp",
         "caption": "Nice work!"
       },
       {
         "number": 7,
-        "src": "assets/characters/koromu/07.webp",
+        "src": "assets/characters-en/koromu/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/koromu/08.webp",
+        "src": "assets/characters-en/koromu/08.webp",
         "caption": "Good night!"
       },
       {
         "number": 9,
-        "src": "assets/characters/koromu/09.webp",
+        "src": "assets/characters-en/koromu/09.webp",
         "caption": "So excited!"
       },
       {
         "number": 10,
-        "src": "assets/characters/koromu/10.webp",
+        "src": "assets/characters-en/koromu/10.webp",
         "caption": "Whoa!"
       },
       {
         "number": 11,
-        "src": "assets/characters/koromu/11.webp",
+        "src": "assets/characters-en/koromu/11.webp",
         "caption": "Are you okay?"
       },
       {
         "number": 12,
-        "src": "assets/characters/koromu/12.webp",
+        "src": "assets/characters-en/koromu/12.webp",
         "caption": "Hold on!"
       },
       {
         "number": 13,
-        "src": "assets/characters/koromu/13.webp",
+        "src": "assets/characters-en/koromu/13.webp",
         "caption": "I’ll do my best!"
       },
       {
         "number": 14,
-        "src": "assets/characters/koromu/14.webp",
+        "src": "assets/characters-en/koromu/14.webp",
         "caption": "I’m bored"
       },
       {
         "number": 15,
-        "src": "assets/characters/koromu/15.webp",
+        "src": "assets/characters-en/koromu/15.webp",
         "caption": "See you soon!"
       },
       {
         "number": 16,
-        "src": "assets/characters/koromu/16.webp",
+        "src": "assets/characters-en/koromu/16.webp",
         "caption": "Oh, I see"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Are you okay?",
     "japaneseName": "ころむ",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37188012/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "peromu",
@@ -1392,96 +1392,96 @@
       "淡いピンク色",
       "短い手足"
     ],
-    "main": "assets/characters/peromu/02.webp",
+    "main": "assets/characters-en/peromu/02.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/peromu/01.webp",
+        "src": "assets/characters-en/peromu/01.webp",
         "caption": "Slipping into view"
       },
       {
         "number": 2,
-        "src": "assets/characters/peromu/02.webp",
+        "src": "assets/characters-en/peromu/02.webp",
         "caption": "Can I have a taste?"
       },
       {
         "number": 3,
-        "src": "assets/characters/peromu/03.webp",
+        "src": "assets/characters-en/peromu/03.webp",
         "caption": "Too happy to contain!"
       },
       {
         "number": 4,
-        "src": "assets/characters/peromu/04.webp",
+        "src": "assets/characters-en/peromu/04.webp",
         "caption": "Wrapped in sadness"
       },
       {
         "number": 5,
-        "src": "assets/characters/peromu/05.webp",
+        "src": "assets/characters-en/peromu/05.webp",
         "caption": "Thank you!"
       },
       {
         "number": 6,
-        "src": "assets/characters/peromu/06.webp",
+        "src": "assets/characters-en/peromu/06.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 7,
-        "src": "assets/characters/peromu/07.webp",
+        "src": "assets/characters-en/peromu/07.webp",
         "caption": "On my way!"
       },
       {
         "number": 8,
-        "src": "assets/characters/peromu/08.webp",
+        "src": "assets/characters-en/peromu/08.webp",
         "caption": "Hold on!"
       },
       {
         "number": 9,
-        "src": "assets/characters/peromu/09.webp",
+        "src": "assets/characters-en/peromu/09.webp",
         "caption": "Overthinking my mistake"
       },
       {
         "number": 10,
-        "src": "assets/characters/peromu/10.webp",
+        "src": "assets/characters-en/peromu/10.webp",
         "caption": "My tummy is debating"
       },
       {
         "number": 11,
-        "src": "assets/characters/peromu/11.webp",
+        "src": "assets/characters-en/peromu/11.webp",
         "caption": "Totally agree!"
       },
       {
         "number": 12,
-        "src": "assets/characters/peromu/12.webp",
+        "src": "assets/characters-en/peromu/12.webp",
         "caption": "Nobody told me!"
       },
       {
         "number": 13,
-        "src": "assets/characters/peromu/13.webp",
+        "src": "assets/characters-en/peromu/13.webp",
         "caption": "Praise is welcome"
       },
       {
         "number": 14,
-        "src": "assets/characters/peromu/14.webp",
+        "src": "assets/characters-en/peromu/14.webp",
         "caption": "Looking out for you"
       },
       {
         "number": 15,
-        "src": "assets/characters/peromu/15.webp",
+        "src": "assets/characters-en/peromu/15.webp",
         "caption": "Wrapping up for today"
       },
       {
         "number": 16,
-        "src": "assets/characters/peromu/16.webp",
+        "src": "assets/characters-en/peromu/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Can I have a taste?",
     "japaneseName": "ぺろむ",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37192417/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "uneri",
@@ -1498,96 +1498,96 @@
       "黄緑色",
       "丸まるポーズ"
     ],
-    "main": "assets/characters/uneri/14.webp",
+    "main": "assets/characters-en/uneri/14.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/uneri/01.webp",
+        "src": "assets/characters-en/uneri/01.webp",
         "caption": "Feelings all over the place"
       },
       {
         "number": 2,
-        "src": "assets/characters/uneri/02.webp",
+        "src": "assets/characters-en/uneri/02.webp",
         "caption": "Motivation missing"
       },
       {
         "number": 3,
-        "src": "assets/characters/uneri/03.webp",
+        "src": "assets/characters-en/uneri/03.webp",
         "caption": "Mostly agree"
       },
       {
         "number": 4,
-        "src": "assets/characters/uneri/04.webp",
+        "src": "assets/characters-en/uneri/04.webp",
         "caption": "Curl-up break"
       },
       {
         "number": 5,
-        "src": "assets/characters/uneri/05.webp",
+        "src": "assets/characters-en/uneri/05.webp",
         "caption": "Waves of gratitude"
       },
       {
         "number": 6,
-        "src": "assets/characters/uneri/06.webp",
+        "src": "assets/characters-en/uneri/06.webp",
         "caption": "Take your time"
       },
       {
         "number": 7,
-        "src": "assets/characters/uneri/07.webp",
+        "src": "assets/characters-en/uneri/07.webp",
         "caption": "Time to get moving"
       },
       {
         "number": 8,
-        "src": "assets/characters/uneri/08.webp",
+        "src": "assets/characters-en/uneri/08.webp",
         "caption": "Now I’m curious"
       },
       {
         "number": 9,
-        "src": "assets/characters/uneri/09.webp",
+        "src": "assets/characters-en/uneri/09.webp",
         "caption": "A little tangled"
       },
       {
         "number": 10,
-        "src": "assets/characters/uneri/10.webp",
+        "src": "assets/characters-en/uneri/10.webp",
         "caption": "Take it easy"
       },
       {
         "number": 11,
-        "src": "assets/characters/uneri/11.webp",
+        "src": "assets/characters-en/uneri/11.webp",
         "caption": "Looks good!"
       },
       {
         "number": 12,
-        "src": "assets/characters/uneri/12.webp",
+        "src": "assets/characters-en/uneri/12.webp",
         "caption": "Low-power mode"
       },
       {
         "number": 13,
-        "src": "assets/characters/uneri/13.webp",
+        "src": "assets/characters-en/uneri/13.webp",
         "caption": "Stretched by surprise!"
       },
       {
         "number": 14,
-        "src": "assets/characters/uneri/14.webp",
+        "src": "assets/characters-en/uneri/14.webp",
         "caption": "Cheering you on!"
       },
       {
         "number": 15,
-        "src": "assets/characters/uneri/15.webp",
+        "src": "assets/characters-en/uneri/15.webp",
         "caption": "Starting to unwind"
       },
       {
         "number": 16,
-        "src": "assets/characters/uneri/16.webp",
+        "src": "assets/characters-en/uneri/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Cheering you on!",
     "japaneseName": "うねり",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37192433/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "hoppero",
@@ -1604,96 +1604,96 @@
       "淡いオレンジ色",
       "ほっぺを抱えるポーズ"
     ],
-    "main": "assets/characters/hoppero/01.webp",
+    "main": "assets/characters-en/hoppero/01.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/hoppero/01.webp",
+        "src": "assets/characters-en/hoppero/01.webp",
         "caption": "Cheeks feeling heavy"
       },
       {
         "number": 2,
-        "src": "assets/characters/hoppero/02.webp",
+        "src": "assets/characters-en/hoppero/02.webp",
         "caption": "Can’t stop grinning"
       },
       {
         "number": 3,
-        "src": "assets/characters/hoppero/03.webp",
+        "src": "assets/characters-en/hoppero/03.webp",
         "caption": "Praise makes me glow"
       },
       {
         "number": 4,
-        "src": "assets/characters/hoppero/04.webp",
+        "src": "assets/characters-en/hoppero/04.webp",
         "caption": "Savoring the moment"
       },
       {
         "number": 5,
-        "src": "assets/characters/hoppero/05.webp",
+        "src": "assets/characters-en/hoppero/05.webp",
         "caption": "Thank you!"
       },
       {
         "number": 6,
-        "src": "assets/characters/hoppero/06.webp",
+        "src": "assets/characters-en/hoppero/06.webp",
         "caption": "That makes me happy"
       },
       {
         "number": 7,
-        "src": "assets/characters/hoppero/07.webp",
+        "src": "assets/characters-en/hoppero/07.webp",
         "caption": "Too delicious!"
       },
       {
         "number": 8,
-        "src": "assets/characters/hoppero/08.webp",
+        "src": "assets/characters-en/hoppero/08.webp",
         "caption": "Looks tasty!"
       },
       {
         "number": 9,
-        "src": "assets/characters/hoppero/09.webp",
+        "src": "assets/characters-en/hoppero/09.webp",
         "caption": "Just a little sulky"
       },
       {
         "number": 10,
-        "src": "assets/characters/hoppero/10.webp",
+        "src": "assets/characters-en/hoppero/10.webp",
         "caption": "Right here with you"
       },
       {
         "number": 11,
-        "src": "assets/characters/hoppero/11.webp",
+        "src": "assets/characters-en/hoppero/11.webp",
         "caption": "A huge round of applause!"
       },
       {
         "number": 12,
-        "src": "assets/characters/hoppero/12.webp",
+        "src": "assets/characters-en/hoppero/12.webp",
         "caption": "We have a situation!"
       },
       {
         "number": 13,
-        "src": "assets/characters/hoppero/13.webp",
+        "src": "assets/characters-en/hoppero/13.webp",
         "caption": "Time for a break"
       },
       {
         "number": 14,
-        "src": "assets/characters/hoppero/14.webp",
+        "src": "assets/characters-en/hoppero/14.webp",
         "caption": "Getting my hopes up"
       },
       {
         "number": 15,
-        "src": "assets/characters/hoppero/15.webp",
+        "src": "assets/characters-en/hoppero/15.webp",
         "caption": "Feeling down"
       },
       {
         "number": 16,
-        "src": "assets/characters/hoppero/16.webp",
+        "src": "assets/characters-en/hoppero/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Cheeks feeling heavy",
     "japaneseName": "ほっぺろ",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37192424/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "hidapo",
@@ -1710,96 +1710,96 @@
       "伸び縮みする体",
       "薄紫色"
     ],
-    "main": "assets/characters/hidapo/13.webp",
+    "main": "assets/characters-en/hidapo/13.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/hidapo/01.webp",
+        "src": "assets/characters-en/hidapo/01.webp",
         "caption": "Folding my feelings away"
       },
       {
         "number": 2,
-        "src": "assets/characters/hidapo/02.webp",
+        "src": "assets/characters-en/hidapo/02.webp",
         "caption": "Motivation unfolding"
       },
       {
         "number": 3,
-        "src": "assets/characters/hidapo/03.webp",
+        "src": "assets/characters-en/hidapo/03.webp",
         "caption": "Time to hide"
       },
       {
         "number": 4,
-        "src": "assets/characters/hidapo/04.webp",
+        "src": "assets/characters-en/hidapo/04.webp",
         "caption": "Back on my feet!"
       },
       {
         "number": 5,
-        "src": "assets/characters/hidapo/05.webp",
+        "src": "assets/characters-en/hidapo/05.webp",
         "caption": "Thanks upon thanks"
       },
       {
         "number": 6,
-        "src": "assets/characters/hidapo/06.webp",
+        "src": "assets/characters-en/hidapo/06.webp",
         "caption": "Got it!"
       },
       {
         "number": 7,
-        "src": "assets/characters/hidapo/07.webp",
+        "src": "assets/characters-en/hidapo/07.webp",
         "caption": "Room to grow"
       },
       {
         "number": 8,
-        "src": "assets/characters/hidapo/08.webp",
+        "src": "assets/characters-en/hidapo/08.webp",
         "caption": "Hold on!"
       },
       {
         "number": 9,
-        "src": "assets/characters/hidapo/09.webp",
+        "src": "assets/characters-en/hidapo/09.webp",
         "caption": "Folding up in regret"
       },
       {
         "number": 10,
-        "src": "assets/characters/hidapo/10.webp",
+        "src": "assets/characters-en/hidapo/10.webp",
         "caption": "Time to unwind"
       },
       {
         "number": 11,
-        "src": "assets/characters/hidapo/11.webp",
+        "src": "assets/characters-en/hidapo/11.webp",
         "caption": "Extra joy!"
       },
       {
         "number": 12,
-        "src": "assets/characters/hidapo/12.webp",
+        "src": "assets/characters-en/hidapo/12.webp",
         "caption": "Wait, whaaat?!"
       },
       {
         "number": 13,
-        "src": "assets/characters/hidapo/13.webp",
+        "src": "assets/characters-en/hidapo/13.webp",
         "caption": "Cheering you on!"
       },
       {
         "number": 14,
-        "src": "assets/characters/hidapo/14.webp",
+        "src": "assets/characters-en/hidapo/14.webp",
         "caption": "Taking a break"
       },
       {
         "number": 15,
-        "src": "assets/characters/hidapo/15.webp",
+        "src": "assets/characters-en/hidapo/15.webp",
         "caption": "Closing up soon"
       },
       {
         "number": 16,
-        "src": "assets/characters/hidapo/16.webp",
+        "src": "assets/characters-en/hidapo/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Cheering you on!",
     "japaneseName": "ひだぽ",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37192436/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "tsuburi",
@@ -1816,96 +1816,96 @@
       "淡い紫色",
       "丸いふくらみ"
     ],
-    "main": "assets/characters/tsuburi/04.webp",
+    "main": "assets/characters-en/tsuburi/04.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/tsuburi/01.webp",
+        "src": "assets/characters-en/tsuburi/01.webp",
         "caption": "Popping in!"
       },
       {
         "number": 2,
-        "src": "assets/characters/tsuburi/02.webp",
+        "src": "assets/characters-en/tsuburi/02.webp",
         "caption": "Too many feelings"
       },
       {
         "number": 3,
-        "src": "assets/characters/tsuburi/03.webp",
+        "src": "assets/characters-en/tsuburi/03.webp",
         "caption": "Extra happy!"
       },
       {
         "number": 4,
-        "src": "assets/characters/tsuburi/04.webp",
+        "src": "assets/characters-en/tsuburi/04.webp",
         "caption": "Feeling small today"
       },
       {
         "number": 5,
-        "src": "assets/characters/tsuburi/05.webp",
+        "src": "assets/characters-en/tsuburi/05.webp",
         "caption": "Thank you!"
       },
       {
         "number": 6,
-        "src": "assets/characters/tsuburi/06.webp",
+        "src": "assets/characters-en/tsuburi/06.webp",
         "caption": "I’ll handle it all"
       },
       {
         "number": 7,
-        "src": "assets/characters/tsuburi/07.webp",
+        "src": "assets/characters-en/tsuburi/07.webp",
         "caption": "Rolling in a hurry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/tsuburi/08.webp",
+        "src": "assets/characters-en/tsuburi/08.webp",
         "caption": "One at a time, please"
       },
       {
         "number": 9,
-        "src": "assets/characters/tsuburi/09.webp",
+        "src": "assets/characters-en/tsuburi/09.webp",
         "caption": "A whole box of regrets"
       },
       {
         "number": 10,
-        "src": "assets/characters/tsuburi/10.webp",
+        "src": "assets/characters-en/tsuburi/10.webp",
         "caption": "Let’s talk snacks"
       },
       {
         "number": 11,
-        "src": "assets/characters/tsuburi/11.webp",
+        "src": "assets/characters-en/tsuburi/11.webp",
         "caption": "I’ll use that idea!"
       },
       {
         "number": 12,
-        "src": "assets/characters/tsuburi/12.webp",
+        "src": "assets/characters-en/tsuburi/12.webp",
         "caption": "There are more?!"
       },
       {
         "number": 13,
-        "src": "assets/characters/tsuburi/13.webp",
+        "src": "assets/characters-en/tsuburi/13.webp",
         "caption": "Waiting for praise"
       },
       {
         "number": 14,
-        "src": "assets/characters/tsuburi/14.webp",
+        "src": "assets/characters-en/tsuburi/14.webp",
         "caption": "Sending you energy"
       },
       {
         "number": 15,
-        "src": "assets/characters/tsuburi/15.webp",
+        "src": "assets/characters-en/tsuburi/15.webp",
         "caption": "Sold out today"
       },
       {
         "number": 16,
-        "src": "assets/characters/tsuburi/16.webp",
+        "src": "assets/characters-en/tsuburi/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Feeling small today",
     "japaneseName": "つぶり",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37233739/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "pirone",
@@ -1922,96 +1922,96 @@
       "淡い黄色",
       "耳を巻くポーズ"
     ],
-    "main": "assets/characters/pirone/07.webp",
+    "main": "assets/characters-en/pirone/07.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/pirone/01.webp",
+        "src": "assets/characters-en/pirone/01.webp",
         "caption": "Morning, sunshine!"
       },
       {
         "number": 2,
-        "src": "assets/characters/pirone/02.webp",
+        "src": "assets/characters-en/pirone/02.webp",
         "caption": "I’m all ears"
       },
       {
         "number": 3,
-        "src": "assets/characters/pirone/03.webp",
+        "src": "assets/characters-en/pirone/03.webp",
         "caption": "Fluttering with joy"
       },
       {
         "number": 4,
-        "src": "assets/characters/pirone/04.webp",
+        "src": "assets/characters-en/pirone/04.webp",
         "caption": "Droopy down to my ears"
       },
       {
         "number": 5,
-        "src": "assets/characters/pirone/05.webp",
+        "src": "assets/characters-en/pirone/05.webp",
         "caption": "Thanks that stretch for miles"
       },
       {
         "number": 6,
-        "src": "assets/characters/pirone/06.webp",
+        "src": "assets/characters-en/pirone/06.webp",
         "caption": "I’m on it!"
       },
       {
         "number": 7,
-        "src": "assets/characters/pirone/07.webp",
+        "src": "assets/characters-en/pirone/07.webp",
         "caption": "Faster than the wind!"
       },
       {
         "number": 8,
-        "src": "assets/characters/pirone/08.webp",
+        "src": "assets/characters-en/pirone/08.webp",
         "caption": "Hold that thought"
       },
       {
         "number": 9,
-        "src": "assets/characters/pirone/09.webp",
+        "src": "assets/characters-en/pirone/09.webp",
         "caption": "Sorry… I wilted"
       },
       {
         "number": 10,
-        "src": "assets/characters/pirone/10.webp",
+        "src": "assets/characters-en/pirone/10.webp",
         "caption": "Stretch break"
       },
       {
         "number": 11,
-        "src": "assets/characters/pirone/11.webp",
+        "src": "assets/characters-en/pirone/11.webp",
         "caption": "Looks good!"
       },
       {
         "number": 12,
-        "src": "assets/characters/pirone/12.webp",
+        "src": "assets/characters-en/pirone/12.webp",
         "caption": "My ears can’t keep up"
       },
       {
         "number": 13,
-        "src": "assets/characters/pirone/13.webp",
+        "src": "assets/characters-en/pirone/13.webp",
         "caption": "A little proud of this"
       },
       {
         "number": 14,
-        "src": "assets/characters/pirone/14.webp",
+        "src": "assets/characters-en/pirone/14.webp",
         "caption": "I’m listening"
       },
       {
         "number": 15,
-        "src": "assets/characters/pirone/15.webp",
+        "src": "assets/characters-en/pirone/15.webp",
         "caption": "Curling up for bed"
       },
       {
         "number": 16,
-        "src": "assets/characters/pirone/16.webp",
+        "src": "assets/characters-en/pirone/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Faster than the wind!",
     "japaneseName": "ぴろね",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37233736/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "pokome",
@@ -2028,96 +2028,96 @@
       "青緑色の体",
       "小さな手足"
     ],
-    "main": "assets/characters/pokome/09.webp",
+    "main": "assets/characters-en/pokome/09.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/pokome/01.webp",
+        "src": "assets/characters-en/pokome/01.webp",
         "caption": "Popping in!"
       },
       {
         "number": 2,
-        "src": "assets/characters/pokome/02.webp",
+        "src": "assets/characters-en/pokome/02.webp",
         "caption": "Motivation recharging"
       },
       {
         "number": 3,
-        "src": "assets/characters/pokome/03.webp",
+        "src": "assets/characters-en/pokome/03.webp",
         "caption": "Bursting with joy!"
       },
       {
         "number": 4,
-        "src": "assets/characters/pokome/04.webp",
+        "src": "assets/characters-en/pokome/04.webp",
         "caption": "Feeling a little down"
       },
       {
         "number": 5,
-        "src": "assets/characters/pokome/05.webp",
+        "src": "assets/characters-en/pokome/05.webp",
         "caption": "So much gratitude"
       },
       {
         "number": 6,
-        "src": "assets/characters/pokome/06.webp",
+        "src": "assets/characters-en/pokome/06.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 7,
-        "src": "assets/characters/pokome/07.webp",
+        "src": "assets/characters-en/pokome/07.webp",
         "caption": "On my way!"
       },
       {
         "number": 8,
-        "src": "assets/characters/pokome/08.webp",
+        "src": "assets/characters-en/pokome/08.webp",
         "caption": "Pause a sec"
       },
       {
         "number": 9,
-        "src": "assets/characters/pokome/09.webp",
+        "src": "assets/characters-en/pokome/09.webp",
         "caption": "Flattened by regret"
       },
       {
         "number": 10,
-        "src": "assets/characters/pokome/10.webp",
+        "src": "assets/characters-en/pokome/10.webp",
         "caption": "Getting hungry"
       },
       {
         "number": 11,
-        "src": "assets/characters/pokome/11.webp",
+        "src": "assets/characters-en/pokome/11.webp",
         "caption": "A big thumbs-up!"
       },
       {
         "number": 12,
-        "src": "assets/characters/pokome/12.webp",
+        "src": "assets/characters-en/pokome/12.webp",
         "caption": "Didn’t see that coming"
       },
       {
         "number": 13,
-        "src": "assets/characters/pokome/13.webp",
+        "src": "assets/characters-en/pokome/13.webp",
         "caption": "Feeling fantastic!"
       },
       {
         "number": 14,
-        "src": "assets/characters/pokome/14.webp",
+        "src": "assets/characters-en/pokome/14.webp",
         "caption": "Sending good vibes"
       },
       {
         "number": 15,
-        "src": "assets/characters/pokome/15.webp",
+        "src": "assets/characters-en/pokome/15.webp",
         "caption": "Deflating for bedtime"
       },
       {
         "number": 16,
-        "src": "assets/characters/pokome/16.webp",
+        "src": "assets/characters-en/pokome/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Flattened by regret",
     "japaneseName": "ぽこめ",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37233727/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "subero",
@@ -2134,96 +2134,96 @@
       "くるんとしたしっぽ",
       "淡い桃色"
     ],
-    "main": "assets/characters/subero/12.webp",
+    "main": "assets/characters-en/subero/12.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/subero/01.webp",
+        "src": "assets/characters-en/subero/01.webp",
         "caption": "Sliding in!"
       },
       {
         "number": 2,
-        "src": "assets/characters/subero/02.webp",
+        "src": "assets/characters-en/subero/02.webp",
         "caption": "Besties with the floor"
       },
       {
         "number": 3,
-        "src": "assets/characters/subero/03.webp",
+        "src": "assets/characters-en/subero/03.webp",
         "caption": "On cloud nine!"
       },
       {
         "number": 4,
-        "src": "assets/characters/subero/04.webp",
+        "src": "assets/characters-en/subero/04.webp",
         "caption": "Feeling flat"
       },
       {
         "number": 5,
-        "src": "assets/characters/subero/05.webp",
+        "src": "assets/characters-en/subero/05.webp",
         "caption": "Thank you!"
       },
       {
         "number": 6,
-        "src": "assets/characters/subero/06.webp",
+        "src": "assets/characters-en/subero/06.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 7,
-        "src": "assets/characters/subero/07.webp",
+        "src": "assets/characters-en/subero/07.webp",
         "caption": "On my way!"
       },
       {
         "number": 8,
-        "src": "assets/characters/subero/08.webp",
+        "src": "assets/characters-en/subero/08.webp",
         "caption": "Stop right there"
       },
       {
         "number": 9,
-        "src": "assets/characters/subero/09.webp",
+        "src": "assets/characters-en/subero/09.webp",
         "caption": "Deeply sorry"
       },
       {
         "number": 10,
-        "src": "assets/characters/subero/10.webp",
+        "src": "assets/characters-en/subero/10.webp",
         "caption": "How about some tea?"
       },
       {
         "number": 11,
-        "src": "assets/characters/subero/11.webp",
+        "src": "assets/characters-en/subero/11.webp",
         "caption": "Keep it up!"
       },
       {
         "number": 12,
-        "src": "assets/characters/subero/12.webp",
+        "src": "assets/characters-en/subero/12.webp",
         "caption": "Just in time?"
       },
       {
         "number": 13,
-        "src": "assets/characters/subero/13.webp",
+        "src": "assets/characters-en/subero/13.webp",
         "caption": "Getting carried away"
       },
       {
         "number": 14,
-        "src": "assets/characters/subero/14.webp",
+        "src": "assets/characters-en/subero/14.webp",
         "caption": "I’ve got your back"
       },
       {
         "number": 15,
-        "src": "assets/characters/subero/15.webp",
+        "src": "assets/characters-en/subero/15.webp",
         "caption": "Becoming one with the floor"
       },
       {
         "number": 16,
-        "src": "assets/characters/subero/16.webp",
+        "src": "assets/characters-en/subero/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Just in time?",
     "japaneseName": "すべろ",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37233723/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "kurune",
@@ -2240,96 +2240,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/kurune/03.webp",
+    "main": "assets/characters-en/kurune/03.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/kurune/01.webp",
+        "src": "assets/characters-en/kurune/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/kurune/02.webp",
+        "src": "assets/characters-en/kurune/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/kurune/03.webp",
+        "src": "assets/characters-en/kurune/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/kurune/04.webp",
+        "src": "assets/characters-en/kurune/04.webp",
         "caption": "Nice work!"
       },
       {
         "number": 5,
-        "src": "assets/characters/kurune/05.webp",
+        "src": "assets/characters-en/kurune/05.webp",
         "caption": "Hold on!"
       },
       {
         "number": 6,
-        "src": "assets/characters/kurune/06.webp",
+        "src": "assets/characters-en/kurune/06.webp",
         "caption": "On my way!"
       },
       {
         "number": 7,
-        "src": "assets/characters/kurune/07.webp",
+        "src": "assets/characters-en/kurune/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/kurune/08.webp",
+        "src": "assets/characters-en/kurune/08.webp",
         "caption": "So happy!"
       },
       {
         "number": 9,
-        "src": "assets/characters/kurune/09.webp",
+        "src": "assets/characters-en/kurune/09.webp",
         "caption": "Whoa!"
       },
       {
         "number": 10,
-        "src": "assets/characters/kurune/10.webp",
+        "src": "assets/characters-en/kurune/10.webp",
         "caption": "Are you okay?"
       },
       {
         "number": 11,
-        "src": "assets/characters/kurune/11.webp",
+        "src": "assets/characters-en/kurune/11.webp",
         "caption": "Let’s be friends!"
       },
       {
         "number": 12,
-        "src": "assets/characters/kurune/12.webp",
+        "src": "assets/characters-en/kurune/12.webp",
         "caption": "Time for a break"
       },
       {
         "number": 13,
-        "src": "assets/characters/kurune/13.webp",
+        "src": "assets/characters-en/kurune/13.webp",
         "caption": "Yay!"
       },
       {
         "number": 14,
-        "src": "assets/characters/kurune/14.webp",
+        "src": "assets/characters-en/kurune/14.webp",
         "caption": "Thinking…"
       },
       {
         "number": 15,
-        "src": "assets/characters/kurune/15.webp",
+        "src": "assets/characters-en/kurune/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/kurune/16.webp",
+        "src": "assets/characters-en/kurune/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Got it!",
     "japaneseName": "くるね",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37398659/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "noperu",
@@ -2346,96 +2346,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/noperu/15.webp",
+    "main": "assets/characters-en/noperu/15.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/noperu/01.webp",
+        "src": "assets/characters-en/noperu/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/noperu/02.webp",
+        "src": "assets/characters-en/noperu/02.webp",
         "caption": "Hey there!"
       },
       {
         "number": 3,
-        "src": "assets/characters/noperu/03.webp",
+        "src": "assets/characters-en/noperu/03.webp",
         "caption": "Thank you!"
       },
       {
         "number": 4,
-        "src": "assets/characters/noperu/04.webp",
+        "src": "assets/characters-en/noperu/04.webp",
         "caption": "Nice to meet you!"
       },
       {
         "number": 5,
-        "src": "assets/characters/noperu/05.webp",
+        "src": "assets/characters-en/noperu/05.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 6,
-        "src": "assets/characters/noperu/06.webp",
+        "src": "assets/characters-en/noperu/06.webp",
         "caption": "Nice work!"
       },
       {
         "number": 7,
-        "src": "assets/characters/noperu/07.webp",
+        "src": "assets/characters-en/noperu/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/noperu/08.webp",
+        "src": "assets/characters-en/noperu/08.webp",
         "caption": "Good night!"
       },
       {
         "number": 9,
-        "src": "assets/characters/noperu/09.webp",
+        "src": "assets/characters-en/noperu/09.webp",
         "caption": "Yay!"
       },
       {
         "number": 10,
-        "src": "assets/characters/noperu/10.webp",
+        "src": "assets/characters-en/noperu/10.webp",
         "caption": "A round of applause!"
       },
       {
         "number": 11,
-        "src": "assets/characters/noperu/11.webp",
+        "src": "assets/characters-en/noperu/11.webp",
         "caption": "Need a hand?"
       },
       {
         "number": 12,
-        "src": "assets/characters/noperu/12.webp",
+        "src": "assets/characters-en/noperu/12.webp",
         "caption": "Hold on!"
       },
       {
         "number": 13,
-        "src": "assets/characters/noperu/13.webp",
+        "src": "assets/characters-en/noperu/13.webp",
         "caption": "On my way!"
       },
       {
         "number": 14,
-        "src": "assets/characters/noperu/14.webp",
+        "src": "assets/characters-en/noperu/14.webp",
         "caption": "Time for a break"
       },
       {
         "number": 15,
-        "src": "assets/characters/noperu/15.webp",
+        "src": "assets/characters-en/noperu/15.webp",
         "caption": "See you soon!"
       },
       {
         "number": 16,
-        "src": "assets/characters/noperu/16.webp",
+        "src": "assets/characters-en/noperu/16.webp",
         "caption": "Hug time!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "See you soon!",
     "japaneseName": "のぺる",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37398656/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "poyosuke",
@@ -2452,96 +2452,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/poyosuke/06.webp",
+    "main": "assets/characters-en/poyosuke/06.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/poyosuke/01.webp",
+        "src": "assets/characters-en/poyosuke/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/poyosuke/02.webp",
+        "src": "assets/characters-en/poyosuke/02.webp",
         "caption": "Hey there!"
       },
       {
         "number": 3,
-        "src": "assets/characters/poyosuke/03.webp",
+        "src": "assets/characters-en/poyosuke/03.webp",
         "caption": "Thank you!"
       },
       {
         "number": 4,
-        "src": "assets/characters/poyosuke/04.webp",
+        "src": "assets/characters-en/poyosuke/04.webp",
         "caption": "Let’s be friends!"
       },
       {
         "number": 5,
-        "src": "assets/characters/poyosuke/05.webp",
+        "src": "assets/characters-en/poyosuke/05.webp",
         "caption": "Got it!"
       },
       {
         "number": 6,
-        "src": "assets/characters/poyosuke/06.webp",
+        "src": "assets/characters-en/poyosuke/06.webp",
         "caption": "Nice work!"
       },
       {
         "number": 7,
-        "src": "assets/characters/poyosuke/07.webp",
+        "src": "assets/characters-en/poyosuke/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/poyosuke/08.webp",
+        "src": "assets/characters-en/poyosuke/08.webp",
         "caption": "Good night!"
       },
       {
         "number": 9,
-        "src": "assets/characters/poyosuke/09.webp",
+        "src": "assets/characters-en/poyosuke/09.webp",
         "caption": "Hooray!"
       },
       {
         "number": 10,
-        "src": "assets/characters/poyosuke/10.webp",
+        "src": "assets/characters-en/poyosuke/10.webp",
         "caption": "Whoa!"
       },
       {
         "number": 11,
-        "src": "assets/characters/poyosuke/11.webp",
+        "src": "assets/characters-en/poyosuke/11.webp",
         "caption": "Are you okay?"
       },
       {
         "number": 12,
-        "src": "assets/characters/poyosuke/12.webp",
+        "src": "assets/characters-en/poyosuke/12.webp",
         "caption": "Hold on!"
       },
       {
         "number": 13,
-        "src": "assets/characters/poyosuke/13.webp",
+        "src": "assets/characters-en/poyosuke/13.webp",
         "caption": "On my way!"
       },
       {
         "number": 14,
-        "src": "assets/characters/poyosuke/14.webp",
+        "src": "assets/characters-en/poyosuke/14.webp",
         "caption": "Full-body break"
       },
       {
         "number": 15,
-        "src": "assets/characters/poyosuke/15.webp",
+        "src": "assets/characters-en/poyosuke/15.webp",
         "caption": "See you soon!"
       },
       {
         "number": 16,
-        "src": "assets/characters/poyosuke/16.webp",
+        "src": "assets/characters-en/poyosuke/16.webp",
         "caption": "High five!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Nice work!",
     "japaneseName": "ぽよすけ",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37398671/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "fuwarimo",
@@ -2558,96 +2558,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/fuwarimo/10.webp",
+    "main": "assets/characters-en/fuwarimo/10.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/fuwarimo/01.webp",
+        "src": "assets/characters-en/fuwarimo/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/fuwarimo/02.webp",
+        "src": "assets/characters-en/fuwarimo/02.webp",
         "caption": "Hey there!"
       },
       {
         "number": 3,
-        "src": "assets/characters/fuwarimo/03.webp",
+        "src": "assets/characters-en/fuwarimo/03.webp",
         "caption": "Thank you!"
       },
       {
         "number": 4,
-        "src": "assets/characters/fuwarimo/04.webp",
+        "src": "assets/characters-en/fuwarimo/04.webp",
         "caption": "Let’s be friends!"
       },
       {
         "number": 5,
-        "src": "assets/characters/fuwarimo/05.webp",
+        "src": "assets/characters-en/fuwarimo/05.webp",
         "caption": "Got it!"
       },
       {
         "number": 6,
-        "src": "assets/characters/fuwarimo/06.webp",
+        "src": "assets/characters-en/fuwarimo/06.webp",
         "caption": "Nice work!"
       },
       {
         "number": 7,
-        "src": "assets/characters/fuwarimo/07.webp",
+        "src": "assets/characters-en/fuwarimo/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/fuwarimo/08.webp",
+        "src": "assets/characters-en/fuwarimo/08.webp",
         "caption": "Good night!"
       },
       {
         "number": 9,
-        "src": "assets/characters/fuwarimo/09.webp",
+        "src": "assets/characters-en/fuwarimo/09.webp",
         "caption": "Give it a twirl!"
       },
       {
         "number": 10,
-        "src": "assets/characters/fuwarimo/10.webp",
+        "src": "assets/characters-en/fuwarimo/10.webp",
         "caption": "Whoa!"
       },
       {
         "number": 11,
-        "src": "assets/characters/fuwarimo/11.webp",
+        "src": "assets/characters-en/fuwarimo/11.webp",
         "caption": "Are you okay?"
       },
       {
         "number": 12,
-        "src": "assets/characters/fuwarimo/12.webp",
+        "src": "assets/characters-en/fuwarimo/12.webp",
         "caption": "Hold on!"
       },
       {
         "number": 13,
-        "src": "assets/characters/fuwarimo/13.webp",
+        "src": "assets/characters-en/fuwarimo/13.webp",
         "caption": "On my way!"
       },
       {
         "number": 14,
-        "src": "assets/characters/fuwarimo/14.webp",
+        "src": "assets/characters-en/fuwarimo/14.webp",
         "caption": "Time for a break"
       },
       {
         "number": 15,
-        "src": "assets/characters/fuwarimo/15.webp",
+        "src": "assets/characters-en/fuwarimo/15.webp",
         "caption": "See you soon!"
       },
       {
         "number": 16,
-        "src": "assets/characters/fuwarimo/16.webp",
+        "src": "assets/characters-en/fuwarimo/16.webp",
         "caption": "I’m here for you"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Whoa!",
     "japaneseName": "ふわりも",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37398670/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "toronbo",
@@ -2664,96 +2664,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/toronbo/05.webp",
+    "main": "assets/characters-en/toronbo/05.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/toronbo/01.webp",
+        "src": "assets/characters-en/toronbo/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/toronbo/02.webp",
+        "src": "assets/characters-en/toronbo/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/toronbo/03.webp",
+        "src": "assets/characters-en/toronbo/03.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 4,
-        "src": "assets/characters/toronbo/04.webp",
+        "src": "assets/characters-en/toronbo/04.webp",
         "caption": "Nice work!"
       },
       {
         "number": 5,
-        "src": "assets/characters/toronbo/05.webp",
+        "src": "assets/characters-en/toronbo/05.webp",
         "caption": "On my way!"
       },
       {
         "number": 6,
-        "src": "assets/characters/toronbo/06.webp",
+        "src": "assets/characters-en/toronbo/06.webp",
         "caption": "Hold on!"
       },
       {
         "number": 7,
-        "src": "assets/characters/toronbo/07.webp",
+        "src": "assets/characters-en/toronbo/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/toronbo/08.webp",
+        "src": "assets/characters-en/toronbo/08.webp",
         "caption": "Looks good!"
       },
       {
         "number": 9,
-        "src": "assets/characters/toronbo/09.webp",
+        "src": "assets/characters-en/toronbo/09.webp",
         "caption": "I get you!"
       },
       {
         "number": 10,
-        "src": "assets/characters/toronbo/10.webp",
+        "src": "assets/characters-en/toronbo/10.webp",
         "caption": "Seriously?!"
       },
       {
         "number": 11,
-        "src": "assets/characters/toronbo/11.webp",
+        "src": "assets/characters-en/toronbo/11.webp",
         "caption": "Where’s my motivation?"
       },
       {
         "number": 12,
-        "src": "assets/characters/toronbo/12.webp",
+        "src": "assets/characters-en/toronbo/12.webp",
         "caption": "Recharging"
       },
       {
         "number": 13,
-        "src": "assets/characters/toronbo/13.webp",
+        "src": "assets/characters-en/toronbo/13.webp",
         "caption": "So happy!"
       },
       {
         "number": 14,
-        "src": "assets/characters/toronbo/14.webp",
+        "src": "assets/characters-en/toronbo/14.webp",
         "caption": "Are you okay?"
       },
       {
         "number": 15,
-        "src": "assets/characters/toronbo/15.webp",
+        "src": "assets/characters-en/toronbo/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/toronbo/16.webp",
+        "src": "assets/characters-en/toronbo/16.webp",
         "caption": "See you tomorrow!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "On my way!",
     "japaneseName": "とろんぼ",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37435573/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "hasamoro",
@@ -2770,96 +2770,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/hasamoro/16.webp",
+    "main": "assets/characters-en/hasamoro/16.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/hasamoro/01.webp",
+        "src": "assets/characters-en/hasamoro/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/hasamoro/02.webp",
+        "src": "assets/characters-en/hasamoro/02.webp",
         "caption": "That helps a lot!"
       },
       {
         "number": 3,
-        "src": "assets/characters/hasamoro/03.webp",
+        "src": "assets/characters-en/hasamoro/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/hasamoro/04.webp",
+        "src": "assets/characters-en/hasamoro/04.webp",
         "caption": "Nice work!"
       },
       {
         "number": 5,
-        "src": "assets/characters/hasamoro/05.webp",
+        "src": "assets/characters-en/hasamoro/05.webp",
         "caption": "On my way!"
       },
       {
         "number": 6,
-        "src": "assets/characters/hasamoro/06.webp",
+        "src": "assets/characters-en/hasamoro/06.webp",
         "caption": "Hold on!"
       },
       {
         "number": 7,
-        "src": "assets/characters/hasamoro/07.webp",
+        "src": "assets/characters-en/hasamoro/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/hasamoro/08.webp",
+        "src": "assets/characters-en/hasamoro/08.webp",
         "caption": "Looks good!"
       },
       {
         "number": 9,
-        "src": "assets/characters/hasamoro/09.webp",
+        "src": "assets/characters-en/hasamoro/09.webp",
         "caption": "I get you!"
       },
       {
         "number": 10,
-        "src": "assets/characters/hasamoro/10.webp",
+        "src": "assets/characters-en/hasamoro/10.webp",
         "caption": "LOL"
       },
       {
         "number": 11,
-        "src": "assets/characters/hasamoro/11.webp",
+        "src": "assets/characters-en/hasamoro/11.webp",
         "caption": "Take it easy"
       },
       {
         "number": 12,
-        "src": "assets/characters/hasamoro/12.webp",
+        "src": "assets/characters-en/hasamoro/12.webp",
         "caption": "Time for a break"
       },
       {
         "number": 13,
-        "src": "assets/characters/hasamoro/13.webp",
+        "src": "assets/characters-en/hasamoro/13.webp",
         "caption": "Yay!"
       },
       {
         "number": 14,
-        "src": "assets/characters/hasamoro/14.webp",
+        "src": "assets/characters-en/hasamoro/14.webp",
         "caption": "I see you"
       },
       {
         "number": 15,
-        "src": "assets/characters/hasamoro/15.webp",
+        "src": "assets/characters-en/hasamoro/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/hasamoro/16.webp",
+        "src": "assets/characters-en/hasamoro/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "See you soon!",
     "japaneseName": "はさもろ",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37435569/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "fukuppe",
@@ -2876,96 +2876,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/fukuppe/08.webp",
+    "main": "assets/characters-en/fukuppe/08.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/fukuppe/01.webp",
+        "src": "assets/characters-en/fukuppe/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/fukuppe/02.webp",
+        "src": "assets/characters-en/fukuppe/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/fukuppe/03.webp",
+        "src": "assets/characters-en/fukuppe/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/fukuppe/04.webp",
+        "src": "assets/characters-en/fukuppe/04.webp",
         "caption": "Nice work!"
       },
       {
         "number": 5,
-        "src": "assets/characters/fukuppe/05.webp",
+        "src": "assets/characters-en/fukuppe/05.webp",
         "caption": "Just left!"
       },
       {
         "number": 6,
-        "src": "assets/characters/fukuppe/06.webp",
+        "src": "assets/characters-en/fukuppe/06.webp",
         "caption": "Hold on!"
       },
       {
         "number": 7,
-        "src": "assets/characters/fukuppe/07.webp",
+        "src": "assets/characters-en/fukuppe/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/fukuppe/08.webp",
+        "src": "assets/characters-en/fukuppe/08.webp",
         "caption": "Sounds good"
       },
       {
         "number": 9,
-        "src": "assets/characters/fukuppe/09.webp",
+        "src": "assets/characters-en/fukuppe/09.webp",
         "caption": "Exactly!"
       },
       {
         "number": 10,
-        "src": "assets/characters/fukuppe/10.webp",
+        "src": "assets/characters-en/fukuppe/10.webp",
         "caption": "What do you mean?"
       },
       {
         "number": 11,
-        "src": "assets/characters/fukuppe/11.webp",
+        "src": "assets/characters-en/fukuppe/11.webp",
         "caption": "Closed for today"
       },
       {
         "number": 12,
-        "src": "assets/characters/fukuppe/12.webp",
+        "src": "assets/characters-en/fukuppe/12.webp",
         "caption": "Let’s have tea"
       },
       {
         "number": 13,
-        "src": "assets/characters/fukuppe/13.webp",
+        "src": "assets/characters-en/fukuppe/13.webp",
         "caption": "How awesome is this?!"
       },
       {
         "number": 14,
-        "src": "assets/characters/fukuppe/14.webp",
+        "src": "assets/characters-en/fukuppe/14.webp",
         "caption": "Cheering you on!"
       },
       {
         "number": 15,
-        "src": "assets/characters/fukuppe/15.webp",
+        "src": "assets/characters-en/fukuppe/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/fukuppe/16.webp",
+        "src": "assets/characters-en/fukuppe/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Sounds good",
     "japaneseName": "ふくっぺ",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37435592/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "negomochi",
@@ -2982,96 +2982,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/negomochi/11.webp",
+    "main": "assets/characters-en/negomochi/11.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/negomochi/01.webp",
+        "src": "assets/characters-en/negomochi/01.webp",
         "caption": "I’m up!"
       },
       {
         "number": 2,
-        "src": "assets/characters/negomochi/02.webp",
+        "src": "assets/characters-en/negomochi/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/negomochi/03.webp",
+        "src": "assets/characters-en/negomochi/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/negomochi/04.webp",
+        "src": "assets/characters-en/negomochi/04.webp",
         "caption": "You did great!"
       },
       {
         "number": 5,
-        "src": "assets/characters/negomochi/05.webp",
+        "src": "assets/characters-en/negomochi/05.webp",
         "caption": "On my way!"
       },
       {
         "number": 6,
-        "src": "assets/characters/negomochi/06.webp",
+        "src": "assets/characters-en/negomochi/06.webp",
         "caption": "Wait for me!"
       },
       {
         "number": 7,
-        "src": "assets/characters/negomochi/07.webp",
+        "src": "assets/characters-en/negomochi/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/negomochi/08.webp",
+        "src": "assets/characters-en/negomochi/08.webp",
         "caption": "Love it!"
       },
       {
         "number": 9,
-        "src": "assets/characters/negomochi/09.webp",
+        "src": "assets/characters-en/negomochi/09.webp",
         "caption": "I get you!"
       },
       {
         "number": 10,
-        "src": "assets/characters/negomochi/10.webp",
+        "src": "assets/characters-en/negomochi/10.webp",
         "caption": "Seriously?"
       },
       {
         "number": 11,
-        "src": "assets/characters/negomochi/11.webp",
+        "src": "assets/characters-en/negomochi/11.webp",
         "caption": "Low-power mode"
       },
       {
         "number": 12,
-        "src": "assets/characters/negomochi/12.webp",
+        "src": "assets/characters-en/negomochi/12.webp",
         "caption": "Time for a break"
       },
       {
         "number": 13,
-        "src": "assets/characters/negomochi/13.webp",
+        "src": "assets/characters-en/negomochi/13.webp",
         "caption": "Getting hyped!"
       },
       {
         "number": 14,
-        "src": "assets/characters/negomochi/14.webp",
+        "src": "assets/characters-en/negomochi/14.webp",
         "caption": "I’m on your side"
       },
       {
         "number": 15,
-        "src": "assets/characters/negomochi/15.webp",
+        "src": "assets/characters-en/negomochi/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/negomochi/16.webp",
+        "src": "assets/characters-en/negomochi/16.webp",
         "caption": "See you tomorrow!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Low-power mode",
     "japaneseName": "ねごもち",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37435574/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "makurimo",
@@ -3088,96 +3088,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/makurimo/02.webp",
+    "main": "assets/characters-en/makurimo/02.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/makurimo/01.webp",
+        "src": "assets/characters-en/makurimo/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/makurimo/02.webp",
+        "src": "assets/characters-en/makurimo/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/makurimo/03.webp",
+        "src": "assets/characters-en/makurimo/03.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 4,
-        "src": "assets/characters/makurimo/04.webp",
+        "src": "assets/characters-en/makurimo/04.webp",
         "caption": "Nice work!"
       },
       {
         "number": 5,
-        "src": "assets/characters/makurimo/05.webp",
+        "src": "assets/characters-en/makurimo/05.webp",
         "caption": "On my way!"
       },
       {
         "number": 6,
-        "src": "assets/characters/makurimo/06.webp",
+        "src": "assets/characters-en/makurimo/06.webp",
         "caption": "Hold on!"
       },
       {
         "number": 7,
-        "src": "assets/characters/makurimo/07.webp",
+        "src": "assets/characters-en/makurimo/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/makurimo/08.webp",
+        "src": "assets/characters-en/makurimo/08.webp",
         "caption": "Looks good!"
       },
       {
         "number": 9,
-        "src": "assets/characters/makurimo/09.webp",
+        "src": "assets/characters-en/makurimo/09.webp",
         "caption": "I get you!"
       },
       {
         "number": 10,
-        "src": "assets/characters/makurimo/10.webp",
+        "src": "assets/characters-en/makurimo/10.webp",
         "caption": "What’s up?"
       },
       {
         "number": 11,
-        "src": "assets/characters/makurimo/11.webp",
+        "src": "assets/characters-en/makurimo/11.webp",
         "caption": "Motivation is asleep"
       },
       {
         "number": 12,
-        "src": "assets/characters/makurimo/12.webp",
+        "src": "assets/characters-en/makurimo/12.webp",
         "caption": "Time for a break"
       },
       {
         "number": 13,
-        "src": "assets/characters/makurimo/13.webp",
+        "src": "assets/characters-en/makurimo/13.webp",
         "caption": "So happy!"
       },
       {
         "number": 14,
-        "src": "assets/characters/makurimo/14.webp",
+        "src": "assets/characters-en/makurimo/14.webp",
         "caption": "Take it easy"
       },
       {
         "number": 15,
-        "src": "assets/characters/makurimo/15.webp",
+        "src": "assets/characters-en/makurimo/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/makurimo/16.webp",
+        "src": "assets/characters-en/makurimo/16.webp",
         "caption": "See you later!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Thank you!",
     "japaneseName": "まくりも",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37444657/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "chamoppe",
@@ -3194,96 +3194,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/chamoppe/14.webp",
+    "main": "assets/characters-en/chamoppe/14.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/chamoppe/01.webp",
+        "src": "assets/characters-en/chamoppe/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/chamoppe/02.webp",
+        "src": "assets/characters-en/chamoppe/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/chamoppe/03.webp",
+        "src": "assets/characters-en/chamoppe/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/chamoppe/04.webp",
+        "src": "assets/characters-en/chamoppe/04.webp",
         "caption": "Nice work!"
       },
       {
         "number": 5,
-        "src": "assets/characters/chamoppe/05.webp",
+        "src": "assets/characters-en/chamoppe/05.webp",
         "caption": "On my way!"
       },
       {
         "number": 6,
-        "src": "assets/characters/chamoppe/06.webp",
+        "src": "assets/characters-en/chamoppe/06.webp",
         "caption": "Hold on!"
       },
       {
         "number": 7,
-        "src": "assets/characters/chamoppe/07.webp",
+        "src": "assets/characters-en/chamoppe/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/chamoppe/08.webp",
+        "src": "assets/characters-en/chamoppe/08.webp",
         "caption": "Looks good!"
       },
       {
         "number": 9,
-        "src": "assets/characters/chamoppe/09.webp",
+        "src": "assets/characters-en/chamoppe/09.webp",
         "caption": "Exactly!"
       },
       {
         "number": 10,
-        "src": "assets/characters/chamoppe/10.webp",
+        "src": "assets/characters-en/chamoppe/10.webp",
         "caption": "Oh, really?"
       },
       {
         "number": 11,
-        "src": "assets/characters/chamoppe/11.webp",
+        "src": "assets/characters-en/chamoppe/11.webp",
         "caption": "I can’t anymore"
       },
       {
         "number": 12,
-        "src": "assets/characters/chamoppe/12.webp",
+        "src": "assets/characters-en/chamoppe/12.webp",
         "caption": "Time for tea"
       },
       {
         "number": 13,
-        "src": "assets/characters/chamoppe/13.webp",
+        "src": "assets/characters-en/chamoppe/13.webp",
         "caption": "Yay!"
       },
       {
         "number": 14,
-        "src": "assets/characters/chamoppe/14.webp",
+        "src": "assets/characters-en/chamoppe/14.webp",
         "caption": "It’s okay"
       },
       {
         "number": 15,
-        "src": "assets/characters/chamoppe/15.webp",
+        "src": "assets/characters-en/chamoppe/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/chamoppe/16.webp",
+        "src": "assets/characters-en/chamoppe/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "It’s okay",
     "japaneseName": "ちゃもっぺ",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37444695/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "pokurino",
@@ -3300,96 +3300,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/pokurino/01.webp",
+    "main": "assets/characters-en/pokurino/01.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/pokurino/01.webp",
+        "src": "assets/characters-en/pokurino/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/pokurino/02.webp",
+        "src": "assets/characters-en/pokurino/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/pokurino/03.webp",
+        "src": "assets/characters-en/pokurino/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/pokurino/04.webp",
+        "src": "assets/characters-en/pokurino/04.webp",
         "caption": "Nice work!"
       },
       {
         "number": 5,
-        "src": "assets/characters/pokurino/05.webp",
+        "src": "assets/characters-en/pokurino/05.webp",
         "caption": "On my way!"
       },
       {
         "number": 6,
-        "src": "assets/characters/pokurino/06.webp",
+        "src": "assets/characters-en/pokurino/06.webp",
         "caption": "Hold on!"
       },
       {
         "number": 7,
-        "src": "assets/characters/pokurino/07.webp",
+        "src": "assets/characters-en/pokurino/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/pokurino/08.webp",
+        "src": "assets/characters-en/pokurino/08.webp",
         "caption": "Looks good!"
       },
       {
         "number": 9,
-        "src": "assets/characters/pokurino/09.webp",
+        "src": "assets/characters-en/pokurino/09.webp",
         "caption": "Fair point"
       },
       {
         "number": 10,
-        "src": "assets/characters/pokurino/10.webp",
+        "src": "assets/characters-en/pokurino/10.webp",
         "caption": "You what?!"
       },
       {
         "number": 11,
-        "src": "assets/characters/pokurino/11.webp",
+        "src": "assets/characters-en/pokurino/11.webp",
         "caption": "Brain off duty"
       },
       {
         "number": 12,
-        "src": "assets/characters/pokurino/12.webp",
+        "src": "assets/characters-en/pokurino/12.webp",
         "caption": "Time for a break"
       },
       {
         "number": 13,
-        "src": "assets/characters/pokurino/13.webp",
+        "src": "assets/characters-en/pokurino/13.webp",
         "caption": "Yay!"
       },
       {
         "number": 14,
-        "src": "assets/characters/pokurino/14.webp",
+        "src": "assets/characters-en/pokurino/14.webp",
         "caption": "Cheering you on!"
       },
       {
         "number": 15,
-        "src": "assets/characters/pokurino/15.webp",
+        "src": "assets/characters-en/pokurino/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/pokurino/16.webp",
+        "src": "assets/characters-en/pokurino/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Good morning!",
     "japaneseName": "ぽくりの",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37444675/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "merupoko",
@@ -3406,96 +3406,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/merupoko/13.webp",
+    "main": "assets/characters-en/merupoko/13.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/merupoko/01.webp",
+        "src": "assets/characters-en/merupoko/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/merupoko/02.webp",
+        "src": "assets/characters-en/merupoko/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/merupoko/03.webp",
+        "src": "assets/characters-en/merupoko/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/merupoko/04.webp",
+        "src": "assets/characters-en/merupoko/04.webp",
         "caption": "Nice work!"
       },
       {
         "number": 5,
-        "src": "assets/characters/merupoko/05.webp",
+        "src": "assets/characters-en/merupoko/05.webp",
         "caption": "On my way!"
       },
       {
         "number": 6,
-        "src": "assets/characters/merupoko/06.webp",
+        "src": "assets/characters-en/merupoko/06.webp",
         "caption": "Hold on!"
       },
       {
         "number": 7,
-        "src": "assets/characters/merupoko/07.webp",
+        "src": "assets/characters-en/merupoko/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/merupoko/08.webp",
+        "src": "assets/characters-en/merupoko/08.webp",
         "caption": "Love it!"
       },
       {
         "number": 9,
-        "src": "assets/characters/merupoko/09.webp",
+        "src": "assets/characters-en/merupoko/09.webp",
         "caption": "I get you!"
       },
       {
         "number": 10,
-        "src": "assets/characters/merupoko/10.webp",
+        "src": "assets/characters-en/merupoko/10.webp",
         "caption": "Whoa!"
       },
       {
         "number": 11,
-        "src": "assets/characters/merupoko/11.webp",
+        "src": "assets/characters-en/merupoko/11.webp",
         "caption": "A mess today"
       },
       {
         "number": 12,
-        "src": "assets/characters/merupoko/12.webp",
+        "src": "assets/characters-en/merupoko/12.webp",
         "caption": "Time for a break"
       },
       {
         "number": 13,
-        "src": "assets/characters/merupoko/13.webp",
+        "src": "assets/characters-en/merupoko/13.webp",
         "caption": "So happy!"
       },
       {
         "number": 14,
-        "src": "assets/characters/merupoko/14.webp",
+        "src": "assets/characters-en/merupoko/14.webp",
         "caption": "I’m on your side"
       },
       {
         "number": 15,
-        "src": "assets/characters/merupoko/15.webp",
+        "src": "assets/characters-en/merupoko/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/merupoko/16.webp",
+        "src": "assets/characters-en/merupoko/16.webp",
         "caption": "See you tomorrow!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "So happy!",
     "japaneseName": "めるぽこ",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37444665/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "wappuru",
@@ -3512,96 +3512,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/wappuru/04.webp",
+    "main": "assets/characters-en/wappuru/04.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/wappuru/01.webp",
+        "src": "assets/characters-en/wappuru/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/wappuru/02.webp",
+        "src": "assets/characters-en/wappuru/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/wappuru/03.webp",
+        "src": "assets/characters-en/wappuru/03.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 4,
-        "src": "assets/characters/wappuru/04.webp",
+        "src": "assets/characters-en/wappuru/04.webp",
         "caption": "Nice work!"
       },
       {
         "number": 5,
-        "src": "assets/characters/wappuru/05.webp",
+        "src": "assets/characters-en/wappuru/05.webp",
         "caption": "On my way!"
       },
       {
         "number": 6,
-        "src": "assets/characters/wappuru/06.webp",
+        "src": "assets/characters-en/wappuru/06.webp",
         "caption": "Hold on!"
       },
       {
         "number": 7,
-        "src": "assets/characters/wappuru/07.webp",
+        "src": "assets/characters-en/wappuru/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/wappuru/08.webp",
+        "src": "assets/characters-en/wappuru/08.webp",
         "caption": "That could work"
       },
       {
         "number": 9,
-        "src": "assets/characters/wappuru/09.webp",
+        "src": "assets/characters-en/wappuru/09.webp",
         "caption": "I get you!"
       },
       {
         "number": 10,
-        "src": "assets/characters/wappuru/10.webp",
+        "src": "assets/characters-en/wappuru/10.webp",
         "caption": "Really?"
       },
       {
         "number": 11,
-        "src": "assets/characters/wappuru/11.webp",
+        "src": "assets/characters-en/wappuru/11.webp",
         "caption": "Nothing in my head"
       },
       {
         "number": 12,
-        "src": "assets/characters/wappuru/12.webp",
+        "src": "assets/characters-en/wappuru/12.webp",
         "caption": "Tea break?"
       },
       {
         "number": 13,
-        "src": "assets/characters/wappuru/13.webp",
+        "src": "assets/characters-en/wappuru/13.webp",
         "caption": "Yay!"
       },
       {
         "number": 14,
-        "src": "assets/characters/wappuru/14.webp",
+        "src": "assets/characters-en/wappuru/14.webp",
         "caption": "I’m here for you"
       },
       {
         "number": 15,
-        "src": "assets/characters/wappuru/15.webp",
+        "src": "assets/characters-en/wappuru/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/wappuru/16.webp",
+        "src": "assets/characters-en/wappuru/16.webp",
         "caption": "See you tomorrow!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Nice work!",
     "japaneseName": "わっぷる",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37479271/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "takemoni",
@@ -3618,96 +3618,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/takemoni/07.webp",
+    "main": "assets/characters-en/takemoni/07.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/takemoni/01.webp",
+        "src": "assets/characters-en/takemoni/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/takemoni/02.webp",
+        "src": "assets/characters-en/takemoni/02.webp",
         "caption": "That helps a lot!"
       },
       {
         "number": 3,
-        "src": "assets/characters/takemoni/03.webp",
+        "src": "assets/characters-en/takemoni/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/takemoni/04.webp",
+        "src": "assets/characters-en/takemoni/04.webp",
         "caption": "Nice work!"
       },
       {
         "number": 5,
-        "src": "assets/characters/takemoni/05.webp",
+        "src": "assets/characters-en/takemoni/05.webp",
         "caption": "On my way!"
       },
       {
         "number": 6,
-        "src": "assets/characters/takemoni/06.webp",
+        "src": "assets/characters-en/takemoni/06.webp",
         "caption": "Hold on!"
       },
       {
         "number": 7,
-        "src": "assets/characters/takemoni/07.webp",
+        "src": "assets/characters-en/takemoni/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/takemoni/08.webp",
+        "src": "assets/characters-en/takemoni/08.webp",
         "caption": "Sounds good"
       },
       {
         "number": 9,
-        "src": "assets/characters/takemoni/09.webp",
+        "src": "assets/characters-en/takemoni/09.webp",
         "caption": "I get you!"
       },
       {
         "number": 10,
-        "src": "assets/characters/takemoni/10.webp",
+        "src": "assets/characters-en/takemoni/10.webp",
         "caption": "What on earth?!"
       },
       {
         "number": 11,
-        "src": "assets/characters/takemoni/11.webp",
+        "src": "assets/characters-en/takemoni/11.webp",
         "caption": "Low-power day"
       },
       {
         "number": 12,
-        "src": "assets/characters/takemoni/12.webp",
+        "src": "assets/characters-en/takemoni/12.webp",
         "caption": "Time for a break"
       },
       {
         "number": 13,
-        "src": "assets/characters/takemoni/13.webp",
+        "src": "assets/characters-en/takemoni/13.webp",
         "caption": "So happy!"
       },
       {
         "number": 14,
-        "src": "assets/characters/takemoni/14.webp",
+        "src": "assets/characters-en/takemoni/14.webp",
         "caption": "Take it easy"
       },
       {
         "number": 15,
-        "src": "assets/characters/takemoni/15.webp",
+        "src": "assets/characters-en/takemoni/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/takemoni/16.webp",
+        "src": "assets/characters-en/takemoni/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Sorry!",
     "japaneseName": "たけもに",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37479301/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "posune",
@@ -3724,96 +3724,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/posune/09.webp",
+    "main": "assets/characters-en/posune/09.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/posune/01.webp",
+        "src": "assets/characters-en/posune/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/posune/02.webp",
+        "src": "assets/characters-en/posune/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/posune/03.webp",
+        "src": "assets/characters-en/posune/03.webp",
         "caption": "Checked!"
       },
       {
         "number": 4,
-        "src": "assets/characters/posune/04.webp",
+        "src": "assets/characters-en/posune/04.webp",
         "caption": "Nice work!"
       },
       {
         "number": 5,
-        "src": "assets/characters/posune/05.webp",
+        "src": "assets/characters-en/posune/05.webp",
         "caption": "On my way!"
       },
       {
         "number": 6,
-        "src": "assets/characters/posune/06.webp",
+        "src": "assets/characters-en/posune/06.webp",
         "caption": "Hold on!"
       },
       {
         "number": 7,
-        "src": "assets/characters/posune/07.webp",
+        "src": "assets/characters-en/posune/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/posune/08.webp",
+        "src": "assets/characters-en/posune/08.webp",
         "caption": "Looks good!"
       },
       {
         "number": 9,
-        "src": "assets/characters/posune/09.webp",
+        "src": "assets/characters-en/posune/09.webp",
         "caption": "I get you!"
       },
       {
         "number": 10,
-        "src": "assets/characters/posune/10.webp",
+        "src": "assets/characters-en/posune/10.webp",
         "caption": "Whoa!"
       },
       {
         "number": 11,
-        "src": "assets/characters/posune/11.webp",
+        "src": "assets/characters-en/posune/11.webp",
         "caption": "Off duty today"
       },
       {
         "number": 12,
-        "src": "assets/characters/posune/12.webp",
+        "src": "assets/characters-en/posune/12.webp",
         "caption": "Time for a break"
       },
       {
         "number": 13,
-        "src": "assets/characters/posune/13.webp",
+        "src": "assets/characters-en/posune/13.webp",
         "caption": "Absolutely amazing!"
       },
       {
         "number": 14,
-        "src": "assets/characters/posune/14.webp",
+        "src": "assets/characters-en/posune/14.webp",
         "caption": "Cheering you on!"
       },
       {
         "number": 15,
-        "src": "assets/characters/posune/15.webp",
+        "src": "assets/characters-en/posune/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/posune/16.webp",
+        "src": "assets/characters-en/posune/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "I get you!",
     "japaneseName": "ぽすね",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37479276/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "kushupo",
@@ -3830,96 +3830,96 @@
       "まんまるの目",
       "大きなリアクション"
     ],
-    "main": "assets/characters/kushupo/12.webp",
+    "main": "assets/characters-en/kushupo/12.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/kushupo/01.webp",
+        "src": "assets/characters-en/kushupo/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/kushupo/02.webp",
+        "src": "assets/characters-en/kushupo/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/kushupo/03.webp",
+        "src": "assets/characters-en/kushupo/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/kushupo/04.webp",
+        "src": "assets/characters-en/kushupo/04.webp",
         "caption": "You did great!"
       },
       {
         "number": 5,
-        "src": "assets/characters/kushupo/05.webp",
+        "src": "assets/characters-en/kushupo/05.webp",
         "caption": "On my way!"
       },
       {
         "number": 6,
-        "src": "assets/characters/kushupo/06.webp",
+        "src": "assets/characters-en/kushupo/06.webp",
         "caption": "Wait for me!"
       },
       {
         "number": 7,
-        "src": "assets/characters/kushupo/07.webp",
+        "src": "assets/characters-en/kushupo/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/kushupo/08.webp",
+        "src": "assets/characters-en/kushupo/08.webp",
         "caption": "Love it!"
       },
       {
         "number": 9,
-        "src": "assets/characters/kushupo/09.webp",
+        "src": "assets/characters-en/kushupo/09.webp",
         "caption": "I get you!"
       },
       {
         "number": 10,
-        "src": "assets/characters/kushupo/10.webp",
+        "src": "assets/characters-en/kushupo/10.webp",
         "caption": "What do you mean?"
       },
       {
         "number": 11,
-        "src": "assets/characters/kushupo/11.webp",
+        "src": "assets/characters-en/kushupo/11.webp",
         "caption": "Feeling deflated"
       },
       {
         "number": 12,
-        "src": "assets/characters/kushupo/12.webp",
+        "src": "assets/characters-en/kushupo/12.webp",
         "caption": "Time for a break"
       },
       {
         "number": 13,
-        "src": "assets/characters/kushupo/13.webp",
+        "src": "assets/characters-en/kushupo/13.webp",
         "caption": "Getting hyped!"
       },
       {
         "number": 14,
-        "src": "assets/characters/kushupo/14.webp",
+        "src": "assets/characters-en/kushupo/14.webp",
         "caption": "I’m on your side"
       },
       {
         "number": 15,
-        "src": "assets/characters/kushupo/15.webp",
+        "src": "assets/characters-en/kushupo/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/kushupo/16.webp",
+        "src": "assets/characters-en/kushupo/16.webp",
         "caption": "See you tomorrow!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Time for a break",
     "japaneseName": "くしゅぽ",
     "japaneseStoreUrl": "https://store.line.me/stickershop/product/37479284/ja",
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "kasamon",
@@ -3936,97 +3936,97 @@
       "個性的な姿",
       "大きなリアクション"
     ],
-    "main": "assets/characters/kasamon/06.webp",
+    "main": "assets/characters-en/kasamon/06.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/kasamon/01.webp",
+        "src": "assets/characters-en/kasamon/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/kasamon/02.webp",
+        "src": "assets/characters-en/kasamon/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/kasamon/03.webp",
+        "src": "assets/characters-en/kasamon/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/kasamon/04.webp",
+        "src": "assets/characters-en/kasamon/04.webp",
         "caption": "Nice work!"
       },
       {
         "number": 5,
-        "src": "assets/characters/kasamon/05.webp",
+        "src": "assets/characters-en/kasamon/05.webp",
         "caption": "On my way!"
       },
       {
         "number": 6,
-        "src": "assets/characters/kasamon/06.webp",
+        "src": "assets/characters-en/kasamon/06.webp",
         "caption": "Hold on!"
       },
       {
         "number": 7,
-        "src": "assets/characters/kasamon/07.webp",
+        "src": "assets/characters-en/kasamon/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/kasamon/08.webp",
+        "src": "assets/characters-en/kasamon/08.webp",
         "caption": "Looks good!"
       },
       {
         "number": 9,
-        "src": "assets/characters/kasamon/09.webp",
+        "src": "assets/characters-en/kasamon/09.webp",
         "caption": "I get you!"
       },
       {
         "number": 10,
-        "src": "assets/characters/kasamon/10.webp",
+        "src": "assets/characters-en/kasamon/10.webp",
         "caption": "Seriously?"
       },
       {
         "number": 11,
-        "src": "assets/characters/kasamon/11.webp",
+        "src": "assets/characters-en/kasamon/11.webp",
         "caption": "Low-power day"
       },
       {
         "number": 12,
-        "src": "assets/characters/kasamon/12.webp",
+        "src": "assets/characters-en/kasamon/12.webp",
         "caption": "Rain won’t stop me"
       },
       {
         "number": 13,
-        "src": "assets/characters/kasamon/13.webp",
+        "src": "assets/characters-en/kasamon/13.webp",
         "caption": "That helps a lot!"
       },
       {
         "number": 14,
-        "src": "assets/characters/kasamon/14.webp",
+        "src": "assets/characters-en/kasamon/14.webp",
         "caption": "Take it easy"
       },
       {
         "number": 15,
-        "src": "assets/characters/kasamon/15.webp",
+        "src": "assets/characters-en/kasamon/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/kasamon/16.webp",
+        "src": "assets/characters-en/kasamon/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Hold on!",
     "stickerId": "48550790",
     "japaneseName": "かさもん",
     "japaneseStoreUrl": null,
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "jigupo",
@@ -4043,97 +4043,97 @@
       "個性的な姿",
       "大きなリアクション"
     ],
-    "main": "assets/characters/jigupo/08.webp",
+    "main": "assets/characters-en/jigupo/08.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/jigupo/01.webp",
+        "src": "assets/characters-en/jigupo/01.webp",
         "caption": "Hey there!"
       },
       {
         "number": 2,
-        "src": "assets/characters/jigupo/02.webp",
+        "src": "assets/characters-en/jigupo/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/jigupo/03.webp",
+        "src": "assets/characters-en/jigupo/03.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 4,
-        "src": "assets/characters/jigupo/04.webp",
+        "src": "assets/characters-en/jigupo/04.webp",
         "caption": "Nice work!"
       },
       {
         "number": 5,
-        "src": "assets/characters/jigupo/05.webp",
+        "src": "assets/characters-en/jigupo/05.webp",
         "caption": "On my way!"
       },
       {
         "number": 6,
-        "src": "assets/characters/jigupo/06.webp",
+        "src": "assets/characters-en/jigupo/06.webp",
         "caption": "I’ll be waiting"
       },
       {
         "number": 7,
-        "src": "assets/characters/jigupo/07.webp",
+        "src": "assets/characters-en/jigupo/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/jigupo/08.webp",
+        "src": "assets/characters-en/jigupo/08.webp",
         "caption": "Perfect fit!"
       },
       {
         "number": 9,
-        "src": "assets/characters/jigupo/09.webp",
+        "src": "assets/characters-en/jigupo/09.webp",
         "caption": "I get you!"
       },
       {
         "number": 10,
-        "src": "assets/characters/jigupo/10.webp",
+        "src": "assets/characters-en/jigupo/10.webp",
         "caption": "Seriously?!"
       },
       {
         "number": 11,
-        "src": "assets/characters/jigupo/11.webp",
+        "src": "assets/characters-en/jigupo/11.webp",
         "caption": "Some days don’t click"
       },
       {
         "number": 12,
-        "src": "assets/characters/jigupo/12.webp",
+        "src": "assets/characters-en/jigupo/12.webp",
         "caption": "Time for a break"
       },
       {
         "number": 13,
-        "src": "assets/characters/jigupo/13.webp",
+        "src": "assets/characters-en/jigupo/13.webp",
         "caption": "Yay!"
       },
       {
         "number": 14,
-        "src": "assets/characters/jigupo/14.webp",
+        "src": "assets/characters-en/jigupo/14.webp",
         "caption": "Take it easy"
       },
       {
         "number": 15,
-        "src": "assets/characters/jigupo/15.webp",
+        "src": "assets/characters-en/jigupo/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/jigupo/16.webp",
+        "src": "assets/characters-en/jigupo/16.webp",
         "caption": "See you tomorrow!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Perfect fit!",
     "stickerId": "48556443",
     "japaneseName": "じぐぽ",
     "japaneseStoreUrl": null,
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "kutsunyo",
@@ -4150,97 +4150,97 @@
       "個性的な姿",
       "大きなリアクション"
     ],
-    "main": "assets/characters/kutsunyo/15.webp",
+    "main": "assets/characters-en/kutsunyo/15.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/kutsunyo/01.webp",
+        "src": "assets/characters-en/kutsunyo/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/kutsunyo/02.webp",
+        "src": "assets/characters-en/kutsunyo/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/kutsunyo/03.webp",
+        "src": "assets/characters-en/kutsunyo/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/kutsunyo/04.webp",
+        "src": "assets/characters-en/kutsunyo/04.webp",
         "caption": "Nice work!"
       },
       {
         "number": 5,
-        "src": "assets/characters/kutsunyo/05.webp",
+        "src": "assets/characters-en/kutsunyo/05.webp",
         "caption": "On my way!"
       },
       {
         "number": 6,
-        "src": "assets/characters/kutsunyo/06.webp",
+        "src": "assets/characters-en/kutsunyo/06.webp",
         "caption": "Hold on!"
       },
       {
         "number": 7,
-        "src": "assets/characters/kutsunyo/07.webp",
+        "src": "assets/characters-en/kutsunyo/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/kutsunyo/08.webp",
+        "src": "assets/characters-en/kutsunyo/08.webp",
         "caption": "Looks good!"
       },
       {
         "number": 9,
-        "src": "assets/characters/kutsunyo/09.webp",
+        "src": "assets/characters-en/kutsunyo/09.webp",
         "caption": "Exactly!"
       },
       {
         "number": 10,
-        "src": "assets/characters/kutsunyo/10.webp",
+        "src": "assets/characters-en/kutsunyo/10.webp",
         "caption": "No way!"
       },
       {
         "number": 11,
-        "src": "assets/characters/kutsunyo/11.webp",
+        "src": "assets/characters-en/kutsunyo/11.webp",
         "caption": "Where’s the other one?"
       },
       {
         "number": 12,
-        "src": "assets/characters/kutsunyo/12.webp",
+        "src": "assets/characters-en/kutsunyo/12.webp",
         "caption": "Feeling cozy"
       },
       {
         "number": 13,
-        "src": "assets/characters/kutsunyo/13.webp",
+        "src": "assets/characters-en/kutsunyo/13.webp",
         "caption": "You can do it!"
       },
       {
         "number": 14,
-        "src": "assets/characters/kutsunyo/14.webp",
+        "src": "assets/characters-en/kutsunyo/14.webp",
         "caption": "One step at a time"
       },
       {
         "number": 15,
-        "src": "assets/characters/kutsunyo/15.webp",
+        "src": "assets/characters-en/kutsunyo/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/kutsunyo/16.webp",
+        "src": "assets/characters-en/kutsunyo/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Good night!",
     "stickerId": "48556469",
     "japaneseName": "くつにょ",
     "japaneseStoreUrl": null,
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "pitagon",
@@ -4257,97 +4257,97 @@
       "個性的な姿",
       "大きなリアクション"
     ],
-    "main": "assets/characters/pitagon/13.webp",
+    "main": "assets/characters-en/pitagon/13.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/pitagon/01.webp",
+        "src": "assets/characters-en/pitagon/01.webp",
         "caption": "Hey there!"
       },
       {
         "number": 2,
-        "src": "assets/characters/pitagon/02.webp",
+        "src": "assets/characters-en/pitagon/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/pitagon/03.webp",
+        "src": "assets/characters-en/pitagon/03.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 4,
-        "src": "assets/characters/pitagon/04.webp",
+        "src": "assets/characters-en/pitagon/04.webp",
         "caption": "Nice work!"
       },
       {
         "number": 5,
-        "src": "assets/characters/pitagon/05.webp",
+        "src": "assets/characters-en/pitagon/05.webp",
         "caption": "On my way!"
       },
       {
         "number": 6,
-        "src": "assets/characters/pitagon/06.webp",
+        "src": "assets/characters-en/pitagon/06.webp",
         "caption": "Standing by"
       },
       {
         "number": 7,
-        "src": "assets/characters/pitagon/07.webp",
+        "src": "assets/characters-en/pitagon/07.webp",
         "caption": "Sorry!"
       },
       {
         "number": 8,
-        "src": "assets/characters/pitagon/08.webp",
+        "src": "assets/characters-en/pitagon/08.webp",
         "caption": "Absolutely!"
       },
       {
         "number": 9,
-        "src": "assets/characters/pitagon/09.webp",
+        "src": "assets/characters-en/pitagon/09.webp",
         "caption": "I get you!"
       },
       {
         "number": 10,
-        "src": "assets/characters/pitagon/10.webp",
+        "src": "assets/characters-en/pitagon/10.webp",
         "caption": "Whoa!"
       },
       {
         "number": 11,
-        "src": "assets/characters/pitagon/11.webp",
+        "src": "assets/characters-en/pitagon/11.webp",
         "caption": "Stay close to me"
       },
       {
         "number": 12,
-        "src": "assets/characters/pitagon/12.webp",
+        "src": "assets/characters-en/pitagon/12.webp",
         "caption": "Time to recharge"
       },
       {
         "number": 13,
-        "src": "assets/characters/pitagon/13.webp",
+        "src": "assets/characters-en/pitagon/13.webp",
         "caption": "Pulled it off!"
       },
       {
         "number": 14,
-        "src": "assets/characters/pitagon/14.webp",
+        "src": "assets/characters-en/pitagon/14.webp",
         "caption": "It’s okay"
       },
       {
         "number": 15,
-        "src": "assets/characters/pitagon/15.webp",
+        "src": "assets/characters-en/pitagon/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/pitagon/16.webp",
+        "src": "assets/characters-en/pitagon/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Pulled it off!",
     "stickerId": "48556484",
     "japaneseName": "ぴたごん",
     "japaneseStoreUrl": null,
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "togepoko",
@@ -4364,97 +4364,97 @@
       "個性的な姿",
       "大きなリアクション"
     ],
-    "main": "assets/characters/togepoko/01.webp",
+    "main": "assets/characters-en/togepoko/01.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/togepoko/01.webp",
+        "src": "assets/characters-en/togepoko/01.webp",
         "caption": "Heh heh heh"
       },
       {
         "number": 2,
-        "src": "assets/characters/togepoko/02.webp",
+        "src": "assets/characters-en/togepoko/02.webp",
         "caption": "Morning, everyone!"
       },
       {
         "number": 3,
-        "src": "assets/characters/togepoko/03.webp",
+        "src": "assets/characters-en/togepoko/03.webp",
         "caption": "Thank you!"
       },
       {
         "number": 4,
-        "src": "assets/characters/togepoko/04.webp",
+        "src": "assets/characters-en/togepoko/04.webp",
         "caption": "Got it!"
       },
       {
         "number": 5,
-        "src": "assets/characters/togepoko/05.webp",
+        "src": "assets/characters-en/togepoko/05.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 6,
-        "src": "assets/characters/togepoko/06.webp",
+        "src": "assets/characters-en/togepoko/06.webp",
         "caption": "Here I am!"
       },
       {
         "number": 7,
-        "src": "assets/characters/togepoko/07.webp",
+        "src": "assets/characters-en/togepoko/07.webp",
         "caption": "Hold on!"
       },
       {
         "number": 8,
-        "src": "assets/characters/togepoko/08.webp",
+        "src": "assets/characters-en/togepoko/08.webp",
         "caption": "Sorry!"
       },
       {
         "number": 9,
-        "src": "assets/characters/togepoko/09.webp",
+        "src": "assets/characters-en/togepoko/09.webp",
         "caption": "Not bad at all!"
       },
       {
         "number": 10,
-        "src": "assets/characters/togepoko/10.webp",
+        "src": "assets/characters-en/togepoko/10.webp",
         "caption": "Just as planned"
       },
       {
         "number": 11,
-        "src": "assets/characters/togepoko/11.webp",
+        "src": "assets/characters-en/togepoko/11.webp",
         "caption": "Truce for today"
       },
       {
         "number": 12,
-        "src": "assets/characters/togepoko/12.webp",
+        "src": "assets/characters-en/togepoko/12.webp",
         "caption": "Hand over the snacks!"
       },
       {
         "number": 13,
-        "src": "assets/characters/togepoko/13.webp",
+        "src": "assets/characters-en/togepoko/13.webp",
         "caption": "Yay!"
       },
       {
         "number": 14,
-        "src": "assets/characters/togepoko/14.webp",
+        "src": "assets/characters-en/togepoko/14.webp",
         "caption": "Take it easy"
       },
       {
         "number": 15,
-        "src": "assets/characters/togepoko/15.webp",
+        "src": "assets/characters-en/togepoko/15.webp",
         "caption": "Sleep is my job too"
       },
       {
         "number": 16,
-        "src": "assets/characters/togepoko/16.webp",
+        "src": "assets/characters-en/togepoko/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Heh heh heh",
     "stickerId": "48595153",
     "japaneseName": "とげぽこ",
     "japaneseStoreUrl": null,
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "warubane",
@@ -4471,97 +4471,97 @@
       "個性的な姿",
       "大きなリアクション"
     ],
-    "main": "assets/characters/warubane/11.webp",
+    "main": "assets/characters-en/warubane/11.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/warubane/01.webp",
+        "src": "assets/characters-en/warubane/01.webp",
         "caption": "Hey there!"
       },
       {
         "number": 2,
-        "src": "assets/characters/warubane/02.webp",
+        "src": "assets/characters-en/warubane/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/warubane/03.webp",
+        "src": "assets/characters-en/warubane/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/warubane/04.webp",
+        "src": "assets/characters-en/warubane/04.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 5,
-        "src": "assets/characters/warubane/05.webp",
+        "src": "assets/characters-en/warubane/05.webp",
         "caption": "Nice work, minion!"
       },
       {
         "number": 6,
-        "src": "assets/characters/warubane/06.webp",
+        "src": "assets/characters-en/warubane/06.webp",
         "caption": "On my way!"
       },
       {
         "number": 7,
-        "src": "assets/characters/warubane/07.webp",
+        "src": "assets/characters-en/warubane/07.webp",
         "caption": "I’ll be waiting"
       },
       {
         "number": 8,
-        "src": "assets/characters/warubane/08.webp",
+        "src": "assets/characters-en/warubane/08.webp",
         "caption": "Let me off this time!"
       },
       {
         "number": 9,
-        "src": "assets/characters/warubane/09.webp",
+        "src": "assets/characters-en/warubane/09.webp",
         "caption": "Looks good!"
       },
       {
         "number": 10,
-        "src": "assets/characters/warubane/10.webp",
+        "src": "assets/characters-en/warubane/10.webp",
         "caption": "Say what?!"
       },
       {
         "number": 11,
-        "src": "assets/characters/warubane/11.webp",
+        "src": "assets/characters-en/warubane/11.webp",
         "caption": "Cheering you on!"
       },
       {
         "number": 12,
-        "src": "assets/characters/warubane/12.webp",
+        "src": "assets/characters-en/warubane/12.webp",
         "caption": "Snack meeting"
       },
       {
         "number": 13,
-        "src": "assets/characters/warubane/13.webp",
+        "src": "assets/characters-en/warubane/13.webp",
         "caption": "Mwahahaha!"
       },
       {
         "number": 14,
-        "src": "assets/characters/warubane/14.webp",
+        "src": "assets/characters-en/warubane/14.webp",
         "caption": "Low-power day"
       },
       {
         "number": 15,
-        "src": "assets/characters/warubane/15.webp",
+        "src": "assets/characters-en/warubane/15.webp",
         "caption": "Good night, everyone"
       },
       {
         "number": 16,
-        "src": "assets/characters/warubane/16.webp",
+        "src": "assets/characters-en/warubane/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Cheering you on!",
     "stickerId": "48595158",
     "japaneseName": "わるばね",
     "japaneseStoreUrl": null,
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "dokumoko",
@@ -4578,97 +4578,97 @@
       "個性的な姿",
       "大きなリアクション"
     ],
-    "main": "assets/characters/dokumoko/06.webp",
+    "main": "assets/characters-en/dokumoko/06.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/dokumoko/01.webp",
+        "src": "assets/characters-en/dokumoko/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/dokumoko/02.webp",
+        "src": "assets/characters-en/dokumoko/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/dokumoko/03.webp",
+        "src": "assets/characters-en/dokumoko/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/dokumoko/04.webp",
+        "src": "assets/characters-en/dokumoko/04.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 5,
-        "src": "assets/characters/dokumoko/05.webp",
+        "src": "assets/characters-en/dokumoko/05.webp",
         "caption": "Nice work!"
       },
       {
         "number": 6,
-        "src": "assets/characters/dokumoko/06.webp",
+        "src": "assets/characters-en/dokumoko/06.webp",
         "caption": "Mixing up some magic"
       },
       {
         "number": 7,
-        "src": "assets/characters/dokumoko/07.webp",
+        "src": "assets/characters-en/dokumoko/07.webp",
         "caption": "Hold on!"
       },
       {
         "number": 8,
-        "src": "assets/characters/dokumoko/08.webp",
+        "src": "assets/characters-en/dokumoko/08.webp",
         "caption": "Sorry!"
       },
       {
         "number": 9,
-        "src": "assets/characters/dokumoko/09.webp",
+        "src": "assets/characters-en/dokumoko/09.webp",
         "caption": "Good vibes"
       },
       {
         "number": 10,
-        "src": "assets/characters/dokumoko/10.webp",
+        "src": "assets/characters-en/dokumoko/10.webp",
         "caption": "What happened?!"
       },
       {
         "number": 11,
-        "src": "assets/characters/dokumoko/11.webp",
+        "src": "assets/characters-en/dokumoko/11.webp",
         "caption": "Feel better soon!"
       },
       {
         "number": 12,
-        "src": "assets/characters/dokumoko/12.webp",
+        "src": "assets/characters-en/dokumoko/12.webp",
         "caption": "Time for a break"
       },
       {
         "number": 13,
-        "src": "assets/characters/dokumoko/13.webp",
+        "src": "assets/characters-en/dokumoko/13.webp",
         "caption": "A smashing success!"
       },
       {
         "number": 14,
-        "src": "assets/characters/dokumoko/14.webp",
+        "src": "assets/characters-en/dokumoko/14.webp",
         "caption": "Mistakes happen"
       },
       {
         "number": 15,
-        "src": "assets/characters/dokumoko/15.webp",
+        "src": "assets/characters-en/dokumoko/15.webp",
         "caption": "Bedtime"
       },
       {
         "number": 16,
-        "src": "assets/characters/dokumoko/16.webp",
+        "src": "assets/characters-en/dokumoko/16.webp",
         "caption": "See you tomorrow!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Mixing up some magic",
     "stickerId": "48595171",
     "japaneseName": "どくもこ",
     "japaneseStoreUrl": null,
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "tonoguro",
@@ -4685,97 +4685,97 @@
       "個性的な姿",
       "大きなリアクション"
     ],
-    "main": "assets/characters/tonoguro/12.webp",
+    "main": "assets/characters-en/tonoguro/12.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/tonoguro/01.webp",
+        "src": "assets/characters-en/tonoguro/01.webp",
         "caption": "Welcome, traveler!"
       },
       {
         "number": 2,
-        "src": "assets/characters/tonoguro/02.webp",
+        "src": "assets/characters-en/tonoguro/02.webp",
         "caption": "Good morning!"
       },
       {
         "number": 3,
-        "src": "assets/characters/tonoguro/03.webp",
+        "src": "assets/characters-en/tonoguro/03.webp",
         "caption": "Thank you!"
       },
       {
         "number": 4,
-        "src": "assets/characters/tonoguro/04.webp",
+        "src": "assets/characters-en/tonoguro/04.webp",
         "caption": "Got it!"
       },
       {
         "number": 5,
-        "src": "assets/characters/tonoguro/05.webp",
+        "src": "assets/characters-en/tonoguro/05.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 6,
-        "src": "assets/characters/tonoguro/06.webp",
+        "src": "assets/characters-en/tonoguro/06.webp",
         "caption": "On my way!"
       },
       {
         "number": 7,
-        "src": "assets/characters/tonoguro/07.webp",
+        "src": "assets/characters-en/tonoguro/07.webp",
         "caption": "Hold on!"
       },
       {
         "number": 8,
-        "src": "assets/characters/tonoguro/08.webp",
+        "src": "assets/characters-en/tonoguro/08.webp",
         "caption": "Sorry!"
       },
       {
         "number": 9,
-        "src": "assets/characters/tonoguro/09.webp",
+        "src": "assets/characters-en/tonoguro/09.webp",
         "caption": "That will do"
       },
       {
         "number": 10,
-        "src": "assets/characters/tonoguro/10.webp",
+        "src": "assets/characters-en/tonoguro/10.webp",
         "caption": "What did you say?!"
       },
       {
         "number": 11,
-        "src": "assets/characters/tonoguro/11.webp",
+        "src": "assets/characters-en/tonoguro/11.webp",
         "caption": "The castle is closed"
       },
       {
         "number": 12,
-        "src": "assets/characters/tonoguro/12.webp",
+        "src": "assets/characters-en/tonoguro/12.webp",
         "caption": "Let’s have tea"
       },
       {
         "number": 13,
-        "src": "assets/characters/tonoguro/13.webp",
+        "src": "assets/characters-en/tonoguro/13.webp",
         "caption": "Feeling like a winner"
       },
       {
         "number": 14,
-        "src": "assets/characters/tonoguro/14.webp",
+        "src": "assets/characters-en/tonoguro/14.webp",
         "caption": "Take it easy"
       },
       {
         "number": 15,
-        "src": "assets/characters/tonoguro/15.webp",
+        "src": "assets/characters-en/tonoguro/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/tonoguro/16.webp",
+        "src": "assets/characters-en/tonoguro/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Let’s have tea",
     "stickerId": "48595175",
     "japaneseName": "とのぐろ",
     "japaneseStoreUrl": null,
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "magunyo",
@@ -4792,97 +4792,97 @@
       "個性的な姿",
       "大きなリアクション"
     ],
-    "main": "assets/characters/magunyo/02.webp",
+    "main": "assets/characters-en/magunyo/02.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/magunyo/01.webp",
+        "src": "assets/characters-en/magunyo/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/magunyo/02.webp",
+        "src": "assets/characters-en/magunyo/02.webp",
         "caption": "Drawn to you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/magunyo/03.webp",
+        "src": "assets/characters-en/magunyo/03.webp",
         "caption": "Thank you!"
       },
       {
         "number": 4,
-        "src": "assets/characters/magunyo/04.webp",
+        "src": "assets/characters-en/magunyo/04.webp",
         "caption": "Got it!"
       },
       {
         "number": 5,
-        "src": "assets/characters/magunyo/05.webp",
+        "src": "assets/characters-en/magunyo/05.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 6,
-        "src": "assets/characters/magunyo/06.webp",
+        "src": "assets/characters-en/magunyo/06.webp",
         "caption": "On my way!"
       },
       {
         "number": 7,
-        "src": "assets/characters/magunyo/07.webp",
+        "src": "assets/characters-en/magunyo/07.webp",
         "caption": "Hold on!"
       },
       {
         "number": 8,
-        "src": "assets/characters/magunyo/08.webp",
+        "src": "assets/characters-en/magunyo/08.webp",
         "caption": "Sorry!"
       },
       {
         "number": 9,
-        "src": "assets/characters/magunyo/09.webp",
+        "src": "assets/characters-en/magunyo/09.webp",
         "caption": "Love it!"
       },
       {
         "number": 10,
-        "src": "assets/characters/magunyo/10.webp",
+        "src": "assets/characters-en/magunyo/10.webp",
         "caption": "Seriously?!"
       },
       {
         "number": 11,
-        "src": "assets/characters/magunyo/11.webp",
+        "src": "assets/characters-en/magunyo/11.webp",
         "caption": "Cheering you on!"
       },
       {
         "number": 12,
-        "src": "assets/characters/magunyo/12.webp",
+        "src": "assets/characters-en/magunyo/12.webp",
         "caption": "Time for a break"
       },
       {
         "number": 13,
-        "src": "assets/characters/magunyo/13.webp",
+        "src": "assets/characters-en/magunyo/13.webp",
         "caption": "Yay!"
       },
       {
         "number": 14,
-        "src": "assets/characters/magunyo/14.webp",
+        "src": "assets/characters-en/magunyo/14.webp",
         "caption": "Take it easy"
       },
       {
         "number": 15,
-        "src": "assets/characters/magunyo/15.webp",
+        "src": "assets/characters-en/magunyo/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/magunyo/16.webp",
+        "src": "assets/characters-en/magunyo/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Drawn to you!",
     "stickerId": "48606583",
     "japaneseName": "まぐにょ",
     "japaneseStoreUrl": null,
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "riboruru",
@@ -4899,97 +4899,97 @@
       "個性的な姿",
       "大きなリアクション"
     ],
-    "main": "assets/characters/riboruru/13.webp",
+    "main": "assets/characters-en/riboruru/13.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/riboruru/01.webp",
+        "src": "assets/characters-en/riboruru/01.webp",
         "caption": "Hey there!"
       },
       {
         "number": 2,
-        "src": "assets/characters/riboruru/02.webp",
+        "src": "assets/characters-en/riboruru/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/riboruru/03.webp",
+        "src": "assets/characters-en/riboruru/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/riboruru/04.webp",
+        "src": "assets/characters-en/riboruru/04.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 5,
-        "src": "assets/characters/riboruru/05.webp",
+        "src": "assets/characters-en/riboruru/05.webp",
         "caption": "Nice work!"
       },
       {
         "number": 6,
-        "src": "assets/characters/riboruru/06.webp",
+        "src": "assets/characters-en/riboruru/06.webp",
         "caption": "On my way!"
       },
       {
         "number": 7,
-        "src": "assets/characters/riboruru/07.webp",
+        "src": "assets/characters-en/riboruru/07.webp",
         "caption": "Wait for me!"
       },
       {
         "number": 8,
-        "src": "assets/characters/riboruru/08.webp",
+        "src": "assets/characters-en/riboruru/08.webp",
         "caption": "Sorry!"
       },
       {
         "number": 9,
-        "src": "assets/characters/riboruru/09.webp",
+        "src": "assets/characters-en/riboruru/09.webp",
         "caption": "Looks good!"
       },
       {
         "number": 10,
-        "src": "assets/characters/riboruru/10.webp",
+        "src": "assets/characters-en/riboruru/10.webp",
         "caption": "Whoa!"
       },
       {
         "number": 11,
-        "src": "assets/characters/riboruru/11.webp",
+        "src": "assets/characters-en/riboruru/11.webp",
         "caption": "You’ve got this!"
       },
       {
         "number": 12,
-        "src": "assets/characters/riboruru/12.webp",
+        "src": "assets/characters-en/riboruru/12.webp",
         "caption": "Time for a break"
       },
       {
         "number": 13,
-        "src": "assets/characters/riboruru/13.webp",
+        "src": "assets/characters-en/riboruru/13.webp",
         "caption": "So happy!"
       },
       {
         "number": 14,
-        "src": "assets/characters/riboruru/14.webp",
+        "src": "assets/characters-en/riboruru/14.webp",
         "caption": "It’s okay"
       },
       {
         "number": 15,
-        "src": "assets/characters/riboruru/15.webp",
+        "src": "assets/characters-en/riboruru/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/riboruru/16.webp",
+        "src": "assets/characters-en/riboruru/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "So happy!",
     "stickerId": "48606586",
     "japaneseName": "りぼるる",
     "japaneseStoreUrl": null,
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "sunamogu",
@@ -5006,97 +5006,97 @@
       "個性的な姿",
       "大きなリアクション"
     ],
-    "main": "assets/characters/sunamogu/14.webp",
+    "main": "assets/characters-en/sunamogu/14.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/sunamogu/01.webp",
+        "src": "assets/characters-en/sunamogu/01.webp",
         "caption": "Good morning!"
       },
       {
         "number": 2,
-        "src": "assets/characters/sunamogu/02.webp",
+        "src": "assets/characters-en/sunamogu/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/sunamogu/03.webp",
+        "src": "assets/characters-en/sunamogu/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/sunamogu/04.webp",
+        "src": "assets/characters-en/sunamogu/04.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 5,
-        "src": "assets/characters/sunamogu/05.webp",
+        "src": "assets/characters-en/sunamogu/05.webp",
         "caption": "Nice work!"
       },
       {
         "number": 6,
-        "src": "assets/characters/sunamogu/06.webp",
+        "src": "assets/characters-en/sunamogu/06.webp",
         "caption": "On the move"
       },
       {
         "number": 7,
-        "src": "assets/characters/sunamogu/07.webp",
+        "src": "assets/characters-en/sunamogu/07.webp",
         "caption": "Hold on!"
       },
       {
         "number": 8,
-        "src": "assets/characters/sunamogu/08.webp",
+        "src": "assets/characters-en/sunamogu/08.webp",
         "caption": "Sorry!"
       },
       {
         "number": 9,
-        "src": "assets/characters/sunamogu/09.webp",
+        "src": "assets/characters-en/sunamogu/09.webp",
         "caption": "Brilliant idea!"
       },
       {
         "number": 10,
-        "src": "assets/characters/sunamogu/10.webp",
+        "src": "assets/characters-en/sunamogu/10.webp",
         "caption": "Time stood still"
       },
       {
         "number": 11,
-        "src": "assets/characters/sunamogu/11.webp",
+        "src": "assets/characters-en/sunamogu/11.webp",
         "caption": "Almost there!"
       },
       {
         "number": 12,
-        "src": "assets/characters/sunamogu/12.webp",
+        "src": "assets/characters-en/sunamogu/12.webp",
         "caption": "Rest matters too"
       },
       {
         "number": 13,
-        "src": "assets/characters/sunamogu/13.webp",
+        "src": "assets/characters-en/sunamogu/13.webp",
         "caption": "Success!"
       },
       {
         "number": 14,
-        "src": "assets/characters/sunamogu/14.webp",
+        "src": "assets/characters-en/sunamogu/14.webp",
         "caption": "No rush"
       },
       {
         "number": 15,
-        "src": "assets/characters/sunamogu/15.webp",
+        "src": "assets/characters-en/sunamogu/15.webp",
         "caption": "Done for today"
       },
       {
         "number": 16,
-        "src": "assets/characters/sunamogu/16.webp",
+        "src": "assets/characters-en/sunamogu/16.webp",
         "caption": "See you tomorrow!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "No rush",
     "stickerId": "48606587",
     "japaneseName": "すなもぐ",
     "japaneseStoreUrl": null,
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "chakkoro",
@@ -5113,97 +5113,97 @@
       "個性的な姿",
       "大きなリアクション"
     ],
-    "main": "assets/characters/chakkoro/10.webp",
+    "main": "assets/characters-en/chakkoro/10.webp",
     "stickers": [
       {
         "number": 1,
-        "src": "assets/characters/chakkoro/01.webp",
+        "src": "assets/characters-en/chakkoro/01.webp",
         "caption": "Hey there!"
       },
       {
         "number": 2,
-        "src": "assets/characters/chakkoro/02.webp",
+        "src": "assets/characters-en/chakkoro/02.webp",
         "caption": "Thank you!"
       },
       {
         "number": 3,
-        "src": "assets/characters/chakkoro/03.webp",
+        "src": "assets/characters-en/chakkoro/03.webp",
         "caption": "Got it!"
       },
       {
         "number": 4,
-        "src": "assets/characters/chakkoro/04.webp",
+        "src": "assets/characters-en/chakkoro/04.webp",
         "caption": "Leave it to me!"
       },
       {
         "number": 5,
-        "src": "assets/characters/chakkoro/05.webp",
+        "src": "assets/characters-en/chakkoro/05.webp",
         "caption": "Nice work!"
       },
       {
         "number": 6,
-        "src": "assets/characters/chakkoro/06.webp",
+        "src": "assets/characters-en/chakkoro/06.webp",
         "caption": "On my way!"
       },
       {
         "number": 7,
-        "src": "assets/characters/chakkoro/07.webp",
+        "src": "assets/characters-en/chakkoro/07.webp",
         "caption": "Hold on!"
       },
       {
         "number": 8,
-        "src": "assets/characters/chakkoro/08.webp",
+        "src": "assets/characters-en/chakkoro/08.webp",
         "caption": "Sorry!"
       },
       {
         "number": 9,
-        "src": "assets/characters/chakkoro/09.webp",
+        "src": "assets/characters-en/chakkoro/09.webp",
         "caption": "Looks good!"
       },
       {
         "number": 10,
-        "src": "assets/characters/chakkoro/10.webp",
+        "src": "assets/characters-en/chakkoro/10.webp",
         "caption": "Seriously?"
       },
       {
         "number": 11,
-        "src": "assets/characters/chakkoro/11.webp",
+        "src": "assets/characters-en/chakkoro/11.webp",
         "caption": "Cheering you on!"
       },
       {
         "number": 12,
-        "src": "assets/characters/chakkoro/12.webp",
+        "src": "assets/characters-en/chakkoro/12.webp",
         "caption": "Snack time!"
       },
       {
         "number": 13,
-        "src": "assets/characters/chakkoro/13.webp",
+        "src": "assets/characters-en/chakkoro/13.webp",
         "caption": "Yay!"
       },
       {
         "number": 14,
-        "src": "assets/characters/chakkoro/14.webp",
+        "src": "assets/characters-en/chakkoro/14.webp",
         "caption": "Take it easy"
       },
       {
         "number": 15,
-        "src": "assets/characters/chakkoro/15.webp",
+        "src": "assets/characters-en/chakkoro/15.webp",
         "caption": "Good night!"
       },
       {
         "number": 16,
-        "src": "assets/characters/chakkoro/16.webp",
+        "src": "assets/characters-en/chakkoro/16.webp",
         "caption": "See you soon!"
       }
     ],
     "storeUrl": null,
-    "availability": "english-in-production",
+    "availability": "coming-soon",
     "releasedAsNew": false,
     "thumbnailCaption": "Seriously?",
     "stickerId": "48606590",
     "japaneseName": "ちゃっころ",
     "japaneseStoreUrl": null,
-    "artworkLanguage": "ja"
+    "artworkLanguage": "en"
   },
   {
     "id": "senpuku",
