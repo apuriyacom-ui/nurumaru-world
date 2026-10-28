@@ -173,6 +173,19 @@
     heading.append(portrait(character, 'profile-portrait', character.main, false), intro);
     const actions = node('div', 'profile-actions');
     actions.append(favoriteButton(character, true));
+    const shareUrl = new URL(window.location.pathname, window.location.origin);
+    shareUrl.searchParams.set('character', character.id);
+    const copy = node('button', 'button button-secondary', 'Copy link to this friend');
+    copy.type = 'button';
+    copy.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(shareUrl.href);
+        copy.textContent = 'Link copied!';
+      } catch {
+        copy.textContent = shareUrl.href;
+      }
+    });
+    actions.append(copy);
     const storeUrl = verifiedStoreUrl(character.storeUrl);
     if (storeUrl) {
       const link = node('a', 'button button-primary store-link', 'Buy English stickers ↗');
@@ -201,6 +214,9 @@
       gallery.append(figure);
     });
     content.replaceChildren(heading, actions, galleryTitle, gallery);
+    const currentUrl = new URL(window.location.href);
+    currentUrl.searchParams.set('character', character.id);
+    history.replaceState(null, '', currentUrl);
     dialog.setAttribute('aria-labelledby', 'dialog-title');
     if (!dialog.open) dialog.showModal();
     $('close-dialog')?.focus();
@@ -297,6 +313,9 @@
       if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) dialog.close();
     });
     $('character-dialog')?.addEventListener('close', () => {
+      const currentUrl = new URL(window.location.href);
+      currentUrl.searchParams.delete('character');
+      history.replaceState(null, '', currentUrl);
       if (lastDialogTrigger?.isConnected) lastDialogTrigger.focus({ preventScroll: true });
       else $('search')?.focus({ preventScroll: true });
     });
@@ -324,6 +343,9 @@
       renderNewFriends();
       renderCatalog();
       document.documentElement.classList.add('is-ready');
+      const requested = new URLSearchParams(window.location.search).get('character');
+      const selected = characters.find((character) => character.id === requested);
+      if (selected) openCharacter(selected);
     } catch (error) {
       if ($('result-count')) $('result-count').textContent = 'Unable to load the characters';
       if ($('empty-state')) {
