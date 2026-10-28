@@ -173,8 +173,7 @@
     heading.append(portrait(character, 'profile-portrait', character.main, false), intro);
     const actions = node('div', 'profile-actions');
     actions.append(favoriteButton(character, true));
-    const shareUrl = new URL(window.location.pathname, window.location.origin);
-    shareUrl.searchParams.set('character', character.id);
+    const shareUrl = new URL(`friends/${encodeURIComponent(character.id)}/`, document.baseURI);
     const copy = node('button', 'button button-secondary', 'Copy link to this friend');
     copy.type = 'button';
     copy.addEventListener('click', async () => {
@@ -343,7 +342,8 @@
       renderNewFriends();
       renderCatalog();
       document.documentElement.classList.add('is-ready');
-      const requested = new URLSearchParams(window.location.search).get('character');
+      const requested = new URLSearchParams(window.location.search).get('character')
+        || window.location.pathname.match(/\/friends\/([^/]+)\/?$/)?.[1];
       const selected = characters.find((character) => character.id === requested);
       if (selected) openCharacter(selected);
     } catch (error) {
