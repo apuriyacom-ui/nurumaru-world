@@ -5632,5 +5632,829 @@
     "japaneseName": "やかぷ",
     "japaneseStoreUrl": null,
     "artworkLanguage": "en"
+  },
+  {
+    "id": "pakkuri",
+    "number": 54,
+    "name": "Pakkuri",
+    "englishName": "Pakkuri",
+    "tagline": "A little clam with a big soft heart.",
+    "description": "A lilac shell friend who opens up for a hug and snaps shut when life gets too loud.",
+    "color": "#e6d8f8",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A little clam with a big soft heart."
+    ],
+    "main": "assets/characters-en/pakkuri/01.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/pakkuri/01.webp",
+        "caption": "Hey there!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/pakkuri/02.webp",
+        "caption": "Thanks a bunch!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/pakkuri/03.webp",
+        "caption": "You got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/pakkuri/04.webp",
+        "caption": "Nope!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/pakkuri/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/pakkuri/06.webp",
+        "caption": "Need a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/pakkuri/07.webp",
+        "caption": "Really?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/pakkuri/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/pakkuri/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/pakkuri/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/pakkuri/11.webp",
+        "caption": "All good!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/pakkuri/12.webp",
+        "caption": "Not today"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/pakkuri/13.webp",
+        "caption": "So proud!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/pakkuri/14.webp",
+        "caption": "Wait for me!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/pakkuri/15.webp",
+        "caption": "Sleep tight!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/pakkuri/16.webp",
+        "caption": "See ya!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48870202",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "noromaki",
+    "number": 55,
+    "name": "Noromaki",
+    "englishName": "Noromaki",
+    "tagline": "Taking the scenic route through life.",
+    "description": "A mint-green rolled ribbon who unrolls into big feelings, slow stretches and surprisingly fast escapes.",
+    "color": "#d8f1e3",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Taking the scenic route through life."
+    ],
+    "main": "assets/characters-en/noromaki/03.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/noromaki/01.webp",
+        "caption": "Hey there!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/noromaki/02.webp",
+        "caption": "Thanks a bunch!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/noromaki/03.webp",
+        "caption": "You got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/noromaki/04.webp",
+        "caption": "Nope!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/noromaki/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/noromaki/06.webp",
+        "caption": "Need a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/noromaki/07.webp",
+        "caption": "Really?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/noromaki/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/noromaki/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/noromaki/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/noromaki/11.webp",
+        "caption": "All good!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/noromaki/12.webp",
+        "caption": "Not today"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/noromaki/13.webp",
+        "caption": "So proud!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/noromaki/14.webp",
+        "caption": "Wait for me!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/noromaki/15.webp",
+        "caption": "Sleep tight!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/noromaki/16.webp",
+        "caption": "See ya!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48870210",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "chikupoyo",
+    "number": 56,
+    "name": "Chikupoyo",
+    "englishName": "Chikupoyo",
+    "tagline": "Soft heart. Squishy spikes.",
+    "description": "A sunny little cactus with soft coral spikes and floppy arms, always ready to cheer you on.",
+    "color": "#fff0c4",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Soft heart. Squishy spikes."
+    ],
+    "main": "assets/characters-en/chikupoyo/05.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/chikupoyo/01.webp",
+        "caption": "Hey there!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/chikupoyo/02.webp",
+        "caption": "Thanks a bunch!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/chikupoyo/03.webp",
+        "caption": "You got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/chikupoyo/04.webp",
+        "caption": "Nope!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/chikupoyo/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/chikupoyo/06.webp",
+        "caption": "Need a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/chikupoyo/07.webp",
+        "caption": "Really?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/chikupoyo/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/chikupoyo/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/chikupoyo/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/chikupoyo/11.webp",
+        "caption": "All good!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/chikupoyo/12.webp",
+        "caption": "Not today"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/chikupoyo/13.webp",
+        "caption": "So proud!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/chikupoyo/14.webp",
+        "caption": "Wait for me!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/chikupoyo/15.webp",
+        "caption": "Sleep tight!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/chikupoyo/16.webp",
+        "caption": "See ya!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48870219",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "purizumo",
+    "number": 57,
+    "name": "Purizumo",
+    "englishName": "Purizumo",
+    "tagline": "Every mood has a different angle.",
+    "description": "A tiny blue prism with a rainbow tail, turning everyday feelings into colorful little surprises.",
+    "color": "#d6edf9",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Every mood has a different angle."
+    ],
+    "main": "assets/characters-en/purizumo/07.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/purizumo/01.webp",
+        "caption": "Hey there!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/purizumo/02.webp",
+        "caption": "Thanks a bunch!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/purizumo/03.webp",
+        "caption": "You got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/purizumo/04.webp",
+        "caption": "Nope!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/purizumo/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/purizumo/06.webp",
+        "caption": "Need a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/purizumo/07.webp",
+        "caption": "Really?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/purizumo/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/purizumo/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/purizumo/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/purizumo/11.webp",
+        "caption": "All good!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/purizumo/12.webp",
+        "caption": "Not today"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/purizumo/13.webp",
+        "caption": "So proud!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/purizumo/14.webp",
+        "caption": "Wait for me!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/purizumo/15.webp",
+        "caption": "Sleep tight!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/purizumo/16.webp",
+        "caption": "See ya!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48870228",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "mofurake",
+    "number": 58,
+    "name": "Mofurake",
+    "englishName": "Mofurake",
+    "tagline": "Five fluffy tufts. Endless drama.",
+    "description": "A coral-pink fluff with a bendy neck and five floppy tufts that never stay still for long.",
+    "color": "#f8d8dd",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Five fluffy tufts. Endless drama."
+    ],
+    "main": "assets/characters-en/mofurake/09.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/mofurake/01.webp",
+        "caption": "Hey there!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/mofurake/02.webp",
+        "caption": "Thanks a bunch!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/mofurake/03.webp",
+        "caption": "You got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/mofurake/04.webp",
+        "caption": "Nope!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/mofurake/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/mofurake/06.webp",
+        "caption": "Need a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/mofurake/07.webp",
+        "caption": "Really?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/mofurake/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/mofurake/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/mofurake/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/mofurake/11.webp",
+        "caption": "All good!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/mofurake/12.webp",
+        "caption": "Not today"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/mofurake/13.webp",
+        "caption": "So proud!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/mofurake/14.webp",
+        "caption": "Wait for me!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/mofurake/15.webp",
+        "caption": "Sleep tight!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/mofurake/16.webp",
+        "caption": "See ya!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48870230",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "tsuborun",
+    "number": 59,
+    "name": "Tsuborun",
+    "englishName": "Tsuborun",
+    "tagline": "Pouring a little warmth into your day.",
+    "description": "A terracotta teapot friend with a blue lid and a very expressive spout. Big feelings are always brewing.",
+    "color": "#f5dfcb",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Pouring a little warmth into your day."
+    ],
+    "main": "assets/characters-en/tsuborun/11.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/tsuborun/01.webp",
+        "caption": "Hey there!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/tsuborun/02.webp",
+        "caption": "Thanks a bunch!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/tsuborun/03.webp",
+        "caption": "You got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/tsuborun/04.webp",
+        "caption": "Nope!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/tsuborun/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/tsuborun/06.webp",
+        "caption": "Need a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/tsuborun/07.webp",
+        "caption": "Really?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/tsuborun/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/tsuborun/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/tsuborun/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/tsuborun/11.webp",
+        "caption": "All good!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/tsuborun/12.webp",
+        "caption": "Not today"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/tsuborun/13.webp",
+        "caption": "So proud!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/tsuborun/14.webp",
+        "caption": "Wait for me!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/tsuborun/15.webp",
+        "caption": "Sleep tight!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/tsuborun/16.webp",
+        "caption": "See ya!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48870232",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "pyokotto",
+    "number": 60,
+    "name": "Pyokotto",
+    "englishName": "Pyokotto",
+    "tagline": "One spring. Absolutely no chill.",
+    "description": "A blue crescent-headed friend with a spring for legs, bouncing between excitement and total exhaustion.",
+    "color": "#d7ebf9",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "One spring. Absolutely no chill."
+    ],
+    "main": "assets/characters-en/pyokotto/13.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/pyokotto/01.webp",
+        "caption": "Hey there!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/pyokotto/02.webp",
+        "caption": "Thanks a bunch!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/pyokotto/03.webp",
+        "caption": "You got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/pyokotto/04.webp",
+        "caption": "Nope!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/pyokotto/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/pyokotto/06.webp",
+        "caption": "Need a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/pyokotto/07.webp",
+        "caption": "Really?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/pyokotto/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/pyokotto/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/pyokotto/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/pyokotto/11.webp",
+        "caption": "All good!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/pyokotto/12.webp",
+        "caption": "Not today"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/pyokotto/13.webp",
+        "caption": "So proud!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/pyokotto/14.webp",
+        "caption": "Wait for me!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/pyokotto/15.webp",
+        "caption": "Sleep tight!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/pyokotto/16.webp",
+        "caption": "See ya!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48870234",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "nemurimo",
+    "number": 61,
+    "name": "Nemurimo",
+    "englishName": "Nemurimo",
+    "tagline": "A little shade and a lot of naps.",
+    "description": "A lavender umbrella-mushroom friend with three tiny feet and scarf-like arms, happiest sharing a quiet moment.",
+    "color": "#e7def4",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A little shade and a lot of naps."
+    ],
+    "main": "assets/characters-en/nemurimo/15.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/nemurimo/01.webp",
+        "caption": "Hey there!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/nemurimo/02.webp",
+        "caption": "Thanks a bunch!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/nemurimo/03.webp",
+        "caption": "You got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/nemurimo/04.webp",
+        "caption": "Nope!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/nemurimo/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/nemurimo/06.webp",
+        "caption": "Need a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/nemurimo/07.webp",
+        "caption": "Really?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/nemurimo/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/nemurimo/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/nemurimo/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/nemurimo/11.webp",
+        "caption": "All good!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/nemurimo/12.webp",
+        "caption": "Not today"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/nemurimo/13.webp",
+        "caption": "So proud!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/nemurimo/14.webp",
+        "caption": "Wait for me!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/nemurimo/15.webp",
+        "caption": "Sleep tight!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/nemurimo/16.webp",
+        "caption": "See ya!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48870235",
+    "availability": "coming-soon"
   }
 ]
