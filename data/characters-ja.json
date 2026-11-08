@@ -6297,5 +6297,829 @@
     "releaseStatus": "submitted",
     "lineId": "48870235",
     "availability": "coming-soon"
+  },
+  {
+    "id": "lanterun",
+    "number": 62,
+    "name": "らんてるん",
+    "englishName": "Lanterun",
+    "tagline": "らんてるんが、ぬるまるの仲間入り。",
+    "description": "提灯の仲間。明るい光で気持ちを伝えます。 スタンプのセリフは英語です。",
+    "color": "#ffe3ad",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Glow on!"
+    ],
+    "main": "assets/characters-en/lanterun/01.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/lanterun/01.webp",
+        "caption": "Glow on!（キャラクターのひとこと）"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/lanterun/02.webp",
+        "caption": "Thanks!（ありがとう！）"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/lanterun/03.webp",
+        "caption": "You've got this!（応援してる！）"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/lanterun/04.webp",
+        "caption": "No way!（まさか！）"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/lanterun/05.webp",
+        "caption": "On my way!（今向かってる！）"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/lanterun/06.webp",
+        "caption": "Taking a break（休憩中）"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/lanterun/07.webp",
+        "caption": "Seriously?!（ほんと？！）"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/lanterun/08.webp",
+        "caption": "My bad!（ごめんね！）"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/lanterun/09.webp",
+        "caption": "Snack break!（おやつ休憩！）"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/lanterun/10.webp",
+        "caption": "Miss you!（会いたい！）"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/lanterun/11.webp",
+        "caption": "All set!（準備できた！）"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/lanterun/12.webp",
+        "caption": "Maybe tomorrow（また明日）"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/lanterun/13.webp",
+        "caption": "You did it!（やったね！）"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/lanterun/14.webp",
+        "caption": "Wait up!（待って！）"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/lanterun/15.webp",
+        "caption": "Good night!（おやすみ！）"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/lanterun/16.webp",
+        "caption": "See you!（またね！）"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970101",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "komapiko",
+    "number": 63,
+    "name": "こまぴこ",
+    "englishName": "Komapiko",
+    "tagline": "こまぴこが、ぬるまるの仲間入り。",
+    "description": "くるくる回るコマの仲間です。 スタンプのセリフは英語です。",
+    "color": "#e6d7f6",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Let's spin!"
+    ],
+    "main": "assets/characters-en/komapiko/03.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/komapiko/01.webp",
+        "caption": "Let's spin!（キャラクターのひとこと）"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/komapiko/02.webp",
+        "caption": "Thanks!（ありがとう！）"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/komapiko/03.webp",
+        "caption": "You've got this!（応援してる！）"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/komapiko/04.webp",
+        "caption": "No way!（まさか！）"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/komapiko/05.webp",
+        "caption": "On my way!（今向かってる！）"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/komapiko/06.webp",
+        "caption": "Taking a break（休憩中）"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/komapiko/07.webp",
+        "caption": "Seriously?!（ほんと？！）"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/komapiko/08.webp",
+        "caption": "My bad!（ごめんね！）"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/komapiko/09.webp",
+        "caption": "Snack break!（おやつ休憩！）"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/komapiko/10.webp",
+        "caption": "Miss you!（会いたい！）"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/komapiko/11.webp",
+        "caption": "All set!（準備できた！）"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/komapiko/12.webp",
+        "caption": "Maybe tomorrow（また明日）"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/komapiko/13.webp",
+        "caption": "You did it!（やったね！）"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/komapiko/14.webp",
+        "caption": "Wait up!（待って！）"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/komapiko/15.webp",
+        "caption": "Good night!（おやすみ！）"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/komapiko/16.webp",
+        "caption": "See you!（またね！）"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970106",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "pachipon",
+    "number": 64,
+    "name": "ぱちぽん",
+    "englishName": "Pachipon",
+    "tagline": "ぱちぽんが、ぬるまるの仲間入り。",
+    "description": "小さなカスタネットが拍手を送ります。 スタンプのセリフは英語です。",
+    "color": "#d0efde",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Nice work!"
+    ],
+    "main": "assets/characters-en/pachipon/05.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/pachipon/01.webp",
+        "caption": "Nice work!（キャラクターのひとこと）"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/pachipon/02.webp",
+        "caption": "Thanks!（ありがとう！）"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/pachipon/03.webp",
+        "caption": "You've got this!（応援してる！）"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/pachipon/04.webp",
+        "caption": "No way!（まさか！）"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/pachipon/05.webp",
+        "caption": "On my way!（今向かってる！）"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/pachipon/06.webp",
+        "caption": "Taking a break（休憩中）"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/pachipon/07.webp",
+        "caption": "Seriously?!（ほんと？！）"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/pachipon/08.webp",
+        "caption": "My bad!（ごめんね！）"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/pachipon/09.webp",
+        "caption": "Snack break!（おやつ休憩！）"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/pachipon/10.webp",
+        "caption": "Miss you!（会いたい！）"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/pachipon/11.webp",
+        "caption": "All set!（準備できた！）"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/pachipon/12.webp",
+        "caption": "Maybe tomorrow（また明日）"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/pachipon/13.webp",
+        "caption": "You did it!（やったね！）"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/pachipon/14.webp",
+        "caption": "Wait up!（待って！）"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/pachipon/15.webp",
+        "caption": "Good night!（おやすみ！）"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/pachipon/16.webp",
+        "caption": "See you!（またね！）"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970109",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "fumikoro",
+    "number": 65,
+    "name": "ふみころ",
+    "englishName": "Fumikoro",
+    "tagline": "ふみころが、ぬるまるの仲間入り。",
+    "description": "気持ちをぺたっと押すハンコの仲間です。 スタンプのセリフは英語です。",
+    "color": "#d9eaf9",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Approved!"
+    ],
+    "main": "assets/characters-en/fumikoro/07.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/fumikoro/01.webp",
+        "caption": "Approved!（キャラクターのひとこと）"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/fumikoro/02.webp",
+        "caption": "Thanks!（ありがとう！）"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/fumikoro/03.webp",
+        "caption": "You've got this!（応援してる！）"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/fumikoro/04.webp",
+        "caption": "No way!（まさか！）"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/fumikoro/05.webp",
+        "caption": "On my way!（今向かってる！）"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/fumikoro/06.webp",
+        "caption": "Taking a break（休憩中）"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/fumikoro/07.webp",
+        "caption": "Seriously?!（ほんと？！）"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/fumikoro/08.webp",
+        "caption": "My bad!（ごめんね！）"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/fumikoro/09.webp",
+        "caption": "Snack break!（おやつ休憩！）"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/fumikoro/10.webp",
+        "caption": "Miss you!（会いたい！）"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/fumikoro/11.webp",
+        "caption": "All set!（準備できた！）"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/fumikoro/12.webp",
+        "caption": "Maybe tomorrow（また明日）"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/fumikoro/13.webp",
+        "caption": "You did it!（やったね！）"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/fumikoro/14.webp",
+        "caption": "Wait up!（待って！）"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/fumikoro/15.webp",
+        "caption": "Good night!（おやすみ！）"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/fumikoro/16.webp",
+        "caption": "See you!（またね！）"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970111",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "mekurupi",
+    "number": 66,
+    "name": "めくるぴ",
+    "englishName": "Mekurupi",
+    "tagline": "めくるぴが、ぬるまるの仲間入り。",
+    "description": "ページをめくる卓上カレンダーの仲間です。 スタンプのセリフは英語です。",
+    "color": "#f9dfcf",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "New day!"
+    ],
+    "main": "assets/characters-en/mekurupi/09.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/mekurupi/01.webp",
+        "caption": "New day!（キャラクターのひとこと）"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/mekurupi/02.webp",
+        "caption": "Thanks!（ありがとう！）"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/mekurupi/03.webp",
+        "caption": "You've got this!（応援してる！）"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/mekurupi/04.webp",
+        "caption": "No way!（まさか！）"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/mekurupi/05.webp",
+        "caption": "On my way!（今向かってる！）"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/mekurupi/06.webp",
+        "caption": "Taking a break（休憩中）"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/mekurupi/07.webp",
+        "caption": "Seriously?!（ほんと？！）"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/mekurupi/08.webp",
+        "caption": "My bad!（ごめんね！）"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/mekurupi/09.webp",
+        "caption": "Snack break!（おやつ休憩！）"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/mekurupi/10.webp",
+        "caption": "Miss you!（会いたい！）"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/mekurupi/11.webp",
+        "caption": "All set!（準備できた！）"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/mekurupi/12.webp",
+        "caption": "Maybe tomorrow（また明日）"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/mekurupi/13.webp",
+        "caption": "You did it!（やったね！）"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/mekurupi/14.webp",
+        "caption": "Wait up!（待って！）"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/mekurupi/15.webp",
+        "caption": "Good night!（おやすみ！）"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/mekurupi/16.webp",
+        "caption": "See you!（またね！）"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970112",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "sorapeta",
+    "number": 67,
+    "name": "そらぺた",
+    "englishName": "Sorapeta",
+    "tagline": "そらぺたが、ぬるまるの仲間入り。",
+    "description": "紙飛行機の仲間が気持ちを届けます。 スタンプのセリフは英語です。",
+    "color": "#fff0b4",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Flying over!"
+    ],
+    "main": "assets/characters-en/sorapeta/11.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/sorapeta/01.webp",
+        "caption": "Flying over!（キャラクターのひとこと）"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/sorapeta/02.webp",
+        "caption": "Thanks!（ありがとう！）"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/sorapeta/03.webp",
+        "caption": "You've got this!（応援してる！）"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/sorapeta/04.webp",
+        "caption": "No way!（まさか！）"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/sorapeta/05.webp",
+        "caption": "On my way!（今向かってる！）"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/sorapeta/06.webp",
+        "caption": "Taking a break（休憩中）"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/sorapeta/07.webp",
+        "caption": "Seriously?!（ほんと？！）"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/sorapeta/08.webp",
+        "caption": "My bad!（ごめんね！）"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/sorapeta/09.webp",
+        "caption": "Snack break!（おやつ休憩！）"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/sorapeta/10.webp",
+        "caption": "Miss you!（会いたい！）"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/sorapeta/11.webp",
+        "caption": "All set!（準備できた！）"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/sorapeta/12.webp",
+        "caption": "Maybe tomorrow（また明日）"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/sorapeta/13.webp",
+        "caption": "You did it!（やったね！）"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/sorapeta/14.webp",
+        "caption": "Wait up!（待って！）"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/sorapeta/15.webp",
+        "caption": "Good night!（おやすみ！）"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/sorapeta/16.webp",
+        "caption": "See you!（またね！）"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970113",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "nijikugi",
+    "number": 68,
+    "name": "にじくぎ",
+    "englishName": "Nijikugi",
+    "tagline": "にじくぎが、ぬるまるの仲間入り。",
+    "description": "くるくるねじれるコルク抜きの仲間です。 スタンプのセリフは英語です。",
+    "color": "#f7d5d6",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Hang in there!"
+    ],
+    "main": "assets/characters-en/nijikugi/13.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/nijikugi/01.webp",
+        "caption": "Hang in there!（キャラクターのひとこと）"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/nijikugi/02.webp",
+        "caption": "Thanks!（ありがとう！）"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/nijikugi/03.webp",
+        "caption": "You've got this!（応援してる！）"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/nijikugi/04.webp",
+        "caption": "No way!（まさか！）"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/nijikugi/05.webp",
+        "caption": "On my way!（今向かってる！）"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/nijikugi/06.webp",
+        "caption": "Taking a break（休憩中）"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/nijikugi/07.webp",
+        "caption": "Seriously?!（ほんと？！）"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/nijikugi/08.webp",
+        "caption": "My bad!（ごめんね！）"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/nijikugi/09.webp",
+        "caption": "Snack break!（おやつ休憩！）"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/nijikugi/10.webp",
+        "caption": "Miss you!（会いたい！）"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/nijikugi/11.webp",
+        "caption": "All set!（準備できた！）"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/nijikugi/12.webp",
+        "caption": "Maybe tomorrow（また明日）"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/nijikugi/13.webp",
+        "caption": "You did it!（やったね！）"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/nijikugi/14.webp",
+        "caption": "Wait up!（待って！）"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/nijikugi/15.webp",
+        "caption": "Good night!（おやすみ！）"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/nijikugi/16.webp",
+        "caption": "See you!（またね！）"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970115",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "gomururu",
+    "number": 69,
+    "name": "ごむるる",
+    "englishName": "Gomururu",
+    "tagline": "ごむるるが、ぬるまるの仲間入り。",
+    "description": "気持ちを切り替えたいときの消しゴムの仲間です。 スタンプのセリフは英語です。",
+    "color": "#ccefeb",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Fresh start!"
+    ],
+    "main": "assets/characters-en/gomururu/15.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/gomururu/01.webp",
+        "caption": "Fresh start!（キャラクターのひとこと）"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/gomururu/02.webp",
+        "caption": "Thanks!（ありがとう！）"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/gomururu/03.webp",
+        "caption": "You've got this!（応援してる！）"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/gomururu/04.webp",
+        "caption": "No way!（まさか！）"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/gomururu/05.webp",
+        "caption": "On my way!（今向かってる！）"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/gomururu/06.webp",
+        "caption": "Taking a break（休憩中）"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/gomururu/07.webp",
+        "caption": "Seriously?!（ほんと？！）"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/gomururu/08.webp",
+        "caption": "My bad!（ごめんね！）"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/gomururu/09.webp",
+        "caption": "Snack break!（おやつ休憩！）"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/gomururu/10.webp",
+        "caption": "Miss you!（会いたい！）"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/gomururu/11.webp",
+        "caption": "All set!（準備できた！）"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/gomururu/12.webp",
+        "caption": "Maybe tomorrow（また明日）"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/gomururu/13.webp",
+        "caption": "You did it!（やったね！）"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/gomururu/14.webp",
+        "caption": "Wait up!（待って！）"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/gomururu/15.webp",
+        "caption": "Good night!（おやすみ！）"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/gomururu/16.webp",
+        "caption": "See you!（またね！）"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970117",
+    "availability": "coming-soon"
   }
 ]

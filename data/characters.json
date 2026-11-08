@@ -6456,5 +6456,829 @@
     "releaseStatus": "submitted",
     "lineId": "48870235",
     "availability": "coming-soon"
+  },
+  {
+    "id": "lanterun",
+    "number": 62,
+    "name": "Lanterun",
+    "englishName": "Lanterun",
+    "tagline": "Glow on!",
+    "description": "A little lantern that brightens the room.",
+    "color": "#ffe3ad",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Glow on!"
+    ],
+    "main": "assets/characters-en/lanterun/01.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/lanterun/01.webp",
+        "caption": "Glow on!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/lanterun/02.webp",
+        "caption": "Thanks!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/lanterun/03.webp",
+        "caption": "You've got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/lanterun/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/lanterun/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/lanterun/06.webp",
+        "caption": "Taking a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/lanterun/07.webp",
+        "caption": "Seriously?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/lanterun/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/lanterun/09.webp",
+        "caption": "Snack break!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/lanterun/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/lanterun/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/lanterun/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/lanterun/13.webp",
+        "caption": "You did it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/lanterun/14.webp",
+        "caption": "Wait up!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/lanterun/15.webp",
+        "caption": "Good night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/lanterun/16.webp",
+        "caption": "See you!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970101",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "komapiko",
+    "number": 63,
+    "name": "Komapiko",
+    "englishName": "Komapiko",
+    "tagline": "Let's spin!",
+    "description": "A spinning top with a dizzy sense of humor.",
+    "color": "#e6d7f6",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Let's spin!"
+    ],
+    "main": "assets/characters-en/komapiko/03.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/komapiko/01.webp",
+        "caption": "Let's spin!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/komapiko/02.webp",
+        "caption": "Thanks!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/komapiko/03.webp",
+        "caption": "You've got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/komapiko/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/komapiko/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/komapiko/06.webp",
+        "caption": "Taking a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/komapiko/07.webp",
+        "caption": "Seriously?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/komapiko/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/komapiko/09.webp",
+        "caption": "Snack break!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/komapiko/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/komapiko/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/komapiko/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/komapiko/13.webp",
+        "caption": "You did it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/komapiko/14.webp",
+        "caption": "Wait up!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/komapiko/15.webp",
+        "caption": "Good night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/komapiko/16.webp",
+        "caption": "See you!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970106",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "pachipon",
+    "number": 64,
+    "name": "Pachipon",
+    "englishName": "Pachipon",
+    "tagline": "Nice work!",
+    "description": "A tiny castanet that applauds every little win.",
+    "color": "#d0efde",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Nice work!"
+    ],
+    "main": "assets/characters-en/pachipon/05.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/pachipon/01.webp",
+        "caption": "Nice work!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/pachipon/02.webp",
+        "caption": "Thanks!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/pachipon/03.webp",
+        "caption": "You've got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/pachipon/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/pachipon/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/pachipon/06.webp",
+        "caption": "Taking a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/pachipon/07.webp",
+        "caption": "Seriously?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/pachipon/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/pachipon/09.webp",
+        "caption": "Snack break!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/pachipon/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/pachipon/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/pachipon/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/pachipon/13.webp",
+        "caption": "You did it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/pachipon/14.webp",
+        "caption": "Wait up!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/pachipon/15.webp",
+        "caption": "Good night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/pachipon/16.webp",
+        "caption": "See you!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970109",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "fumikoro",
+    "number": 65,
+    "name": "Fumikoro",
+    "englishName": "Fumikoro",
+    "tagline": "Approved!",
+    "description": "A rubber stamp that puts its mark on every mood.",
+    "color": "#d9eaf9",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Approved!"
+    ],
+    "main": "assets/characters-en/fumikoro/07.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/fumikoro/01.webp",
+        "caption": "Approved!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/fumikoro/02.webp",
+        "caption": "Thanks!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/fumikoro/03.webp",
+        "caption": "You've got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/fumikoro/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/fumikoro/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/fumikoro/06.webp",
+        "caption": "Taking a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/fumikoro/07.webp",
+        "caption": "Seriously?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/fumikoro/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/fumikoro/09.webp",
+        "caption": "Snack break!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/fumikoro/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/fumikoro/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/fumikoro/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/fumikoro/13.webp",
+        "caption": "You did it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/fumikoro/14.webp",
+        "caption": "Wait up!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/fumikoro/15.webp",
+        "caption": "Good night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/fumikoro/16.webp",
+        "caption": "See you!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970111",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "mekurupi",
+    "number": 66,
+    "name": "Mekurupi",
+    "englishName": "Mekurupi",
+    "tagline": "New day!",
+    "description": "A little calendar that likes turning the page.",
+    "color": "#f9dfcf",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "New day!"
+    ],
+    "main": "assets/characters-en/mekurupi/09.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/mekurupi/01.webp",
+        "caption": "New day!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/mekurupi/02.webp",
+        "caption": "Thanks!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/mekurupi/03.webp",
+        "caption": "You've got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/mekurupi/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/mekurupi/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/mekurupi/06.webp",
+        "caption": "Taking a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/mekurupi/07.webp",
+        "caption": "Seriously?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/mekurupi/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/mekurupi/09.webp",
+        "caption": "Snack break!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/mekurupi/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/mekurupi/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/mekurupi/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/mekurupi/13.webp",
+        "caption": "You did it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/mekurupi/14.webp",
+        "caption": "Wait up!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/mekurupi/15.webp",
+        "caption": "Good night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/mekurupi/16.webp",
+        "caption": "See you!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970112",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "sorapeta",
+    "number": 67,
+    "name": "Sorapeta",
+    "englishName": "Sorapeta",
+    "tagline": "Flying over!",
+    "description": "A paper airplane with a habit of flying off.",
+    "color": "#fff0b4",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Flying over!"
+    ],
+    "main": "assets/characters-en/sorapeta/11.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/sorapeta/01.webp",
+        "caption": "Flying over!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/sorapeta/02.webp",
+        "caption": "Thanks!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/sorapeta/03.webp",
+        "caption": "You've got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/sorapeta/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/sorapeta/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/sorapeta/06.webp",
+        "caption": "Taking a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/sorapeta/07.webp",
+        "caption": "Seriously?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/sorapeta/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/sorapeta/09.webp",
+        "caption": "Snack break!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/sorapeta/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/sorapeta/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/sorapeta/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/sorapeta/13.webp",
+        "caption": "You did it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/sorapeta/14.webp",
+        "caption": "Wait up!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/sorapeta/15.webp",
+        "caption": "Good night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/sorapeta/16.webp",
+        "caption": "See you!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970113",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "nijikugi",
+    "number": 68,
+    "name": "Nijikugi",
+    "englishName": "Nijikugi",
+    "tagline": "Hang in there!",
+    "description": "A springy corkscrew that twists when excited.",
+    "color": "#f7d5d6",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Hang in there!"
+    ],
+    "main": "assets/characters-en/nijikugi/13.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/nijikugi/01.webp",
+        "caption": "Hang in there!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/nijikugi/02.webp",
+        "caption": "Thanks!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/nijikugi/03.webp",
+        "caption": "You've got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/nijikugi/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/nijikugi/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/nijikugi/06.webp",
+        "caption": "Taking a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/nijikugi/07.webp",
+        "caption": "Seriously?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/nijikugi/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/nijikugi/09.webp",
+        "caption": "Snack break!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/nijikugi/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/nijikugi/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/nijikugi/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/nijikugi/13.webp",
+        "caption": "You did it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/nijikugi/14.webp",
+        "caption": "Wait up!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/nijikugi/15.webp",
+        "caption": "Good night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/nijikugi/16.webp",
+        "caption": "See you!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970115",
+    "availability": "coming-soon"
+  },
+  {
+    "id": "gomururu",
+    "number": 69,
+    "name": "Gomururu",
+    "englishName": "Gomururu",
+    "tagline": "Fresh start!",
+    "description": "An eraser friend who is always ready for a fresh start.",
+    "color": "#ccefeb",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "Fresh start!"
+    ],
+    "main": "assets/characters-en/gomururu/15.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/gomururu/01.webp",
+        "caption": "Fresh start!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/gomururu/02.webp",
+        "caption": "Thanks!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/gomururu/03.webp",
+        "caption": "You've got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/gomururu/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/gomururu/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/gomururu/06.webp",
+        "caption": "Taking a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/gomururu/07.webp",
+        "caption": "Seriously?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/gomururu/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/gomururu/09.webp",
+        "caption": "Snack break!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/gomururu/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/gomururu/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/gomururu/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/gomururu/13.webp",
+        "caption": "You did it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/gomururu/14.webp",
+        "caption": "Wait up!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/gomururu/15.webp",
+        "caption": "Good night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/gomururu/16.webp",
+        "caption": "See you!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "48970117",
+    "availability": "coming-soon"
   }
 ]
