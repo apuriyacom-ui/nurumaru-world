@@ -7280,5 +7280,421 @@
     "releaseStatus": "submitted",
     "lineId": "48970117",
     "availability": "coming-soon"
+  },
+  {
+    "id": "sasabun",
+    "number": 70,
+    "name": "Sasabun",
+    "englishName": "Sasabun",
+    "tagline": "A bamboo whisk with boundless energy",
+    "description": "Sasabun is a lively bamboo whisk who whips up a little encouragement for everyday chats.",
+    "color": "#d7edbb",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A bamboo whisk with boundless energy"
+    ],
+    "main": "assets/characters-en/sasabun/01.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/sasabun/01.webp",
+        "caption": "Hello!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/sasabun/02.webp",
+        "caption": "Thanks!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/sasabun/03.webp",
+        "caption": "You got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/sasabun/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/sasabun/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/sasabun/06.webp",
+        "caption": "Taking a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/sasabun/07.webp",
+        "caption": "Really?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/sasabun/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/sasabun/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/sasabun/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/sasabun/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/sasabun/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/sasabun/13.webp",
+        "caption": "You did it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/sasabun/14.webp",
+        "caption": "Wait up!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/sasabun/15.webp",
+        "caption": "Good night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/sasabun/16.webp",
+        "caption": "See you!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49069732",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "kaginoko",
+    "number": 71,
+    "name": "Kaginoko",
+    "englishName": "Kaginoko",
+    "tagline": "A little brass key with big reactions",
+    "description": "Kaginoko is a curious brass key who has a reaction for every twist and turn in your day.",
+    "color": "#ffe3a3",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A little brass key with big reactions"
+    ],
+    "main": "assets/characters-en/kaginoko/03.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/kaginoko/01.webp",
+        "caption": "Hello!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/kaginoko/02.webp",
+        "caption": "Thanks!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/kaginoko/03.webp",
+        "caption": "You got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/kaginoko/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/kaginoko/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/kaginoko/06.webp",
+        "caption": "Taking a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/kaginoko/07.webp",
+        "caption": "Really?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/kaginoko/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/kaginoko/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/kaginoko/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/kaginoko/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/kaginoko/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/kaginoko/13.webp",
+        "caption": "You did it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/kaginoko/14.webp",
+        "caption": "Wait up!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/kaginoko/15.webp",
+        "caption": "Good night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/kaginoko/16.webp",
+        "caption": "See you!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49069737",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "kumopata",
+    "number": 72,
+    "name": "Kumopata",
+    "englishName": "Kumopata",
+    "tagline": "A cloud fan with a sunny streak",
+    "description": "Kumopata is a cloud-shaped fan who breezes through greetings, snack breaks, and goodnights.",
+    "color": "#d5ebfa",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A cloud fan with a sunny streak"
+    ],
+    "main": "assets/characters-en/kumopata/05.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/kumopata/01.webp",
+        "caption": "Hello!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/kumopata/02.webp",
+        "caption": "Thanks!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/kumopata/03.webp",
+        "caption": "You got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/kumopata/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/kumopata/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/kumopata/06.webp",
+        "caption": "Taking a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/kumopata/07.webp",
+        "caption": "Really?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/kumopata/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/kumopata/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/kumopata/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/kumopata/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/kumopata/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/kumopata/13.webp",
+        "caption": "You did it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/kumopata/14.webp",
+        "caption": "Wait up!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/kumopata/15.webp",
+        "caption": "Good night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/kumopata/16.webp",
+        "caption": "See you!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49069738",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "keshimaru",
+    "number": 73,
+    "name": "Keshimaru",
+    "englishName": "Keshimaru",
+    "tagline": "A tiny ink bottle with big feelings",
+    "description": "Keshimaru is a blue ink bottle with expressive reactions for quick replies and everyday chats.",
+    "color": "#d9defa",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A tiny ink bottle with big feelings"
+    ],
+    "main": "assets/characters-en/keshimaru/07.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/keshimaru/01.webp",
+        "caption": "Hello!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/keshimaru/02.webp",
+        "caption": "Thanks!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/keshimaru/03.webp",
+        "caption": "You got this!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/keshimaru/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/keshimaru/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/keshimaru/06.webp",
+        "caption": "Taking a break"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/keshimaru/07.webp",
+        "caption": "Really?!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/keshimaru/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/keshimaru/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/keshimaru/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/keshimaru/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/keshimaru/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/keshimaru/13.webp",
+        "caption": "You did it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/keshimaru/14.webp",
+        "caption": "Wait up!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/keshimaru/15.webp",
+        "caption": "Good night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/keshimaru/16.webp",
+        "caption": "See you!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49069739",
+    "availability": "coming-soon",
+    "releasedAsNew": true
   }
 ]

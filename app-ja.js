@@ -181,7 +181,7 @@
       link.rel = 'noopener noreferrer';
       actions.append(link);
     }
-    if (character.availability === 'coming-soon') actions.append(node('p', 'store-note', 'LINEスタンプは審査待ちです。販売開始をお楽しみに！'));
+    if (character.availability === 'coming-soon') actions.append(node('p', 'store-note', '販売開始前のプレビューです。'));
     const galleryTitle = node('h3', 'sticker-gallery-title', `${character.name}のスタンプ`);
     const gallery = node('div', 'sticker-gallery');
     (Array.isArray(character.stickers) ? character.stickers : []).forEach((sticker, index) => {
