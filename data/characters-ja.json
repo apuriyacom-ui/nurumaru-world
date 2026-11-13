@@ -7221,7 +7221,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "preparing",
+    "releaseStatus": "in-review",
     "lineId": "49069732",
     "availability": "coming-soon",
     "releasedAsNew": true
@@ -7325,7 +7325,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "preparing",
+    "releaseStatus": "in-review",
     "lineId": "49069737",
     "availability": "coming-soon",
     "releasedAsNew": true
@@ -7429,7 +7429,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "preparing",
+    "releaseStatus": "in-review",
     "lineId": "49069738",
     "availability": "coming-soon",
     "releasedAsNew": true
@@ -7533,7 +7533,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "preparing",
+    "releaseStatus": "in-review",
     "lineId": "49069739",
     "availability": "coming-soon",
     "releasedAsNew": true
@@ -7638,7 +7638,7 @@
     "storeUrl": null,
     "japaneseStoreUrl": null,
     "releaseStatus": "preparing",
-    "lineId": null,
+    "lineId": "49128032",
     "availability": "coming-soon",
     "releasedAsNew": true
   },
@@ -7742,7 +7742,7 @@
     "storeUrl": null,
     "japaneseStoreUrl": null,
     "releaseStatus": "preparing",
-    "lineId": null,
+    "lineId": "49128033",
     "availability": "coming-soon",
     "releasedAsNew": true
   },
@@ -7846,7 +7846,7 @@
     "storeUrl": null,
     "japaneseStoreUrl": null,
     "releaseStatus": "preparing",
-    "lineId": null,
+    "lineId": "49128035",
     "availability": "coming-soon",
     "releasedAsNew": true
   },
@@ -7950,7 +7950,423 @@
     "storeUrl": null,
     "japaneseStoreUrl": null,
     "releaseStatus": "preparing",
-    "lineId": null,
+    "lineId": "49128037",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "pachireno",
+    "number": 78,
+    "name": "ぱちれの",
+    "englishName": "Pachireno",
+    "tagline": "ぱちれのが仲間入り。",
+    "description": "ぱちれのの英語スタンプ16個。",
+    "color": "#ffe89a",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A yellow tape measure with a springy stride."
+    ],
+    "main": "assets/characters-en/pachireno/01.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/pachireno/01.webp",
+        "caption": "Hi!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/pachireno/02.webp",
+        "caption": "Thank you!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/pachireno/03.webp",
+        "caption": "Go for it!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/pachireno/04.webp",
+        "caption": "Seriously?"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/pachireno/05.webp",
+        "caption": "Almost there!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/pachireno/06.webp",
+        "caption": "Taking five"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/pachireno/07.webp",
+        "caption": "Oh wow!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/pachireno/08.webp",
+        "caption": "Sorry!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/pachireno/09.webp",
+        "caption": "Snack break!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/pachireno/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/pachireno/11.webp",
+        "caption": "Got it!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/pachireno/12.webp",
+        "caption": "Maybe later"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/pachireno/13.webp",
+        "caption": "Nice work!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/pachireno/14.webp",
+        "caption": "Hold on!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/pachireno/15.webp",
+        "caption": "Sleep well!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/pachireno/16.webp",
+        "caption": "See ya!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49128076",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "moppun",
+    "number": 79,
+    "name": "もっぷん",
+    "englishName": "Moppun",
+    "tagline": "もっぷんが仲間入り。",
+    "description": "もっぷんの英語スタンプ16個。",
+    "color": "#f7c9df",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A pink dust mop with a fluffy fringe."
+    ],
+    "main": "assets/characters-en/moppun/03.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/moppun/01.webp",
+        "caption": "Hi!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/moppun/02.webp",
+        "caption": "Thank you!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/moppun/03.webp",
+        "caption": "Go for it!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/moppun/04.webp",
+        "caption": "Seriously?"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/moppun/05.webp",
+        "caption": "Almost there!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/moppun/06.webp",
+        "caption": "Taking five"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/moppun/07.webp",
+        "caption": "Oh wow!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/moppun/08.webp",
+        "caption": "Sorry!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/moppun/09.webp",
+        "caption": "Snack break!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/moppun/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/moppun/11.webp",
+        "caption": "Got it!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/moppun/12.webp",
+        "caption": "Maybe later"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/moppun/13.webp",
+        "caption": "Nice work!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/moppun/14.webp",
+        "caption": "Hold on!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/moppun/15.webp",
+        "caption": "Sleep well!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/moppun/16.webp",
+        "caption": "See ya!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49128077",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "kurumekku",
+    "number": 80,
+    "name": "くるめっく",
+    "englishName": "Kurumekku",
+    "tagline": "くるめっくが仲間入り。",
+    "description": "くるめっくの英語スタンプ16個。",
+    "color": "#c5e8c7",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A green clothespin with a surprisingly firm grip."
+    ],
+    "main": "assets/characters-en/kurumekku/05.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/kurumekku/01.webp",
+        "caption": "Hi!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/kurumekku/02.webp",
+        "caption": "Thank you!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/kurumekku/03.webp",
+        "caption": "Go for it!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/kurumekku/04.webp",
+        "caption": "Seriously?"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/kurumekku/05.webp",
+        "caption": "Almost there!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/kurumekku/06.webp",
+        "caption": "Taking five"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/kurumekku/07.webp",
+        "caption": "Oh wow!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/kurumekku/08.webp",
+        "caption": "Sorry!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/kurumekku/09.webp",
+        "caption": "Snack break!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/kurumekku/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/kurumekku/11.webp",
+        "caption": "Got it!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/kurumekku/12.webp",
+        "caption": "Maybe later"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/kurumekku/13.webp",
+        "caption": "Nice work!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/kurumekku/14.webp",
+        "caption": "Hold on!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/kurumekku/15.webp",
+        "caption": "Sleep well!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/kurumekku/16.webp",
+        "caption": "See ya!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49128078",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "pukkurin",
+    "number": 81,
+    "name": "ぷっくりん",
+    "englishName": "Pukkurin",
+    "tagline": "ぷっくりんが仲間入り。",
+    "description": "ぷっくりんの英語スタンプ16個。",
+    "color": "#c9e4fa",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A blue hot water bottle that loves a cozy break."
+    ],
+    "main": "assets/characters-en/pukkurin/07.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/pukkurin/01.webp",
+        "caption": "Hi!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/pukkurin/02.webp",
+        "caption": "Thank you!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/pukkurin/03.webp",
+        "caption": "Go for it!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/pukkurin/04.webp",
+        "caption": "Seriously?"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/pukkurin/05.webp",
+        "caption": "Almost there!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/pukkurin/06.webp",
+        "caption": "Taking five"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/pukkurin/07.webp",
+        "caption": "Oh wow!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/pukkurin/08.webp",
+        "caption": "Sorry!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/pukkurin/09.webp",
+        "caption": "Snack break!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/pukkurin/10.webp",
+        "caption": "Miss you!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/pukkurin/11.webp",
+        "caption": "Got it!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/pukkurin/12.webp",
+        "caption": "Maybe later"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/pukkurin/13.webp",
+        "caption": "Nice work!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/pukkurin/14.webp",
+        "caption": "Hold on!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/pukkurin/15.webp",
+        "caption": "Sleep well!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/pukkurin/16.webp",
+        "caption": "See ya!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49128081",
     "availability": "coming-soon",
     "releasedAsNew": true
   }
