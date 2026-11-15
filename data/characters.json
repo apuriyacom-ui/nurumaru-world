@@ -6659,7 +6659,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "submitted",
+    "releaseStatus": "in-review",
     "lineId": "48970106",
     "availability": "coming-soon"
   },
@@ -6762,7 +6762,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "submitted",
+    "releaseStatus": "in-review",
     "lineId": "48970109",
     "availability": "coming-soon"
   },
@@ -6865,7 +6865,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "submitted",
+    "releaseStatus": "in-review",
     "lineId": "48970111",
     "availability": "coming-soon"
   },
@@ -6968,7 +6968,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "submitted",
+    "releaseStatus": "in-review",
     "lineId": "48970112",
     "availability": "coming-soon"
   },
@@ -7071,7 +7071,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "submitted",
+    "releaseStatus": "in-review",
     "lineId": "48970113",
     "availability": "coming-soon"
   },
@@ -7174,7 +7174,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "submitted",
+    "releaseStatus": "in-review",
     "lineId": "48970115",
     "availability": "coming-soon"
   },
@@ -7277,7 +7277,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "submitted",
+    "releaseStatus": "in-review",
     "lineId": "48970117",
     "availability": "coming-soon"
   },
@@ -8526,6 +8526,422 @@
     "japaneseStoreUrl": null,
     "releaseStatus": "in-review",
     "lineId": "49128081",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "ponkurumi",
+    "number": 82,
+    "name": "Ponkurumi",
+    "englishName": "Ponkurumi",
+    "tagline": "A pink kitchen timer with a wind-up knob and boundless energy.",
+    "description": "A pink kitchen timer with a wind-up knob and boundless energy.",
+    "color": "#ffd0ce",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A pink kitchen timer with a wind-up knob and boundless energy."
+    ],
+    "main": "assets/characters-en/ponkurumi/01.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/ponkurumi/01.webp",
+        "caption": "Hey there!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/ponkurumi/02.webp",
+        "caption": "Thanks a bunch!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/ponkurumi/03.webp",
+        "caption": "You can do it!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/ponkurumi/04.webp",
+        "caption": "Wait, what?"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/ponkurumi/05.webp",
+        "caption": "Coming!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/ponkurumi/06.webp",
+        "caption": "Break time"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/ponkurumi/07.webp",
+        "caption": "Amazing!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/ponkurumi/08.webp",
+        "caption": "Oops, sorry!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/ponkurumi/09.webp",
+        "caption": "Let's eat!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/ponkurumi/10.webp",
+        "caption": "Thinking of you"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/ponkurumi/11.webp",
+        "caption": "Understood!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/ponkurumi/12.webp",
+        "caption": "Not today"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/ponkurumi/13.webp",
+        "caption": "Well done!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/ponkurumi/14.webp",
+        "caption": "One moment!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/ponkurumi/15.webp",
+        "caption": "Sweet dreams!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/ponkurumi/16.webp",
+        "caption": "Catch you later!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49177645",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "hekopeta",
+    "number": 83,
+    "name": "Hekopeta",
+    "englishName": "Hekopeta",
+    "tagline": "A mint suction cup with a curly hook nose and a knack for hanging around.",
+    "description": "A mint suction cup with a curly hook nose and a knack for hanging around.",
+    "color": "#bdeee0",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A mint suction cup with a curly hook nose and a knack for hanging around."
+    ],
+    "main": "assets/characters-en/hekopeta/03.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/hekopeta/01.webp",
+        "caption": "Hey there!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/hekopeta/02.webp",
+        "caption": "Thanks a bunch!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/hekopeta/03.webp",
+        "caption": "You can do it!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/hekopeta/04.webp",
+        "caption": "Wait, what?"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/hekopeta/05.webp",
+        "caption": "Coming!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/hekopeta/06.webp",
+        "caption": "Break time"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/hekopeta/07.webp",
+        "caption": "Amazing!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/hekopeta/08.webp",
+        "caption": "Oops, sorry!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/hekopeta/09.webp",
+        "caption": "Let's eat!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/hekopeta/10.webp",
+        "caption": "Thinking of you"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/hekopeta/11.webp",
+        "caption": "Understood!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/hekopeta/12.webp",
+        "caption": "Not today"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/hekopeta/13.webp",
+        "caption": "Well done!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/hekopeta/14.webp",
+        "caption": "One moment!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/hekopeta/15.webp",
+        "caption": "Sweet dreams!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/hekopeta/16.webp",
+        "caption": "Catch you later!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49177655",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "moyobon",
+    "number": 84,
+    "name": "Moyobon",
+    "englishName": "Moyobon",
+    "tagline": "A lilac accordion who stretches every feeling into a grand performance.",
+    "description": "A lilac accordion who stretches every feeling into a grand performance.",
+    "color": "#dfccfa",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A lilac accordion who stretches every feeling into a grand performance."
+    ],
+    "main": "assets/characters-en/moyobon/05.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/moyobon/01.webp",
+        "caption": "Hey there!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/moyobon/02.webp",
+        "caption": "Thanks a bunch!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/moyobon/03.webp",
+        "caption": "You can do it!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/moyobon/04.webp",
+        "caption": "Wait, what?"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/moyobon/05.webp",
+        "caption": "Coming!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/moyobon/06.webp",
+        "caption": "Break time"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/moyobon/07.webp",
+        "caption": "Amazing!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/moyobon/08.webp",
+        "caption": "Oops, sorry!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/moyobon/09.webp",
+        "caption": "Let's eat!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/moyobon/10.webp",
+        "caption": "Thinking of you"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/moyobon/11.webp",
+        "caption": "Understood!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/moyobon/12.webp",
+        "caption": "Not today"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/moyobon/13.webp",
+        "caption": "Well done!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/moyobon/14.webp",
+        "caption": "One moment!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/moyobon/15.webp",
+        "caption": "Sweet dreams!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/moyobon/16.webp",
+        "caption": "Catch you later!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49177658",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "chirorun",
+    "number": 85,
+    "name": "Chirorun",
+    "englishName": "Chirorun",
+    "tagline": "An orange desk bell with noodle arms who always makes an entrance.",
+    "description": "An orange desk bell with noodle arms who always makes an entrance.",
+    "color": "#ffdbac",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "An orange desk bell with noodle arms who always makes an entrance."
+    ],
+    "main": "assets/characters-en/chirorun/07.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/chirorun/01.webp",
+        "caption": "Hey there!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/chirorun/02.webp",
+        "caption": "Thanks a bunch!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/chirorun/03.webp",
+        "caption": "You can do it!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/chirorun/04.webp",
+        "caption": "Wait, what?"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/chirorun/05.webp",
+        "caption": "Coming!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/chirorun/06.webp",
+        "caption": "Break time"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/chirorun/07.webp",
+        "caption": "Amazing!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/chirorun/08.webp",
+        "caption": "Oops, sorry!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/chirorun/09.webp",
+        "caption": "Let's eat!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/chirorun/10.webp",
+        "caption": "Thinking of you"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/chirorun/11.webp",
+        "caption": "Understood!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/chirorun/12.webp",
+        "caption": "Not today"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/chirorun/13.webp",
+        "caption": "Well done!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/chirorun/14.webp",
+        "caption": "One moment!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/chirorun/15.webp",
+        "caption": "Sweet dreams!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/chirorun/16.webp",
+        "caption": "Catch you later!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49177661",
     "availability": "coming-soon",
     "releasedAsNew": true
   }
