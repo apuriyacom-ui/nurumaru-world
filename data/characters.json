@@ -8628,7 +8628,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "preparing",
+    "releaseStatus": "in-review",
     "lineId": "49177645",
     "availability": "coming-soon",
     "releasedAsNew": true
@@ -8732,7 +8732,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "preparing",
+    "releaseStatus": "in-review",
     "lineId": "49177655",
     "availability": "coming-soon",
     "releasedAsNew": true
@@ -8836,7 +8836,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "preparing",
+    "releaseStatus": "in-review",
     "lineId": "49177658",
     "availability": "coming-soon",
     "releasedAsNew": true
@@ -8940,8 +8940,424 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "preparing",
+    "releaseStatus": "in-review",
     "lineId": "49177661",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "kofupin",
+    "number": 86,
+    "name": "Kofupin",
+    "englishName": "Kofupin",
+    "tagline": "A sky-blue padlock with ears that perk up at good news.",
+    "description": "A sky-blue padlock with ears that perk up at good news.",
+    "color": "#bbdef7",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A sky-blue padlock with ears that perk up at good news."
+    ],
+    "main": "assets/characters-en/kofupin/01.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/kofupin/01.webp",
+        "caption": "Hello!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/kofupin/02.webp",
+        "caption": "Much appreciated!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/kofupin/03.webp",
+        "caption": "Keep it up!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/kofupin/04.webp",
+        "caption": "For real?"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/kofupin/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/kofupin/06.webp",
+        "caption": "Time to chill"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/kofupin/07.webp",
+        "caption": "So cool!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/kofupin/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/kofupin/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/kofupin/10.webp",
+        "caption": "Sending hugs"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/kofupin/11.webp",
+        "caption": "Gotcha!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/kofupin/12.webp",
+        "caption": "I'll pass"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/kofupin/13.webp",
+        "caption": "You nailed it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/kofupin/14.webp",
+        "caption": "Hang on!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/kofupin/15.webp",
+        "caption": "Night night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/kofupin/16.webp",
+        "caption": "See you soon!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49216128",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "shizupeta",
+    "number": 87,
+    "name": "Shizupeta",
+    "englishName": "Shizupeta",
+    "tagline": "A teal ink stamp that bounces on springy legs.",
+    "description": "A teal ink stamp that bounces on springy legs.",
+    "color": "#b4e9e0",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A teal ink stamp that bounces on springy legs."
+    ],
+    "main": "assets/characters-en/shizupeta/03.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/shizupeta/01.webp",
+        "caption": "Hello!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/shizupeta/02.webp",
+        "caption": "Much appreciated!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/shizupeta/03.webp",
+        "caption": "Keep it up!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/shizupeta/04.webp",
+        "caption": "For real?"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/shizupeta/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/shizupeta/06.webp",
+        "caption": "Time to chill"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/shizupeta/07.webp",
+        "caption": "So cool!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/shizupeta/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/shizupeta/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/shizupeta/10.webp",
+        "caption": "Sending hugs"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/shizupeta/11.webp",
+        "caption": "Gotcha!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/shizupeta/12.webp",
+        "caption": "I'll pass"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/shizupeta/13.webp",
+        "caption": "You nailed it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/shizupeta/14.webp",
+        "caption": "Hang on!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/shizupeta/15.webp",
+        "caption": "Night night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/shizupeta/16.webp",
+        "caption": "See you soon!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49216155",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "marudoro",
+    "number": 88,
+    "name": "Marudoro",
+    "englishName": "Marudoro",
+    "tagline": "An orange sand dollar with a star on its belly.",
+    "description": "An orange sand dollar with a star on its belly.",
+    "color": "#ffd9ad",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "An orange sand dollar with a star on its belly."
+    ],
+    "main": "assets/characters-en/marudoro/05.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/marudoro/01.webp",
+        "caption": "Hello!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/marudoro/02.webp",
+        "caption": "Much appreciated!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/marudoro/03.webp",
+        "caption": "Keep it up!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/marudoro/04.webp",
+        "caption": "For real?"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/marudoro/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/marudoro/06.webp",
+        "caption": "Time to chill"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/marudoro/07.webp",
+        "caption": "So cool!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/marudoro/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/marudoro/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/marudoro/10.webp",
+        "caption": "Sending hugs"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/marudoro/11.webp",
+        "caption": "Gotcha!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/marudoro/12.webp",
+        "caption": "I'll pass"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/marudoro/13.webp",
+        "caption": "You nailed it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/marudoro/14.webp",
+        "caption": "Hang on!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/marudoro/15.webp",
+        "caption": "Night night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/marudoro/16.webp",
+        "caption": "See you soon!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49216138",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "karakoro",
+    "number": 89,
+    "name": "Karakoro",
+    "englishName": "Karakoro",
+    "tagline": "A lime rotary dial with a curly cord for a tail.",
+    "description": "A lime rotary dial with a curly cord for a tail.",
+    "color": "#d5ebad",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A lime rotary dial with a curly cord for a tail."
+    ],
+    "main": "assets/characters-en/karakoro/07.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/karakoro/01.webp",
+        "caption": "Hello!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/karakoro/02.webp",
+        "caption": "Much appreciated!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/karakoro/03.webp",
+        "caption": "Keep it up!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/karakoro/04.webp",
+        "caption": "For real?"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/karakoro/05.webp",
+        "caption": "On my way!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/karakoro/06.webp",
+        "caption": "Time to chill"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/karakoro/07.webp",
+        "caption": "So cool!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/karakoro/08.webp",
+        "caption": "My bad!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/karakoro/09.webp",
+        "caption": "Snack time!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/karakoro/10.webp",
+        "caption": "Sending hugs"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/karakoro/11.webp",
+        "caption": "Gotcha!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/karakoro/12.webp",
+        "caption": "I'll pass"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/karakoro/13.webp",
+        "caption": "You nailed it!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/karakoro/14.webp",
+        "caption": "Hang on!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/karakoro/15.webp",
+        "caption": "Night night!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/karakoro/16.webp",
+        "caption": "See you soon!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49216145",
     "availability": "coming-soon",
     "releasedAsNew": true
   }
