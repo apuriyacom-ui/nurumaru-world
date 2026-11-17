@@ -8885,7 +8885,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "preparing",
+    "releaseStatus": "in-review",
     "lineId": "49216128",
     "availability": "coming-soon",
     "releasedAsNew": true
@@ -8989,7 +8989,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "preparing",
+    "releaseStatus": "in-review",
     "lineId": "49216155",
     "availability": "coming-soon",
     "releasedAsNew": true
@@ -9093,7 +9093,7 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "preparing",
+    "releaseStatus": "in-review",
     "lineId": "49216138",
     "availability": "coming-soon",
     "releasedAsNew": true
@@ -9197,8 +9197,424 @@
     "artworkLanguage": "en",
     "storeUrl": null,
     "japaneseStoreUrl": null,
-    "releaseStatus": "preparing",
+    "releaseStatus": "in-review",
     "lineId": "49216145",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "bikkuru",
+    "number": 90,
+    "name": "びっくる",
+    "englishName": "Bikkuru",
+    "tagline": "びっくるが仲間入り。",
+    "description": "びっくるの英語スタンプ16個。あいさつ、お礼、応援などの気持ちをユニークな動きで届けます。",
+    "color": "#d9c8f4",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A purple binocular creature with two enormous eyes and tiny boots."
+    ],
+    "main": "assets/characters-en/bikkuru/01.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/bikkuru/01.webp",
+        "caption": "Morning!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/bikkuru/02.webp",
+        "caption": "You're the best!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/bikkuru/03.webp",
+        "caption": "Rooting for you!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/bikkuru/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/bikkuru/05.webp",
+        "caption": "Be right there!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/bikkuru/06.webp",
+        "caption": "Taking a breather"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/bikkuru/07.webp",
+        "caption": "Love it!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/bikkuru/08.webp",
+        "caption": "So sorry!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/bikkuru/09.webp",
+        "caption": "Yummy!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/bikkuru/10.webp",
+        "caption": "Big hugs!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/bikkuru/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/bikkuru/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/bikkuru/13.webp",
+        "caption": "Great job!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/bikkuru/14.webp",
+        "caption": "Just a sec!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/bikkuru/15.webp",
+        "caption": "Sleep tight!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/bikkuru/16.webp",
+        "caption": "Talk soon!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49246074",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "poyorake",
+    "number": 91,
+    "name": "ぽよらけ",
+    "englishName": "Poyorake",
+    "tagline": "ぽよらけが仲間入り。",
+    "description": "ぽよらけの英語スタンプ16個。あいさつ、お礼、応援などの気持ちをユニークな動きで届けます。",
+    "color": "#ffd6c0",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A peach garden rake with a comb-shaped head and noodle arms."
+    ],
+    "main": "assets/characters-en/poyorake/03.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/poyorake/01.webp",
+        "caption": "Morning!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/poyorake/02.webp",
+        "caption": "You're the best!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/poyorake/03.webp",
+        "caption": "Rooting for you!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/poyorake/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/poyorake/05.webp",
+        "caption": "Be right there!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/poyorake/06.webp",
+        "caption": "Taking a breather"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/poyorake/07.webp",
+        "caption": "Love it!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/poyorake/08.webp",
+        "caption": "So sorry!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/poyorake/09.webp",
+        "caption": "Yummy!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/poyorake/10.webp",
+        "caption": "Big hugs!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/poyorake/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/poyorake/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/poyorake/13.webp",
+        "caption": "Great job!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/poyorake/14.webp",
+        "caption": "Just a sec!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/poyorake/15.webp",
+        "caption": "Sleep tight!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/poyorake/16.webp",
+        "caption": "Talk soon!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49246080",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "kurupeta",
+    "number": 92,
+    "name": "くるぺた",
+    "englishName": "Kurupeta",
+    "tagline": "くるぺたが仲間入り。",
+    "description": "くるぺたの英語スタンプ16個。あいさつ、お礼、応援などの気持ちをユニークな動きで届けます。",
+    "color": "#bde9e6",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A turquoise spinning top with a curly stem and big curious eyes."
+    ],
+    "main": "assets/characters-en/kurupeta/05.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/kurupeta/01.webp",
+        "caption": "Morning!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/kurupeta/02.webp",
+        "caption": "You're the best!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/kurupeta/03.webp",
+        "caption": "Rooting for you!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/kurupeta/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/kurupeta/05.webp",
+        "caption": "Be right there!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/kurupeta/06.webp",
+        "caption": "Taking a breather"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/kurupeta/07.webp",
+        "caption": "Love it!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/kurupeta/08.webp",
+        "caption": "So sorry!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/kurupeta/09.webp",
+        "caption": "Yummy!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/kurupeta/10.webp",
+        "caption": "Big hugs!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/kurupeta/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/kurupeta/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/kurupeta/13.webp",
+        "caption": "Great job!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/kurupeta/14.webp",
+        "caption": "Just a sec!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/kurupeta/15.webp",
+        "caption": "Sleep tight!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/kurupeta/16.webp",
+        "caption": "Talk soon!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49246083",
+    "availability": "coming-soon",
+    "releasedAsNew": true
+  },
+  {
+    "id": "nekorori",
+    "number": 93,
+    "name": "ねころり",
+    "englishName": "Nekorori",
+    "tagline": "ねころりが仲間入り。",
+    "description": "ねころりの英語スタンプ16個。あいさつ、お礼、応援などの気持ちをユニークな動きで届けます。",
+    "color": "#ffe7ad",
+    "group": "ぬるまる",
+    "temperament": "ふしぎ",
+    "traits": [
+      "A yellow paint roller with a sleepy face and a bendy handle body."
+    ],
+    "main": "assets/characters-en/nekorori/07.webp",
+    "stickers": [
+      {
+        "number": 1,
+        "src": "assets/characters-en/nekorori/01.webp",
+        "caption": "Morning!"
+      },
+      {
+        "number": 2,
+        "src": "assets/characters-en/nekorori/02.webp",
+        "caption": "You're the best!"
+      },
+      {
+        "number": 3,
+        "src": "assets/characters-en/nekorori/03.webp",
+        "caption": "Rooting for you!"
+      },
+      {
+        "number": 4,
+        "src": "assets/characters-en/nekorori/04.webp",
+        "caption": "No way!"
+      },
+      {
+        "number": 5,
+        "src": "assets/characters-en/nekorori/05.webp",
+        "caption": "Be right there!"
+      },
+      {
+        "number": 6,
+        "src": "assets/characters-en/nekorori/06.webp",
+        "caption": "Taking a breather"
+      },
+      {
+        "number": 7,
+        "src": "assets/characters-en/nekorori/07.webp",
+        "caption": "Love it!"
+      },
+      {
+        "number": 8,
+        "src": "assets/characters-en/nekorori/08.webp",
+        "caption": "So sorry!"
+      },
+      {
+        "number": 9,
+        "src": "assets/characters-en/nekorori/09.webp",
+        "caption": "Yummy!"
+      },
+      {
+        "number": 10,
+        "src": "assets/characters-en/nekorori/10.webp",
+        "caption": "Big hugs!"
+      },
+      {
+        "number": 11,
+        "src": "assets/characters-en/nekorori/11.webp",
+        "caption": "All set!"
+      },
+      {
+        "number": 12,
+        "src": "assets/characters-en/nekorori/12.webp",
+        "caption": "Maybe tomorrow"
+      },
+      {
+        "number": 13,
+        "src": "assets/characters-en/nekorori/13.webp",
+        "caption": "Great job!"
+      },
+      {
+        "number": 14,
+        "src": "assets/characters-en/nekorori/14.webp",
+        "caption": "Just a sec!"
+      },
+      {
+        "number": 15,
+        "src": "assets/characters-en/nekorori/15.webp",
+        "caption": "Sleep tight!"
+      },
+      {
+        "number": 16,
+        "src": "assets/characters-en/nekorori/16.webp",
+        "caption": "Talk soon!"
+      }
+    ],
+    "artworkLanguage": "en",
+    "storeUrl": null,
+    "japaneseStoreUrl": null,
+    "releaseStatus": "preparing",
+    "lineId": "49246084",
     "availability": "coming-soon",
     "releasedAsNew": true
   }
